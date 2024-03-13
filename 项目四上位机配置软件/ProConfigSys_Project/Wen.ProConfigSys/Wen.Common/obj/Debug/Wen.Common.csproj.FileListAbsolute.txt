@@ -1,0 +1,8 @@
+C:\学习文件\上位机配置软件\ProConfigSys_Project\Wen.ProConfigSys\Wen.Common\bin\Debug\Wen.Common.dll
+C:\学习文件\上位机配置软件\ProConfigSys_Project\Wen.ProConfigSys\Wen.Common\bin\Debug\Wen.Common.pdb
+C:\学习文件\上位机配置软件\ProConfigSys_Project\Wen.ProConfigSys\Wen.Common\obj\Debug\Wen.Common.csproj.AssemblyReference.cache
+C:\学习文件\上位机配置软件\ProConfigSys_Project\Wen.ProConfigSys\Wen.Common\obj\Debug\Wen.Common.csproj.CoreCompileInputs.cache
+C:\学习文件\上位机配置软件\ProConfigSys_Project\Wen.ProConfigSys\Wen.Common\obj\Debug\Wen.Common.dll
+C:\学习文件\上位机配置软件\ProConfigSys_Project\Wen.ProConfigSys\Wen.Common\obj\Debug\Wen.Common.pdb
+C:\学习文件\上位机配置软件\ProConfigSys_Project\Wen.ProConfigSys\Wen.Common\bin\Debug\Newtonsoft.Json.dll
+C:\学习文件\上位机配置软件\ProConfigSys_Project\Wen.ProConfigSys\Wen.Common\obj\Debug\Wen.Common.csproj.CopyComplete

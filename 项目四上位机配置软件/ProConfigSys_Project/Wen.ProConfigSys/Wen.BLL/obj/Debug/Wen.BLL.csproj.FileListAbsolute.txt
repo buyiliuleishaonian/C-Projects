@@ -1,0 +1,13 @@
+C:\学习文件\上位机配置软件\ProConfigSys_Project\Wen.ProConfigSys\Wen.BLL\bin\Debug\Wen.BLL.dll
+C:\学习文件\上位机配置软件\ProConfigSys_Project\Wen.ProConfigSys\Wen.BLL\bin\Debug\Wen.BLL.pdb
+C:\学习文件\上位机配置软件\ProConfigSys_Project\Wen.ProConfigSys\Wen.BLL\bin\Debug\Wen.DAL.dll
+C:\学习文件\上位机配置软件\ProConfigSys_Project\Wen.ProConfigSys\Wen.BLL\bin\Debug\Wen.Models.dll
+C:\学习文件\上位机配置软件\ProConfigSys_Project\Wen.ProConfigSys\Wen.BLL\bin\Debug\Wen.DAL.pdb
+C:\学习文件\上位机配置软件\ProConfigSys_Project\Wen.ProConfigSys\Wen.BLL\bin\Debug\Wen.Models.pdb
+C:\学习文件\上位机配置软件\ProConfigSys_Project\Wen.ProConfigSys\Wen.BLL\obj\Debug\Wen.BLL.csproj.AssemblyReference.cache
+C:\学习文件\上位机配置软件\ProConfigSys_Project\Wen.ProConfigSys\Wen.BLL\obj\Debug\Wen.BLL.csproj.CoreCompileInputs.cache
+C:\学习文件\上位机配置软件\ProConfigSys_Project\Wen.ProConfigSys\Wen.BLL\obj\Debug\Wen.BLL.csproj.CopyComplete
+C:\学习文件\上位机配置软件\ProConfigSys_Project\Wen.ProConfigSys\Wen.BLL\obj\Debug\Wen.BLL.dll
+C:\学习文件\上位机配置软件\ProConfigSys_Project\Wen.ProConfigSys\Wen.BLL\obj\Debug\Wen.BLL.pdb
+C:\学习文件\上位机配置软件\ProConfigSys_Project\Wen.ProConfigSys\Wen.BLL\bin\Debug\Wen.BLL.dll.config
+C:\学习文件\上位机配置软件\ProConfigSys_Project\Wen.ProConfigSys\Wen.BLL\bin\Debug\Wen.DAL.dll.config
