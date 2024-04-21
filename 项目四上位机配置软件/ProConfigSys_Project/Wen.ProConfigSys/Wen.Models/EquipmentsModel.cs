@@ -48,7 +48,7 @@ namespace Wen.Models
         /// <summary>
         /// 从站号
         /// </summary>
-        public string Seriablno { get; set; }= string.Empty;
+        public string Serialno { get; set; }= string.Empty;
         /// <summary>
         /// 波特率
         /// </summary>
@@ -97,6 +97,11 @@ namespace Wen.Models
         /// 项目名称
         /// </summary>
         public string ProjectName { get; set; }
+
+        /// <summary>
+        /// 设定通信组集合
+        /// </summary>
+        public List<CommunicationsgroupsModel> CGroupList { get; set; }=new List<CommunicationsgroupsModel>();
     }
 }
 

@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wen.Models", "Wen.Models\We
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wen.Common", "Wen.Common\Wen.Common.csproj", "{135B51F4-17FB-4B64-9FAC-E84B2D6C3824}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfigLib", "ConfigLib\ConfigLib.csproj", "{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{135B51F4-17FB-4B64-9FAC-E84B2D6C3824}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{135B51F4-17FB-4B64-9FAC-E84B2D6C3824}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{135B51F4-17FB-4B64-9FAC-E84B2D6C3824}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

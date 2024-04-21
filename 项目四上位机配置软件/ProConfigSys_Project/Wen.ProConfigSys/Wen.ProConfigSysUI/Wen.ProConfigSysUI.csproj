@@ -144,6 +144,10 @@
     <WCFMetadata Include="Connected Services\" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\ConfigLib\ConfigLib.csproj">
+      <Project>{6773cf01-944e-46cd-9ed5-ae26ade1e5b0}</Project>
+      <Name>ConfigLib</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Wen.BLL\Wen.BLL.csproj">
       <Project>{f852914e-b962-4d13-a1ef-373b7cc9cd7b}</Project>
       <Name>Wen.BLL</Name>

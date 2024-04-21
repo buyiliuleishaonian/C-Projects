@@ -22,6 +22,12 @@ namespace Wen.Models
         /// 项目名称
         /// </summary>
         public string Projectname { get; set; }
+
+        //扩展外键，一个项目——N个设备
+        /// <summary>
+        /// 设备集合
+        /// </summary>
+        public List<EquipmentsModel> EquipmentMoedelList { get; set; }=new List<EquipmentsModel>();
     }
 }
 

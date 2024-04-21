@@ -128,7 +128,7 @@ namespace MTHModels
                             //解除报警
                             AlarmTrigEvent?.Invoke(false, var);
                         }
-                        var.NegCacheValue= currentValue;
+                              var.NegCacheValue= currentValue;
                     }
                 }
             }

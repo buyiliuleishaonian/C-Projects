@@ -78,20 +78,6 @@
             this.toolStripSeparator3 = new System.Windows.Forms.ToolStripSeparator();
             this.tsml_Add_CGroup_OPC = new System.Windows.Forms.ToolStripMenuItem();
             this.dgv_EquipMnetProt_SerialNo = new System.Windows.Forms.DataGridView();
-            this.SN2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.EquipMentName2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.EtypeName2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.PtypeName2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.SeriableNo2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Baudrate2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.DataBit2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.ParityBit2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.StopBit2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.IsEnable2 = new System.Windows.Forms.DataGridViewCheckBoxColumn();
-            this.Comments2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Etypeid2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Ptypeid2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.EquipmentId2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.contextMenuStrip2 = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.tsml_Update_SerialPort = new System.Windows.Forms.ToolStripMenuItem();
             this.tsmi_delete_SerialEquipment = new System.Windows.Forms.ToolStripMenuItem();
@@ -137,11 +123,27 @@
             this.btnDeleteProject = new System.Windows.Forms.Button();
             this.btnUpdataProjectName = new System.Windows.Forms.Button();
             this.btnNewProject = new System.Windows.Forms.Button();
-            this.tabPage2 = new System.Windows.Forms.TabPage();
+            this.tal_faction = new System.Windows.Forms.TabPage();
+            this.richTextBox1 = new System.Windows.Forms.RichTextBox();
+            this.btn_SaveDeviceFile = new System.Windows.Forms.Button();
             this.statusStrip1 = new System.Windows.Forms.StatusStrip();
             this.toolStripStatusLabel1 = new System.Windows.Forms.ToolStripStatusLabel();
             this.toolStripStatusLabel2 = new System.Windows.Forms.ToolStripStatusLabel();
             this.tlbleUser = new System.Windows.Forms.ToolStripStatusLabel();
+            this.SN2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.EquipMentName2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.EtypeName2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.PtypeName2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.SeriableNo2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Baudrate2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.DataBit2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.ParityBit2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.StopBit2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.IsEnable2 = new System.Windows.Forms.DataGridViewCheckBoxColumn();
+            this.Comments2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Etypeid2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Ptypeid2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.EquipmentId2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
             this.groupBox3.SuspendLayout();
@@ -156,6 +158,7 @@
             this.groupBox2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvProjects)).BeginInit();
             this.groupBox1.SuspendLayout();
+            this.tal_faction.SuspendLayout();
             this.statusStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -163,7 +166,7 @@
             // 
             this.tabControl1.Appearance = System.Windows.Forms.TabAppearance.Buttons;
             this.tabControl1.Controls.Add(this.tabPage1);
-            this.tabControl1.Controls.Add(this.tabPage2);
+            this.tabControl1.Controls.Add(this.tal_faction);
             this.tabControl1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.tabControl1.Location = new System.Drawing.Point(0, 0);
             this.tabControl1.Name = "tabControl1";
@@ -603,108 +606,6 @@
             this.dgv_EquipMnetProt_SerialNo.TabIndex = 8;
             this.dgv_EquipMnetProt_SerialNo.Click += new System.EventHandler(this.dgv_EquipMnetProt_SerialNo_Click);
             this.dgv_EquipMnetProt_SerialNo.DoubleClick += new System.EventHandler(this.dgv_EquipMnetProt_SerialNo_DoubleClick);
-            // 
-            // SN2
-            // 
-            this.SN2.DataPropertyName = "SN";
-            this.SN2.HeaderText = "序号";
-            this.SN2.Name = "SN2";
-            this.SN2.Width = 50;
-            // 
-            // EquipMentName2
-            // 
-            this.EquipMentName2.DataPropertyName = "equipmentname";
-            this.EquipMentName2.HeaderText = "设备名称";
-            this.EquipMentName2.Name = "EquipMentName2";
-            this.EquipMentName2.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
-            // 
-            // EtypeName2
-            // 
-            this.EtypeName2.DataPropertyName = "etypename";
-            this.EtypeName2.HeaderText = "设备类型";
-            this.EtypeName2.Name = "EtypeName2";
-            this.EtypeName2.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
-            // 
-            // PtypeName2
-            // 
-            this.PtypeName2.DataPropertyName = "ptypename";
-            this.PtypeName2.HeaderText = "协议类型";
-            this.PtypeName2.Name = "PtypeName2";
-            this.PtypeName2.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
-            // 
-            // SeriableNo2
-            // 
-            this.SeriableNo2.DataPropertyName = "seriableno";
-            this.SeriableNo2.HeaderText = "串口号";
-            this.SeriableNo2.Name = "SeriableNo2";
-            this.SeriableNo2.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
-            // 
-            // Baudrate2
-            // 
-            this.Baudrate2.DataPropertyName = "baudrate";
-            this.Baudrate2.HeaderText = "波特率";
-            this.Baudrate2.Name = "Baudrate2";
-            this.Baudrate2.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
-            // 
-            // DataBit2
-            // 
-            this.DataBit2.DataPropertyName = "databit";
-            this.DataBit2.HeaderText = "数据位";
-            this.DataBit2.Name = "DataBit2";
-            this.DataBit2.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
-            this.DataBit2.Width = 60;
-            // 
-            // ParityBit2
-            // 
-            this.ParityBit2.DataPropertyName = "paritybit";
-            this.ParityBit2.HeaderText = "校验位";
-            this.ParityBit2.Name = "ParityBit2";
-            this.ParityBit2.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
-            this.ParityBit2.Width = 60;
-            // 
-            // StopBit2
-            // 
-            this.StopBit2.DataPropertyName = "stopbit";
-            this.StopBit2.HeaderText = "停止位";
-            this.StopBit2.Name = "StopBit2";
-            this.StopBit2.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
-            this.StopBit2.Width = 60;
-            // 
-            // IsEnable2
-            // 
-            this.IsEnable2.DataPropertyName = "isenable";
-            this.IsEnable2.HeaderText = "启用";
-            this.IsEnable2.Name = "IsEnable2";
-            // 
-            // Comments2
-            // 
-            this.Comments2.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
-            this.Comments2.DataPropertyName = "comments";
-            this.Comments2.HeaderText = "备注";
-            this.Comments2.Name = "Comments2";
-            this.Comments2.Resizable = System.Windows.Forms.DataGridViewTriState.True;
-            this.Comments2.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
-            // 
-            // Etypeid2
-            // 
-            this.Etypeid2.DataPropertyName = "etypeid";
-            this.Etypeid2.HeaderText = "Etypeid2";
-            this.Etypeid2.Name = "Etypeid2";
-            this.Etypeid2.Visible = false;
-            // 
-            // Ptypeid2
-            // 
-            this.Ptypeid2.DataPropertyName = "ptypeid";
-            this.Ptypeid2.HeaderText = "Ptypeid2";
-            this.Ptypeid2.Name = "Ptypeid2";
-            this.Ptypeid2.Visible = false;
-            // 
-            // EquipmentId2
-            // 
-            this.EquipmentId2.DataPropertyName = "equipmentid";
-            this.EquipmentId2.HeaderText = "Equipmentid2";
-            this.EquipmentId2.Name = "EquipmentId2";
-            this.EquipmentId2.Visible = false;
             // 
             // contextMenuStrip2
             // 
@@ -1161,16 +1062,36 @@
             this.btnNewProject.UseVisualStyleBackColor = true;
             this.btnNewProject.Click += new System.EventHandler(this.btnNewProject_Click);
             // 
-            // tabPage2
+            // tal_faction
             // 
-            this.tabPage2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.tabPage2.Location = new System.Drawing.Point(4, 31);
-            this.tabPage2.Name = "tabPage2";
-            this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage2.Size = new System.Drawing.Size(1791, 694);
-            this.tabPage2.TabIndex = 1;
-            this.tabPage2.Text = "功能扩展";
-            this.tabPage2.UseVisualStyleBackColor = true;
+            this.tal_faction.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.tal_faction.Controls.Add(this.richTextBox1);
+            this.tal_faction.Controls.Add(this.btn_SaveDeviceFile);
+            this.tal_faction.Location = new System.Drawing.Point(4, 31);
+            this.tal_faction.Name = "tal_faction";
+            this.tal_faction.Padding = new System.Windows.Forms.Padding(3);
+            this.tal_faction.Size = new System.Drawing.Size(1791, 694);
+            this.tal_faction.TabIndex = 1;
+            this.tal_faction.Text = "功能扩展";
+            this.tal_faction.UseVisualStyleBackColor = true;
+            // 
+            // richTextBox1
+            // 
+            this.richTextBox1.Location = new System.Drawing.Point(29, 71);
+            this.richTextBox1.Name = "richTextBox1";
+            this.richTextBox1.Size = new System.Drawing.Size(1341, 574);
+            this.richTextBox1.TabIndex = 1;
+            this.richTextBox1.Text = "";
+            // 
+            // btn_SaveDeviceFile
+            // 
+            this.btn_SaveDeviceFile.Location = new System.Drawing.Point(29, 30);
+            this.btn_SaveDeviceFile.Name = "btn_SaveDeviceFile";
+            this.btn_SaveDeviceFile.Size = new System.Drawing.Size(106, 35);
+            this.btn_SaveDeviceFile.TabIndex = 0;
+            this.btn_SaveDeviceFile.Text = "导出配置文件";
+            this.btn_SaveDeviceFile.UseVisualStyleBackColor = true;
+            this.btn_SaveDeviceFile.Click += new System.EventHandler(this.btn_SaveDeviceFile_Click);
             // 
             // statusStrip1
             // 
@@ -1205,6 +1126,108 @@
             this.tlbleUser.Size = new System.Drawing.Size(74, 22);
             this.tlbleUser.Text = "默认用户";
             // 
+            // SN2
+            // 
+            this.SN2.DataPropertyName = "SN";
+            this.SN2.HeaderText = "序号";
+            this.SN2.Name = "SN2";
+            this.SN2.Width = 50;
+            // 
+            // EquipMentName2
+            // 
+            this.EquipMentName2.DataPropertyName = "equipmentname";
+            this.EquipMentName2.HeaderText = "设备名称";
+            this.EquipMentName2.Name = "EquipMentName2";
+            this.EquipMentName2.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
+            // 
+            // EtypeName2
+            // 
+            this.EtypeName2.DataPropertyName = "etypename";
+            this.EtypeName2.HeaderText = "设备类型";
+            this.EtypeName2.Name = "EtypeName2";
+            this.EtypeName2.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
+            // 
+            // PtypeName2
+            // 
+            this.PtypeName2.DataPropertyName = "ptypename";
+            this.PtypeName2.HeaderText = "协议类型";
+            this.PtypeName2.Name = "PtypeName2";
+            this.PtypeName2.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
+            // 
+            // SeriableNo2
+            // 
+            this.SeriableNo2.DataPropertyName = "serialno";
+            this.SeriableNo2.HeaderText = "串口号";
+            this.SeriableNo2.Name = "SeriableNo2";
+            this.SeriableNo2.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
+            // 
+            // Baudrate2
+            // 
+            this.Baudrate2.DataPropertyName = "baudrate";
+            this.Baudrate2.HeaderText = "波特率";
+            this.Baudrate2.Name = "Baudrate2";
+            this.Baudrate2.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
+            // 
+            // DataBit2
+            // 
+            this.DataBit2.DataPropertyName = "databit";
+            this.DataBit2.HeaderText = "数据位";
+            this.DataBit2.Name = "DataBit2";
+            this.DataBit2.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
+            this.DataBit2.Width = 60;
+            // 
+            // ParityBit2
+            // 
+            this.ParityBit2.DataPropertyName = "paritybit";
+            this.ParityBit2.HeaderText = "校验位";
+            this.ParityBit2.Name = "ParityBit2";
+            this.ParityBit2.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
+            this.ParityBit2.Width = 60;
+            // 
+            // StopBit2
+            // 
+            this.StopBit2.DataPropertyName = "stopbit";
+            this.StopBit2.HeaderText = "停止位";
+            this.StopBit2.Name = "StopBit2";
+            this.StopBit2.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
+            this.StopBit2.Width = 60;
+            // 
+            // IsEnable2
+            // 
+            this.IsEnable2.DataPropertyName = "isenable";
+            this.IsEnable2.HeaderText = "启用";
+            this.IsEnable2.Name = "IsEnable2";
+            // 
+            // Comments2
+            // 
+            this.Comments2.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.Comments2.DataPropertyName = "comments";
+            this.Comments2.HeaderText = "备注";
+            this.Comments2.Name = "Comments2";
+            this.Comments2.Resizable = System.Windows.Forms.DataGridViewTriState.True;
+            this.Comments2.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
+            // 
+            // Etypeid2
+            // 
+            this.Etypeid2.DataPropertyName = "etypeid";
+            this.Etypeid2.HeaderText = "Etypeid2";
+            this.Etypeid2.Name = "Etypeid2";
+            this.Etypeid2.Visible = false;
+            // 
+            // Ptypeid2
+            // 
+            this.Ptypeid2.DataPropertyName = "ptypeid";
+            this.Ptypeid2.HeaderText = "Ptypeid2";
+            this.Ptypeid2.Name = "Ptypeid2";
+            this.Ptypeid2.Visible = false;
+            // 
+            // EquipmentId2
+            // 
+            this.EquipmentId2.DataPropertyName = "equipmentid";
+            this.EquipmentId2.HeaderText = "Equipmentid2";
+            this.EquipmentId2.Name = "EquipmentId2";
+            this.EquipmentId2.Visible = false;
+            // 
             // FrmMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 19F);
@@ -1236,6 +1259,7 @@
             this.groupBox2.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.dgvProjects)).EndInit();
             this.groupBox1.ResumeLayout(false);
+            this.tal_faction.ResumeLayout(false);
             this.statusStrip1.ResumeLayout(false);
             this.statusStrip1.PerformLayout();
             this.ResumeLayout(false);
@@ -1247,7 +1271,7 @@
 
         private System.Windows.Forms.TabControl tabControl1;
         private System.Windows.Forms.TabPage tabPage1;
-        private System.Windows.Forms.TabPage tabPage2;
+        private System.Windows.Forms.TabPage tal_faction;
         private System.Windows.Forms.GroupBox groupBox1;
         private System.Windows.Forms.DataGridView dgvProjects;
         private System.Windows.Forms.Button btnDeleteProject;
@@ -1290,20 +1314,6 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn SN;
         private System.Windows.Forms.DataGridViewTextBoxColumn ProjectName;
         private System.Windows.Forms.DataGridViewTextBoxColumn ProjectID;
-        private System.Windows.Forms.DataGridViewTextBoxColumn SN2;
-        private System.Windows.Forms.DataGridViewTextBoxColumn EquipMentName2;
-        private System.Windows.Forms.DataGridViewTextBoxColumn EtypeName2;
-        private System.Windows.Forms.DataGridViewTextBoxColumn PtypeName2;
-        private System.Windows.Forms.DataGridViewTextBoxColumn SeriableNo2;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Baudrate2;
-        private System.Windows.Forms.DataGridViewTextBoxColumn DataBit2;
-        private System.Windows.Forms.DataGridViewTextBoxColumn ParityBit2;
-        private System.Windows.Forms.DataGridViewTextBoxColumn StopBit2;
-        private System.Windows.Forms.DataGridViewCheckBoxColumn IsEnable2;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Comments2;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Etypeid2;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Ptypeid2;
-        private System.Windows.Forms.DataGridViewTextBoxColumn EquipmentId2;
         private System.Windows.Forms.DataGridViewTextBoxColumn SN1;
         private System.Windows.Forms.DataGridViewTextBoxColumn EquipmentName;
         private System.Windows.Forms.DataGridViewTextBoxColumn dataGridViewTextBoxColumn5;
@@ -1350,6 +1360,22 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn Variableid;
         private System.Windows.Forms.Button btn_ReadCSV;
         private System.Windows.Forms.Button btn_SaveCSV;
+        private System.Windows.Forms.Button btn_SaveDeviceFile;
+        private System.Windows.Forms.RichTextBox richTextBox1;
+        private System.Windows.Forms.DataGridViewTextBoxColumn SN2;
+        private System.Windows.Forms.DataGridViewTextBoxColumn EquipMentName2;
+        private System.Windows.Forms.DataGridViewTextBoxColumn EtypeName2;
+        private System.Windows.Forms.DataGridViewTextBoxColumn PtypeName2;
+        private System.Windows.Forms.DataGridViewTextBoxColumn SeriableNo2;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Baudrate2;
+        private System.Windows.Forms.DataGridViewTextBoxColumn DataBit2;
+        private System.Windows.Forms.DataGridViewTextBoxColumn ParityBit2;
+        private System.Windows.Forms.DataGridViewTextBoxColumn StopBit2;
+        private System.Windows.Forms.DataGridViewCheckBoxColumn IsEnable2;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Comments2;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Etypeid2;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Ptypeid2;
+        private System.Windows.Forms.DataGridViewTextBoxColumn EquipmentId2;
     }
 }
 

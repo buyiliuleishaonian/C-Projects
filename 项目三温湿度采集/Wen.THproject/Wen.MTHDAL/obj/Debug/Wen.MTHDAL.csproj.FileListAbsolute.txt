@@ -12,3 +12,17 @@ F:\备份\C#项目\项目三温湿度采集\Wen.THproject\Wen.MTHDAL\obj\Debug\W
 F:\备份\C#项目\项目三温湿度采集\Wen.THproject\Wen.MTHDAL\obj\Debug\Wen.MTHDAL.csproj.CopyComplete
 F:\备份\C#项目\项目三温湿度采集\Wen.THproject\Wen.MTHDAL\obj\Debug\Wen.MTHDAL.dll
 F:\备份\C#项目\项目三温湿度采集\Wen.THproject\Wen.MTHDAL\obj\Debug\Wen.MTHDAL.pdb
+C:\学习文件\C#项目\项目三温湿度采集\Wen.THproject\Wen.MTHDAL\bin\Debug\Wen.MTHDAL.dll
+C:\学习文件\C#项目\项目三温湿度采集\Wen.THproject\Wen.MTHDAL\bin\Debug\Wen.MTHDAL.pdb
+C:\学习文件\C#项目\项目三温湿度采集\Wen.THproject\Wen.MTHDAL\bin\Debug\MTHModels.dll
+C:\学习文件\C#项目\项目三温湿度采集\Wen.THproject\Wen.MTHDAL\bin\Debug\Wen.Common.dll
+C:\学习文件\C#项目\项目三温湿度采集\Wen.THproject\Wen.MTHDAL\bin\Debug\MiniExcel.dll
+C:\学习文件\C#项目\项目三温湿度采集\Wen.THproject\Wen.MTHDAL\bin\Debug\Newtonsoft.Json.dll
+C:\学习文件\C#项目\项目三温湿度采集\Wen.THproject\Wen.MTHDAL\bin\Debug\MTHModels.pdb
+C:\学习文件\C#项目\项目三温湿度采集\Wen.THproject\Wen.MTHDAL\bin\Debug\Wen.Common.pdb
+C:\学习文件\C#项目\项目三温湿度采集\Wen.THproject\Wen.MTHDAL\bin\Debug\Newtonsoft.Json.xml
+C:\学习文件\C#项目\项目三温湿度采集\Wen.THproject\Wen.MTHDAL\obj\Debug\Wen.MTHDAL.csproj.AssemblyReference.cache
+C:\学习文件\C#项目\项目三温湿度采集\Wen.THproject\Wen.MTHDAL\obj\Debug\Wen.MTHDAL.csproj.CoreCompileInputs.cache
+C:\学习文件\C#项目\项目三温湿度采集\Wen.THproject\Wen.MTHDAL\obj\Debug\Wen.MTHDAL.csproj.CopyComplete
+C:\学习文件\C#项目\项目三温湿度采集\Wen.THproject\Wen.MTHDAL\obj\Debug\Wen.MTHDAL.dll
+C:\学习文件\C#项目\项目三温湿度采集\Wen.THproject\Wen.MTHDAL\obj\Debug\Wen.MTHDAL.pdb

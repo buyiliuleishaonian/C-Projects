@@ -218,9 +218,10 @@
             this.cmbStopBit.FlatStyle = System.Windows.Forms.FlatStyle.System;
             this.cmbStopBit.FormattingEnabled = true;
             this.cmbStopBit.Items.AddRange(new object[] {
+            "0",
             "1",
             "2"});
-            this.cmbStopBit.Location = new System.Drawing.Point(839, 57);
+            this.cmbStopBit.Location = new System.Drawing.Point(866, 59);
             this.cmbStopBit.Name = "cmbStopBit";
             this.cmbStopBit.Size = new System.Drawing.Size(44, 34);
             this.cmbStopBit.TabIndex = 4;
@@ -229,7 +230,7 @@
             // 
             this.label11.AutoSize = true;
             this.label11.Font = new System.Drawing.Font("微软雅黑", 15F, System.Drawing.FontStyle.Bold);
-            this.label11.Location = new System.Drawing.Point(761, 64);
+            this.label11.Location = new System.Drawing.Point(771, 64);
             this.label11.Name = "label11";
             this.label11.Size = new System.Drawing.Size(92, 27);
             this.label11.TabIndex = 21;
@@ -241,16 +242,16 @@
             this.cmbParityBit.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cmbParityBit.FlatStyle = System.Windows.Forms.FlatStyle.System;
             this.cmbParityBit.FormattingEnabled = true;
-            this.cmbParityBit.Location = new System.Drawing.Point(695, 57);
+            this.cmbParityBit.Location = new System.Drawing.Point(679, 59);
             this.cmbParityBit.Name = "cmbParityBit";
-            this.cmbParityBit.Size = new System.Drawing.Size(46, 34);
+            this.cmbParityBit.Size = new System.Drawing.Size(86, 34);
             this.cmbParityBit.TabIndex = 3;
             // 
             // label10
             // 
             this.label10.AutoSize = true;
             this.label10.Font = new System.Drawing.Font("微软雅黑", 15F, System.Drawing.FontStyle.Bold);
-            this.label10.Location = new System.Drawing.Point(621, 64);
+            this.label10.Location = new System.Drawing.Point(597, 64);
             this.label10.Name = "label10";
             this.label10.Size = new System.Drawing.Size(92, 27);
             this.label10.TabIndex = 19;
@@ -263,8 +264,9 @@
             this.cmbDataBit.FlatStyle = System.Windows.Forms.FlatStyle.System;
             this.cmbDataBit.FormattingEnabled = true;
             this.cmbDataBit.Items.AddRange(new object[] {
-            "8"});
-            this.cmbDataBit.Location = new System.Drawing.Point(506, 57);
+            "8",
+            "7"});
+            this.cmbDataBit.Location = new System.Drawing.Point(486, 59);
             this.cmbDataBit.Name = "cmbDataBit";
             this.cmbDataBit.Size = new System.Drawing.Size(97, 34);
             this.cmbDataBit.TabIndex = 2;
@@ -273,7 +275,7 @@
             // 
             this.label9.AutoSize = true;
             this.label9.Font = new System.Drawing.Font("微软雅黑", 15F, System.Drawing.FontStyle.Bold);
-            this.label9.Location = new System.Drawing.Point(428, 64);
+            this.label9.Location = new System.Drawing.Point(395, 64);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(92, 27);
             this.label9.TabIndex = 17;
@@ -289,7 +291,7 @@
             "9600",
             "115200",
             "19200"});
-            this.cmbBaudRate.Location = new System.Drawing.Point(294, 57);
+            this.cmbBaudRate.Location = new System.Drawing.Point(277, 59);
             this.cmbBaudRate.Name = "cmbBaudRate";
             this.cmbBaudRate.Size = new System.Drawing.Size(112, 34);
             this.cmbBaudRate.TabIndex = 1;
@@ -298,7 +300,7 @@
             // 
             this.label7.AutoSize = true;
             this.label7.Font = new System.Drawing.Font("微软雅黑", 15F, System.Drawing.FontStyle.Bold);
-            this.label7.Location = new System.Drawing.Point(216, 64);
+            this.label7.Location = new System.Drawing.Point(199, 64);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(92, 27);
             this.label7.TabIndex = 15;
@@ -319,7 +321,7 @@
             "COM6",
             "COM7",
             "COM8"});
-            this.cmbSerialPort.Location = new System.Drawing.Point(96, 57);
+            this.cmbSerialPort.Location = new System.Drawing.Point(79, 59);
             this.cmbSerialPort.Name = "cmbSerialPort";
             this.cmbSerialPort.Size = new System.Drawing.Size(114, 34);
             this.cmbSerialPort.TabIndex = 0;
@@ -328,7 +330,7 @@
             // 
             this.label8.AutoSize = true;
             this.label8.Font = new System.Drawing.Font("微软雅黑", 15F, System.Drawing.FontStyle.Bold);
-            this.label8.Location = new System.Drawing.Point(18, 64);
+            this.label8.Location = new System.Drawing.Point(6, 64);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(92, 27);
             this.label8.TabIndex = 9;
@@ -444,7 +446,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 26F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1096, 733);
+            this.ClientSize = new System.Drawing.Size(1080, 733);
             this.Controls.Add(this.lblProject);
             this.Controls.Add(this.btnAddEquipeMents);
             this.Controls.Add(this.chkIsEnable);

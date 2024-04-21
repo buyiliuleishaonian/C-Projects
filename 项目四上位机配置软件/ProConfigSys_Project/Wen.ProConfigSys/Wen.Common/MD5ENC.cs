@@ -13,6 +13,7 @@ namespace Wen.Common
 
     public class MD5ENC
     {
+        #region MD5加密
         /// <summary>
         /// MD5加密
         /// </summary>
@@ -41,6 +42,6 @@ namespace Wen.Common
             }
             return newstr;
         }
-
+        #endregion
     }
 }

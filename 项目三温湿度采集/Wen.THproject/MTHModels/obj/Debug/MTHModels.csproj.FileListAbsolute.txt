@@ -12,3 +12,11 @@ F:\备份\C#项目\C-Project\项目三温湿度采集\Wen.THproject\MTHModels\ob
 F:\备份\C#项目\C-Project\项目三温湿度采集\Wen.THproject\MTHModels\obj\Debug\MTHModels.pdb
 F:\备份\C#项目\项目三温湿度采集\Wen.THproject\MTHModels\bin\Debug\MiniExcel.dll
 F:\备份\C#项目\项目三温湿度采集\Wen.THproject\MTHModels\obj\Debug\MTHModels.csproj.CopyComplete
+C:\学习文件\C#项目\项目三温湿度采集\Wen.THproject\MTHModels\bin\Debug\MTHModels.dll
+C:\学习文件\C#项目\项目三温湿度采集\Wen.THproject\MTHModels\bin\Debug\MTHModels.pdb
+C:\学习文件\C#项目\项目三温湿度采集\Wen.THproject\MTHModels\bin\Debug\MiniExcel.dll
+C:\学习文件\C#项目\项目三温湿度采集\Wen.THproject\MTHModels\obj\Debug\MTHModels.csproj.AssemblyReference.cache
+C:\学习文件\C#项目\项目三温湿度采集\Wen.THproject\MTHModels\obj\Debug\MTHModels.csproj.CoreCompileInputs.cache
+C:\学习文件\C#项目\项目三温湿度采集\Wen.THproject\MTHModels\obj\Debug\MTHModels.csproj.CopyComplete
+C:\学习文件\C#项目\项目三温湿度采集\Wen.THproject\MTHModels\obj\Debug\MTHModels.dll
+C:\学习文件\C#项目\项目三温湿度采集\Wen.THproject\MTHModels\obj\Debug\MTHModels.pdb

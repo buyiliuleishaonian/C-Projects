@@ -14,6 +14,9 @@ using Wen.BLL;
 using Wen.Common;
 using Wen.Models;
 
+
+using ConfigLib;
+
 namespace Wen.ProConfigSysUI
 {
 
@@ -68,7 +71,7 @@ namespace Wen.ProConfigSysUI
         /// <summary>
         /// 串口类型设备
         /// </summary>
-        public List<EquipmentsModel> equSeriabl = new List<EquipmentsModel>();
+        public List<EquipmentsModel> equSerial = new List<EquipmentsModel>();
 
         /// <summary>
         /// OPC类型涉笔
@@ -132,7 +135,7 @@ namespace Wen.ProConfigSysUI
         }
 
 
-        #region  暂时 项目的增删改（随着设备，通信组，变量编写，项目的增删改也会影响这些）
+        #region  项目的增删改（随着设备，通信组，变量编写，项目的增删改也会影响这些），在数据库中设定级联删除，就可以在删除父键的情况下删除自建
 
         /// <summary>
         /// 弹出项目创建的对话框，来实现
@@ -276,9 +279,9 @@ namespace Wen.ProConfigSysUI
                         break;
                     case 11:
                         equ.SN = this.dgv_EquipMnetProt_SerialNo.Rows.Count + 1;
-                        equSeriabl.Add(equ);
+                        equSerial.Add(equ);
                         this.dgv_EquipMnetProt_SerialNo.DataSource = null;
-                        this.dgv_EquipMnetProt_SerialNo.DataSource = equSeriabl;
+                        this.dgv_EquipMnetProt_SerialNo.DataSource = equSerial;
                         break;
                     case 12:
                         equ.SN = this.dgv_EquipMent_OPC.Rows.Count + 1;
@@ -289,6 +292,8 @@ namespace Wen.ProConfigSysUI
                     default:
                         break;
                 }
+                //在这里Project的外键List<EquipMentModel>也要得到对应添加
+                this.proList[this.dgvProjects.CurrentRow.Index].EquipmentMoedelList.Add(equ);
             }
         }
         #endregion
@@ -316,7 +321,7 @@ namespace Wen.ProConfigSysUI
         {
             if (this.dgv_EquipMnetProt_SerialNo.Rows.Count <= 0) return;
             int num = Convert.ToInt32(this.dgv_EquipMnetProt_SerialNo.CurrentRow.Cells["equipmentid2"].Value.ToString());
-            ShowUpdateEquipMent(this.dgv_EquipMnetProt_SerialNo, this.equSeriabl, num);
+            ShowUpdateEquipMent(this.dgv_EquipMnetProt_SerialNo, this.equSerial, num);
         }
 
         /// <summary>
@@ -341,18 +346,20 @@ namespace Wen.ProConfigSysUI
             if (this.dgvProjects.Rows.Count > 0)
             {
                 int num = Convert.ToInt32(this.dgvProjects.CurrentRow.Cells["projectid"].Value.ToString());
+
                 this.equDic = equBLL.QueryEquipments(num);
                 //需要同步将设备，通信组，列表清空
                 this.equIPAddRess.Clear();
-                this.equSeriabl.Clear();
+                this.equSerial.Clear();
                 this.equOPC.Clear();
+
                 for (int i = 0; i < equDic[10].Count; i++)
                 {
                     this.equIPAddRess.Add(equDic[10][i]);
                 }
                 for (int i = 0; i < equDic[11].Count; i++)
                 {
-                    this.equSeriabl.Add(equDic[11][i]);
+                    this.equSerial.Add(equDic[11][i]);
                 }
                 for (int i = 0; i < equDic[12].Count; i++)
                 {
@@ -366,7 +373,7 @@ namespace Wen.ProConfigSysUI
                 this.dgv_Variable.DataSource = null;
 
                 this.dgv_EquipMent_IPAddRess.DataSource = this.equIPAddRess;
-                this.dgv_EquipMnetProt_SerialNo.DataSource = this.equSeriabl;
+                this.dgv_EquipMnetProt_SerialNo.DataSource = this.equSerial;
                 this.dgv_EquipMent_OPC.DataSource = this.equOPC;
 
                 //取消默认选择第一行/第一个单元格
@@ -443,7 +450,7 @@ namespace Wen.ProConfigSysUI
         {
             if (this.dgv_EquipMnetProt_SerialNo.Rows.Count <= 0) return;
             int num = Convert.ToInt32(this.dgv_EquipMnetProt_SerialNo.CurrentRow.Cells["equipmentid2"].Value.ToString());
-            DeleteEquipMent(this.dgv_EquipMnetProt_SerialNo, this.equSeriabl, num);
+            DeleteEquipMent(this.dgv_EquipMnetProt_SerialNo, this.equSerial, num);
         }
         /// <summary>
         /// 删除OPC设备
@@ -1014,6 +1021,35 @@ namespace Wen.ProConfigSysUI
             {
                 string path= dlg.FileName;
                 MiniExcel.SaveAs(path,this.dgv_Variable.DataSource);
+            }
+        }
+
+        /// <summary>
+        /// 导出配置文件
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void btn_SaveDeviceFile_Click(object sender, EventArgs e)
+        {
+            SaveFileDialog saveFileDialog = new SaveFileDialog();
+            saveFileDialog.Filter="json文件|*.json|所有文件|*.*";
+            saveFileDialog.Title="配置文件";
+            saveFileDialog.DefaultExt = "json";
+            saveFileDialog.RestoreDirectory=true;
+
+            if (saveFileDialog.ShowDialog()==DialogResult.OK)
+            {
+                string path= saveFileDialog.FileName;
+                bool result=new ConfigManage().ExportProjects(path);
+                if (result)
+                {
+                    MessageBox.Show("配置文件", "导出成功", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                }
+                else
+                {
+                    MessageBox.Show("配置文件", "导出失败", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                }
+
             }
         }
     }

@@ -83,9 +83,9 @@ namespace Wen.DAL
         public int InsertEquipMent(EquipmentsModel model)
         {
             string sql = "insert into Equipments(ProjectID,EtypeID,PtypeID, " +
-                " EquipMentName,IpAddress,PortNo,SeriablNo,BaudRate,DataBit, " +
+                " EquipMentName,IpAddress,PortNo,Serialno,BaudRate,DataBit, " +
                 " ParityBit,StopBit,OPCNodeName,OPCserverName,IsEnable,Comments)";
-            sql += "values(@ProjectID,@EtypeID,@PtypeID,@EquipMentName,@IpAddress,@PortNo,@SeriablNo,@BaudRate,@DataBit," +
+            sql += "values(@ProjectID,@EtypeID,@PtypeID,@EquipMentName,@IpAddress,@PortNo,@Serialno,@BaudRate,@DataBit," +
                 " @ParityBit,@StopBit,@OPCNodeName,@OPCserverName,@IsEnable,@Comments) ;" +
                 " select @@identity";
             SqlParameter[] param = new SqlParameter[]
@@ -96,7 +96,7 @@ namespace Wen.DAL
                 new SqlParameter("@EquipMentName",model.EquipmentName),
                 new SqlParameter("@IpAddress",model.Ipaddress),
                 new SqlParameter("@PortNo",model.Portno),
-                new SqlParameter("@SeriablNo",model.Seriablno),
+                new SqlParameter("@Serialno",model.Serialno),
                 new SqlParameter("@BaudRate",model.Baudrate),
                 new SqlParameter("@DataBit",model.Databit),
                 new SqlParameter("@ParityBit",model.Paritybit),
@@ -141,7 +141,7 @@ namespace Wen.DAL
         {
             StringBuilder sql = new StringBuilder();
             sql.AppendLine("select Equipmentid,projectid,equipmenttype.etypeid,protocoltype.ptypeid,");
-            sql.AppendLine(" equipmentname,ipaddress,portno,seriablno,baudrate,databit,paritybit,stopbit,");
+            sql.AppendLine(" equipmentname,ipaddress,portno,Serialno,baudrate,databit,paritybit,stopbit,");
             sql.AppendLine(" opcnodename,opcservername,isenable,comments,etypename,ptypename");
             sql.AppendLine("from equipments");
             sql.AppendLine(" inner join  equipmenttype on equipmenttype.etypeid=equipments.etypeid");
@@ -195,7 +195,7 @@ namespace Wen.DAL
                             Etypeid = Convert.ToInt32(dr["etypeid"]),
                             Projectid = Convert.ToInt32(dr["projectid"]),
                             Ptypeid = Convert.ToInt32(dr["ptypeid"]),
-                            Seriablno = dr["seriablno"].ToString(),
+                            Serialno = dr["Serialno"].ToString(),
                             Baudrate = Convert.ToInt32(dr["baudrate"]),
                             Databit = Convert.ToInt32(dr["databit"]),
                             Paritybit = dr["paritybit"].ToString(),
@@ -244,7 +244,7 @@ namespace Wen.DAL
             sb.AppendLine("Update equipments");
             sb.AppendLine("  set equipmentname=@equipmentname,etypeid=@etypeid,ptypeid=@ptypeid,isenable=@isenable,comments=@comments,");
             sb.AppendLine(" ipaddress=@ipaddress,portno=@portno,");
-            sb.AppendLine(" seriablno=@seriablno,baudrate=@baudrate,databit=@databit,paritybit=@paritybit,stopbit=@stopbit,");
+            sb.AppendLine(" Serialno=@Serialno,baudrate=@baudrate,databit=@databit,paritybit=@paritybit,stopbit=@stopbit,");
             sb.AppendLine(" opcnodename=@opcnodename,opcservername=@opcservername ");
             sb.AppendLine(" where equipmentid=@equipmentid ");
             SqlParameter[] sqlparam = new SqlParameter[]
@@ -257,7 +257,7 @@ namespace Wen.DAL
                 new SqlParameter("@comments",model.Comments),
                 new SqlParameter("@ipaddress",model.Ipaddress),
                 new SqlParameter("@portno",model.Portno),
-                new SqlParameter("@seriablno",model.Seriablno),
+                new SqlParameter("@Serialno",model.Serialno),
                 new SqlParameter("@baudrate",model.Baudrate),
                 new SqlParameter("@databit",model.Databit),
                 new SqlParameter("@paritybit",model.Paritybit),
@@ -297,7 +297,7 @@ namespace Wen.DAL
         {
             EquipmentsModel equ = new EquipmentsModel();
             string sql = "select equipmentid,projects.ProjectID,EtypeID,PtypeID, " +
-               " EquipMentName,IpAddress,PortNo,SeriablNo,BaudRate,DataBit, " +
+               " EquipMentName,IpAddress,PortNo,Serialno,BaudRate,DataBit, " +
                " ParityBit,StopBit,OPCNodeName,OPCserverName,IsEnable,Comments,projectname" +
                " from equipments" +
                " inner join  projects on projects.projectid=equipments.projectid" +
@@ -318,7 +318,7 @@ namespace Wen.DAL
                     EquipmentName = read["equipmentname"].ToString(),
                     Ipaddress = read["ipaddress"].ToString(),
                     Portno = read["portno"].ToString(),
-                    Seriablno = read["seriablno"].ToString(),
+                    Serialno = read["Serialno"].ToString(),
                     Baudrate = Convert.ToInt32(read["baudrate"]),
                     Databit = Convert.ToInt32(read["databit"]),
                     Paritybit = read["paritybit"].ToString(),

@@ -1,0 +1,2 @@
+C:\学习文件\C#项目\上位机必备工具类\CommonHelper\CommonHelper\obj\Debug\CommonHelper.csproj.AssemblyReference.cache
+C:\学习文件\C#项目\上位机必备工具类\CommonHelper\CommonHelper\obj\Debug\CommonHelper.csproj.CoreCompileInputs.cache

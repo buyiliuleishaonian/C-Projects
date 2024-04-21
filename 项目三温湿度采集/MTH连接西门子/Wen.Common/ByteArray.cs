@@ -14,6 +14,25 @@ namespace Wen.Common
         //初始化，建立一个List<byte>的字段
         private List<byte>  list=new List<byte>();
 
+        /// <summary>
+        /// 索引器
+        /// </summary>
+        /// <param name="index"></param>
+        /// <returns></returns>
+        private byte this[int index]
+        {
+            get => list[index];
+            set => list[index] = value;
+        }
+
+        /// <summary>
+        /// 清空集合
+        /// </summary>
+        public void Clear()
+        {
+            list=new List<byte>();
+        }
+
         //通过这个类的一个属性得到在这个类建立的List<byte>集合
         /// <summary>
         /// List<byre>属性

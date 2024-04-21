@@ -49,6 +49,12 @@ namespace Wen.Models
         /// 设备类型名称
         /// </summary>
         public string EquipmentName { get; set; }
+
+
+        /// <summary>
+        /// 变量集合
+        /// </summary>
+        public List<VariablesModel> VarList { get; set; } = new List<VariablesModel>();
     }
 }
 

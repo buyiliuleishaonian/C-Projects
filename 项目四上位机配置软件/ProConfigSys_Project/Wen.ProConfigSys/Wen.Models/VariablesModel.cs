@@ -78,6 +78,8 @@ namespace Wen.Models
         /// ±¸×¢
         /// </summary>
         public string Comments { get; set; }
+
+
     }
 }
 

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.IO.Ports;
 using System.Linq;
 using System.Reflection;
 using System.Text;
@@ -44,7 +45,7 @@ namespace Wen.ProConfigSysUI
         /// <summary>
         /// 串口连接的校验位
         /// </summary>
-        public string[] parityItems = new string[] { "N", "0", "1" };
+        public string[] parityItems = new string[] { "None", "Odd", "Even","Mark","Space" };
 
         /// <summary>
         /// 窗体标志位，判断是添加还是修改
@@ -92,7 +93,7 @@ namespace Wen.ProConfigSysUI
                     this.txtPortNo.Text = model.Portno;
                     break;
                 case 11:
-                    this.cmbSerialPort.Text = model.Seriablno;
+                    this.cmbSerialPort.Text = model.Serialno;
                     this.cmbBaudRate.Text = model.Baudrate.ToString();
                     this.cmbDataBit.Text=model.Databit.ToString();
                     this.cmbParityBit.Text=model.Paritybit.ToString();
@@ -322,7 +323,7 @@ namespace Wen.ProConfigSysUI
                             this.cmbStopBit.Focus();
                             return;
                         }
-                        model.Seriablno = this.cmbSerialPort.Text;
+                        model.Serialno = this.cmbSerialPort.Text;
                         model.Baudrate = Convert.ToInt32(this.cmbBaudRate.Text);
                         model.Databit = Convert.ToInt32(this.cmbDataBit.Text);
                         model.Paritybit = this.cmbParityBit.Text;
@@ -422,7 +423,7 @@ namespace Wen.ProConfigSysUI
                             this.cmbStopBit.Focus();
                             return;
                         }
-                        model.Seriablno = this.cmbSerialPort.Text;
+                        model.Serialno = this.cmbSerialPort.Text;
                         model.Baudrate = Convert.ToInt32(this.cmbBaudRate.Text);
                         model.Databit = Convert.ToInt32(this.cmbDataBit.Text);
                         model.Paritybit = this.cmbParityBit.Text;
@@ -474,6 +475,7 @@ namespace Wen.ProConfigSysUI
             //修改对象
             else
             {
+                model.Equipmentid = this.equ.Equipmentid;
                 if (equipMentBll.IsRepareForUpdate(model.EquipmentName,model.Projectid,model.Equipmentid))
                 {
                     MessageBox.Show("修改的设备名，已存在","提示信息",MessageBoxButtons.OK);
@@ -481,7 +483,6 @@ namespace Wen.ProConfigSysUI
                     this.txtEquipMentName.Focus();
                     return;
                 }
-                model.Equipmentid = this.equ.Equipmentid;
                 UpdateModel(model);
             }
         }
