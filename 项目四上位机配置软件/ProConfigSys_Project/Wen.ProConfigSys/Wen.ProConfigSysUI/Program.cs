@@ -26,6 +26,8 @@ namespace Wen.ProConfigSysUI
             //string connectString2=Common.StringSecurity.DESEncrypt(connectString1);
             //string connectString3=Common.StringSecurity.DESDecrypt(connectString2);
             //显示登录窗体
+            //导入配置文件
+
             FrmAdminLogin frmAdminLogin = new FrmAdminLogin();
             if (frmAdminLogin.ShowDialog()==DialogResult.OK)
             {

@@ -28,6 +28,7 @@ namespace Wen.ProConfigSysUI
     /// </summary>
     /// <param name="model"></param>
     public delegate void SendUpdateVariable(VariablesModel model);
+
     public partial class FrmVariableAdd : Form
     {
         //2、创建委托属性
@@ -142,6 +143,11 @@ namespace Wen.ProConfigSysUI
             this.Var = model;
         }
 
+        /// <summary>
+        /// 添加对象
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void btn_AddVariable_Click(object sender, EventArgs e)
         {
             //数据验证
@@ -251,6 +257,7 @@ namespace Wen.ProConfigSysUI
                     SendVariable(this.Var);
                 }
             }
+            //修改对象
             else
             {
                 if (this.VariableBLL.IsRefareforUpdate(this.Var.Cgid, this.Var.Variableid, this.Var.Variablename))
@@ -280,6 +287,7 @@ namespace Wen.ProConfigSysUI
                 this.txt_AlarmMax.Enabled = true;
                 this.txt_AlarmMaxNode.BackColor = Color.White;
                 this.txt_AlarmMaxNode.Enabled = true;
+                this.txt_AlarmMaxNode.Text=this.txt_Comments.Text+"报警上限";
             }
             else
             {
@@ -287,6 +295,7 @@ namespace Wen.ProConfigSysUI
                 this.txt_AlarmMax.Enabled = false;
                 this.txt_AlarmMaxNode.BackColor = Color.Green;
                 this.txt_AlarmMaxNode.Enabled = false;
+                this.txt_AlarmMaxNode.Text=null;
             }
         }
 
@@ -303,6 +312,7 @@ namespace Wen.ProConfigSysUI
                 this.txt_AlarmMin.Enabled = true;
                 this.txt_AlarmMinNode.BackColor = Color.White;
                 this.txt_AlarmMinNode.Enabled = true;
+                this.txt_AlarmMinNode.Text=this.txt_Comments.Text+"报警下限";
             }
             else
             {
@@ -310,6 +320,7 @@ namespace Wen.ProConfigSysUI
                 this.txt_AlarmMin.Enabled = false;
                 this.txt_AlarmMinNode.BackColor = Color.Green;
                 this.txt_AlarmMinNode.Enabled = false;
+                this.txt_AlarmMinNode.Text=null;
             }
         }
     }

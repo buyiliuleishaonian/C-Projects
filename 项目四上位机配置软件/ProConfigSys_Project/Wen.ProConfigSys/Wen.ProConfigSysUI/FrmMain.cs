@@ -16,6 +16,7 @@ using Wen.Models;
 
 
 using ConfigLib;
+using System.IO;
 
 namespace Wen.ProConfigSysUI
 {
@@ -788,7 +789,8 @@ namespace Wen.ProConfigSysUI
         /// <param name="model"></param>
         private void ReceiveInsertVariable(VariablesModel model)
         {
-            VarList.Add(model);
+            VarList=null;
+            VarList=Variablebll.QueryVariable(model.Cgid);
             this.dgv_Variable.DataSource = null;
             this.dgv_Variable.DataSource = VarList;
         }
@@ -995,7 +997,8 @@ namespace Wen.ProConfigSysUI
                 }
                 if (Variablebll.InsertVariables(varList))
                 {
-                    this.VarList.AddRange(varList);
+                    this.VarList=null;
+                    this.VarList = this.Variablebll.QueryVariable(Convert.ToInt32(this.dgv_CG.CurrentRow.Cells["CGID"].Value));
                     this.dgv_Variable.DataSource = null;
                     for (int i = 0; i <this.VarList.Count; i++) 
                     {
@@ -1040,10 +1043,14 @@ namespace Wen.ProConfigSysUI
             if (saveFileDialog.ShowDialog()==DialogResult.OK)
             {
                 string path= saveFileDialog.FileName;
-                bool result=new ConfigManage().ExportProjects(path);
+                string projectName = this.dgvProjects.CurrentRow.Cells["ProjectName"].Value.ToString();
+                bool result=new ConfigManage().ExportProjects(path,projectName);
                 if (result)
                 {
                     MessageBox.Show("配置文件", "导出成功", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    this.rtb.Text=null;
+                    this.rtb.Text=File.ReadAllText(path);
+                    
                 }
                 else
                 {

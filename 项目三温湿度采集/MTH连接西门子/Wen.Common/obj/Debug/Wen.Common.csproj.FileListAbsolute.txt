@@ -18,3 +18,13 @@ F:\桌面\MTH连接西门子\Wen.Common\obj\Debug\Wen.Common.csproj.CoreCompileI
 F:\桌面\MTH连接西门子\Wen.Common\obj\Debug\Wen.Common.csproj.CopyComplete
 F:\桌面\MTH连接西门子\Wen.Common\obj\Debug\Wen.Common.dll
 F:\桌面\MTH连接西门子\Wen.Common\obj\Debug\Wen.Common.pdb
+C:\学习文件\C#项目\项目三温湿度采集\MTH连接西门子\Wen.Common\bin\Debug\Wen.Common.dll
+C:\学习文件\C#项目\项目三温湿度采集\MTH连接西门子\Wen.Common\bin\Debug\Wen.Common.pdb
+C:\学习文件\C#项目\项目三温湿度采集\MTH连接西门子\Wen.Common\bin\Debug\MiniExcel.dll
+C:\学习文件\C#项目\项目三温湿度采集\MTH连接西门子\Wen.Common\bin\Debug\Newtonsoft.Json.dll
+C:\学习文件\C#项目\项目三温湿度采集\MTH连接西门子\Wen.Common\bin\Debug\Newtonsoft.Json.xml
+C:\学习文件\C#项目\项目三温湿度采集\MTH连接西门子\Wen.Common\obj\Debug\Wen.Common.csproj.AssemblyReference.cache
+C:\学习文件\C#项目\项目三温湿度采集\MTH连接西门子\Wen.Common\obj\Debug\Wen.Common.csproj.CoreCompileInputs.cache
+C:\学习文件\C#项目\项目三温湿度采集\MTH连接西门子\Wen.Common\obj\Debug\Wen.Common.csproj.CopyComplete
+C:\学习文件\C#项目\项目三温湿度采集\MTH连接西门子\Wen.Common\obj\Debug\Wen.Common.dll
+C:\学习文件\C#项目\项目三温湿度采集\MTH连接西门子\Wen.Common\obj\Debug\Wen.Common.pdb

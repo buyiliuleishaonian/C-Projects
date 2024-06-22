@@ -46,20 +46,6 @@
             this.btn_UpdateVariable = new System.Windows.Forms.Button();
             this.btn_AddVariabl = new System.Windows.Forms.Button();
             this.dgv_Variable = new System.Windows.Forms.DataGridView();
-            this.SN5 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.VariableName = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.StartAddRess1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.DataType = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.IsMaxAlarm = new System.Windows.Forms.DataGridViewCheckBoxColumn();
-            this.ALarmMax = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.AlarmMaxNode = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.IsMinAlarm = new System.Windows.Forms.DataGridViewCheckBoxColumn();
-            this.AlarmMin = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.AlarmMinNode = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Scale = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Isfile = new System.Windows.Forms.DataGridViewCheckBoxColumn();
-            this.Comments5 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Variableid = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.dgv_EquipMent_OPC = new System.Windows.Forms.DataGridView();
             this.SN3 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.EquipmentName3 = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -78,6 +64,20 @@
             this.toolStripSeparator3 = new System.Windows.Forms.ToolStripSeparator();
             this.tsml_Add_CGroup_OPC = new System.Windows.Forms.ToolStripMenuItem();
             this.dgv_EquipMnetProt_SerialNo = new System.Windows.Forms.DataGridView();
+            this.SN2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.EquipMentName2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.EtypeName2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.PtypeName2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.SeriableNo2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Baudrate2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.DataBit2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.ParityBit2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.StopBit2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.IsEnable2 = new System.Windows.Forms.DataGridViewCheckBoxColumn();
+            this.Comments2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Etypeid2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Ptypeid2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.EquipmentId2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.contextMenuStrip2 = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.tsml_Update_SerialPort = new System.Windows.Forms.ToolStripMenuItem();
             this.tsmi_delete_SerialEquipment = new System.Windows.Forms.ToolStripMenuItem();
@@ -124,26 +124,27 @@
             this.btnUpdataProjectName = new System.Windows.Forms.Button();
             this.btnNewProject = new System.Windows.Forms.Button();
             this.tal_faction = new System.Windows.Forms.TabPage();
-            this.richTextBox1 = new System.Windows.Forms.RichTextBox();
+            this.rtb = new System.Windows.Forms.RichTextBox();
             this.btn_SaveDeviceFile = new System.Windows.Forms.Button();
             this.statusStrip1 = new System.Windows.Forms.StatusStrip();
             this.toolStripStatusLabel1 = new System.Windows.Forms.ToolStripStatusLabel();
             this.toolStripStatusLabel2 = new System.Windows.Forms.ToolStripStatusLabel();
             this.tlbleUser = new System.Windows.Forms.ToolStripStatusLabel();
-            this.SN2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.EquipMentName2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.EtypeName2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.PtypeName2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.SeriableNo2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Baudrate2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.DataBit2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.ParityBit2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.StopBit2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.IsEnable2 = new System.Windows.Forms.DataGridViewCheckBoxColumn();
-            this.Comments2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Etypeid2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Ptypeid2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.EquipmentId2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.SN5 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.VariableName = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.StartAddRess1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.DataType = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.IsMaxAlarm = new System.Windows.Forms.DataGridViewCheckBoxColumn();
+            this.ALarmMax = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.AlarmMaxNode = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.IsMinAlarm = new System.Windows.Forms.DataGridViewCheckBoxColumn();
+            this.AlarmMin = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.AlarmMinNode = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Scale = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Offsetorlength = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Isfile = new System.Windows.Forms.DataGridViewCheckBoxColumn();
+            this.Comments5 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Variableid = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
             this.groupBox3.SuspendLayout();
@@ -302,6 +303,7 @@
             this.AlarmMin,
             this.AlarmMinNode,
             this.Scale,
+            this.Offsetorlength,
             this.Isfile,
             this.Comments5,
             this.Variableid});
@@ -309,114 +311,10 @@
             this.dgv_Variable.Name = "dgv_Variable";
             this.dgv_Variable.RowHeadersVisible = false;
             this.dgv_Variable.RowTemplate.Height = 23;
-            this.dgv_Variable.ScrollBars = System.Windows.Forms.ScrollBars.Horizontal;
             this.dgv_Variable.Size = new System.Drawing.Size(832, 595);
             this.dgv_Variable.TabIndex = 10;
             this.dgv_Variable.Paint += new System.Windows.Forms.PaintEventHandler(this.dgv_Variable_Paint);
             this.dgv_Variable.DoubleClick += new System.EventHandler(this.dgv_Variable_DoubleClick);
-            // 
-            // SN5
-            // 
-            this.SN5.DataPropertyName = "sn";
-            this.SN5.Frozen = true;
-            this.SN5.HeaderText = "序号";
-            this.SN5.Name = "SN5";
-            this.SN5.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
-            this.SN5.Width = 50;
-            // 
-            // VariableName
-            // 
-            this.VariableName.DataPropertyName = "VariableName";
-            this.VariableName.Frozen = true;
-            this.VariableName.HeaderText = "变量名";
-            this.VariableName.Name = "VariableName";
-            this.VariableName.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
-            this.VariableName.Width = 70;
-            // 
-            // StartAddRess1
-            // 
-            this.StartAddRess1.DataPropertyName = "StartAddress";
-            this.StartAddRess1.Frozen = true;
-            this.StartAddRess1.HeaderText = "起始地址";
-            this.StartAddRess1.Name = "StartAddRess1";
-            this.StartAddRess1.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
-            this.StartAddRess1.Width = 80;
-            // 
-            // DataType
-            // 
-            this.DataType.DataPropertyName = "DataType";
-            this.DataType.Frozen = true;
-            this.DataType.HeaderText = "数据类型";
-            this.DataType.Name = "DataType";
-            this.DataType.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
-            this.DataType.Width = 80;
-            // 
-            // IsMaxAlarm
-            // 
-            this.IsMaxAlarm.DataPropertyName = "IsMaxAlarm";
-            this.IsMaxAlarm.HeaderText = "上限值报警";
-            this.IsMaxAlarm.Name = "IsMaxAlarm";
-            // 
-            // ALarmMax
-            // 
-            this.ALarmMax.HeaderText = "上限值";
-            this.ALarmMax.Name = "ALarmMax";
-            this.ALarmMax.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
-            this.ALarmMax.Width = 60;
-            // 
-            // AlarmMaxNode
-            // 
-            this.AlarmMaxNode.DataPropertyName = "AlarmMaxNode";
-            this.AlarmMaxNode.HeaderText = "上限报警说明";
-            this.AlarmMaxNode.Name = "AlarmMaxNode";
-            // 
-            // IsMinAlarm
-            // 
-            this.IsMinAlarm.DataPropertyName = "ISAlarmMin";
-            this.IsMinAlarm.HeaderText = "下限值报警";
-            this.IsMinAlarm.Name = "IsMinAlarm";
-            // 
-            // AlarmMin
-            // 
-            this.AlarmMin.DataPropertyName = "AlarmMin";
-            this.AlarmMin.HeaderText = "下限值";
-            this.AlarmMin.Name = "AlarmMin";
-            this.AlarmMin.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
-            this.AlarmMin.Width = 70;
-            // 
-            // AlarmMinNode
-            // 
-            this.AlarmMinNode.DataPropertyName = "AlarmMinNode";
-            this.AlarmMinNode.HeaderText = "下限报警说明";
-            this.AlarmMinNode.Name = "AlarmMinNode";
-            // 
-            // Scale
-            // 
-            this.Scale.HeaderText = "线性系数";
-            this.Scale.Name = "Scale";
-            this.Scale.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
-            this.Scale.Width = 80;
-            // 
-            // Isfile
-            // 
-            this.Isfile.DataPropertyName = "IsFile";
-            this.Isfile.HeaderText = "归档";
-            this.Isfile.Name = "Isfile";
-            this.Isfile.Width = 50;
-            // 
-            // Comments5
-            // 
-            this.Comments5.DataPropertyName = "Comments";
-            this.Comments5.HeaderText = "备注";
-            this.Comments5.Name = "Comments5";
-            this.Comments5.Width = 150;
-            // 
-            // Variableid
-            // 
-            this.Variableid.DataPropertyName = "variableid";
-            this.Variableid.HeaderText = "变量ID";
-            this.Variableid.Name = "Variableid";
-            this.Variableid.Visible = false;
             // 
             // dgv_EquipMent_OPC
             // 
@@ -606,6 +504,108 @@
             this.dgv_EquipMnetProt_SerialNo.TabIndex = 8;
             this.dgv_EquipMnetProt_SerialNo.Click += new System.EventHandler(this.dgv_EquipMnetProt_SerialNo_Click);
             this.dgv_EquipMnetProt_SerialNo.DoubleClick += new System.EventHandler(this.dgv_EquipMnetProt_SerialNo_DoubleClick);
+            // 
+            // SN2
+            // 
+            this.SN2.DataPropertyName = "SN";
+            this.SN2.HeaderText = "序号";
+            this.SN2.Name = "SN2";
+            this.SN2.Width = 50;
+            // 
+            // EquipMentName2
+            // 
+            this.EquipMentName2.DataPropertyName = "equipmentname";
+            this.EquipMentName2.HeaderText = "设备名称";
+            this.EquipMentName2.Name = "EquipMentName2";
+            this.EquipMentName2.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
+            // 
+            // EtypeName2
+            // 
+            this.EtypeName2.DataPropertyName = "etypename";
+            this.EtypeName2.HeaderText = "设备类型";
+            this.EtypeName2.Name = "EtypeName2";
+            this.EtypeName2.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
+            // 
+            // PtypeName2
+            // 
+            this.PtypeName2.DataPropertyName = "ptypename";
+            this.PtypeName2.HeaderText = "协议类型";
+            this.PtypeName2.Name = "PtypeName2";
+            this.PtypeName2.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
+            // 
+            // SeriableNo2
+            // 
+            this.SeriableNo2.DataPropertyName = "serialno";
+            this.SeriableNo2.HeaderText = "串口号";
+            this.SeriableNo2.Name = "SeriableNo2";
+            this.SeriableNo2.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
+            // 
+            // Baudrate2
+            // 
+            this.Baudrate2.DataPropertyName = "baudrate";
+            this.Baudrate2.HeaderText = "波特率";
+            this.Baudrate2.Name = "Baudrate2";
+            this.Baudrate2.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
+            // 
+            // DataBit2
+            // 
+            this.DataBit2.DataPropertyName = "databit";
+            this.DataBit2.HeaderText = "数据位";
+            this.DataBit2.Name = "DataBit2";
+            this.DataBit2.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
+            this.DataBit2.Width = 60;
+            // 
+            // ParityBit2
+            // 
+            this.ParityBit2.DataPropertyName = "paritybit";
+            this.ParityBit2.HeaderText = "校验位";
+            this.ParityBit2.Name = "ParityBit2";
+            this.ParityBit2.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
+            this.ParityBit2.Width = 60;
+            // 
+            // StopBit2
+            // 
+            this.StopBit2.DataPropertyName = "stopbit";
+            this.StopBit2.HeaderText = "停止位";
+            this.StopBit2.Name = "StopBit2";
+            this.StopBit2.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
+            this.StopBit2.Width = 60;
+            // 
+            // IsEnable2
+            // 
+            this.IsEnable2.DataPropertyName = "isenable";
+            this.IsEnable2.HeaderText = "启用";
+            this.IsEnable2.Name = "IsEnable2";
+            // 
+            // Comments2
+            // 
+            this.Comments2.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.Comments2.DataPropertyName = "comments";
+            this.Comments2.HeaderText = "备注";
+            this.Comments2.Name = "Comments2";
+            this.Comments2.Resizable = System.Windows.Forms.DataGridViewTriState.True;
+            this.Comments2.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
+            // 
+            // Etypeid2
+            // 
+            this.Etypeid2.DataPropertyName = "etypeid";
+            this.Etypeid2.HeaderText = "Etypeid2";
+            this.Etypeid2.Name = "Etypeid2";
+            this.Etypeid2.Visible = false;
+            // 
+            // Ptypeid2
+            // 
+            this.Ptypeid2.DataPropertyName = "ptypeid";
+            this.Ptypeid2.HeaderText = "Ptypeid2";
+            this.Ptypeid2.Name = "Ptypeid2";
+            this.Ptypeid2.Visible = false;
+            // 
+            // EquipmentId2
+            // 
+            this.EquipmentId2.DataPropertyName = "equipmentid";
+            this.EquipmentId2.HeaderText = "Equipmentid2";
+            this.EquipmentId2.Name = "EquipmentId2";
+            this.EquipmentId2.Visible = false;
             // 
             // contextMenuStrip2
             // 
@@ -1065,7 +1065,7 @@
             // tal_faction
             // 
             this.tal_faction.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.tal_faction.Controls.Add(this.richTextBox1);
+            this.tal_faction.Controls.Add(this.rtb);
             this.tal_faction.Controls.Add(this.btn_SaveDeviceFile);
             this.tal_faction.Location = new System.Drawing.Point(4, 31);
             this.tal_faction.Name = "tal_faction";
@@ -1075,13 +1075,13 @@
             this.tal_faction.Text = "功能扩展";
             this.tal_faction.UseVisualStyleBackColor = true;
             // 
-            // richTextBox1
+            // rtb
             // 
-            this.richTextBox1.Location = new System.Drawing.Point(29, 71);
-            this.richTextBox1.Name = "richTextBox1";
-            this.richTextBox1.Size = new System.Drawing.Size(1341, 574);
-            this.richTextBox1.TabIndex = 1;
-            this.richTextBox1.Text = "";
+            this.rtb.Location = new System.Drawing.Point(29, 71);
+            this.rtb.Name = "rtb";
+            this.rtb.Size = new System.Drawing.Size(1341, 574);
+            this.rtb.TabIndex = 1;
+            this.rtb.Text = "";
             // 
             // btn_SaveDeviceFile
             // 
@@ -1126,107 +1126,116 @@
             this.tlbleUser.Size = new System.Drawing.Size(74, 22);
             this.tlbleUser.Text = "默认用户";
             // 
-            // SN2
+            // SN5
             // 
-            this.SN2.DataPropertyName = "SN";
-            this.SN2.HeaderText = "序号";
-            this.SN2.Name = "SN2";
-            this.SN2.Width = 50;
+            this.SN5.DataPropertyName = "sn";
+            this.SN5.Frozen = true;
+            this.SN5.HeaderText = "序号";
+            this.SN5.Name = "SN5";
+            this.SN5.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
+            this.SN5.Width = 50;
             // 
-            // EquipMentName2
+            // VariableName
             // 
-            this.EquipMentName2.DataPropertyName = "equipmentname";
-            this.EquipMentName2.HeaderText = "设备名称";
-            this.EquipMentName2.Name = "EquipMentName2";
-            this.EquipMentName2.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
+            this.VariableName.DataPropertyName = "VariableName";
+            this.VariableName.Frozen = true;
+            this.VariableName.HeaderText = "变量名";
+            this.VariableName.Name = "VariableName";
+            this.VariableName.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
+            this.VariableName.Width = 70;
             // 
-            // EtypeName2
+            // StartAddRess1
             // 
-            this.EtypeName2.DataPropertyName = "etypename";
-            this.EtypeName2.HeaderText = "设备类型";
-            this.EtypeName2.Name = "EtypeName2";
-            this.EtypeName2.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
+            this.StartAddRess1.DataPropertyName = "StartAddress";
+            this.StartAddRess1.Frozen = true;
+            this.StartAddRess1.HeaderText = "起始地址";
+            this.StartAddRess1.Name = "StartAddRess1";
+            this.StartAddRess1.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
+            this.StartAddRess1.Width = 80;
             // 
-            // PtypeName2
+            // DataType
             // 
-            this.PtypeName2.DataPropertyName = "ptypename";
-            this.PtypeName2.HeaderText = "协议类型";
-            this.PtypeName2.Name = "PtypeName2";
-            this.PtypeName2.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
+            this.DataType.DataPropertyName = "DataType";
+            this.DataType.Frozen = true;
+            this.DataType.HeaderText = "数据类型";
+            this.DataType.Name = "DataType";
+            this.DataType.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
+            this.DataType.Width = 80;
             // 
-            // SeriableNo2
+            // IsMaxAlarm
             // 
-            this.SeriableNo2.DataPropertyName = "serialno";
-            this.SeriableNo2.HeaderText = "串口号";
-            this.SeriableNo2.Name = "SeriableNo2";
-            this.SeriableNo2.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
+            this.IsMaxAlarm.DataPropertyName = "IsMaxAlarm";
+            this.IsMaxAlarm.HeaderText = "上限值报警";
+            this.IsMaxAlarm.Name = "IsMaxAlarm";
             // 
-            // Baudrate2
+            // ALarmMax
             // 
-            this.Baudrate2.DataPropertyName = "baudrate";
-            this.Baudrate2.HeaderText = "波特率";
-            this.Baudrate2.Name = "Baudrate2";
-            this.Baudrate2.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
+            this.ALarmMax.DataPropertyName = "ALarmMax";
+            this.ALarmMax.HeaderText = "上限值";
+            this.ALarmMax.Name = "ALarmMax";
+            this.ALarmMax.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
+            this.ALarmMax.Width = 60;
             // 
-            // DataBit2
+            // AlarmMaxNode
             // 
-            this.DataBit2.DataPropertyName = "databit";
-            this.DataBit2.HeaderText = "数据位";
-            this.DataBit2.Name = "DataBit2";
-            this.DataBit2.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
-            this.DataBit2.Width = 60;
+            this.AlarmMaxNode.DataPropertyName = "AlarmMaxNode";
+            this.AlarmMaxNode.HeaderText = "上限报警说明";
+            this.AlarmMaxNode.Name = "AlarmMaxNode";
             // 
-            // ParityBit2
+            // IsMinAlarm
             // 
-            this.ParityBit2.DataPropertyName = "paritybit";
-            this.ParityBit2.HeaderText = "校验位";
-            this.ParityBit2.Name = "ParityBit2";
-            this.ParityBit2.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
-            this.ParityBit2.Width = 60;
+            this.IsMinAlarm.DataPropertyName = "ISAlarmMin";
+            this.IsMinAlarm.HeaderText = "下限值报警";
+            this.IsMinAlarm.Name = "IsMinAlarm";
             // 
-            // StopBit2
+            // AlarmMin
             // 
-            this.StopBit2.DataPropertyName = "stopbit";
-            this.StopBit2.HeaderText = "停止位";
-            this.StopBit2.Name = "StopBit2";
-            this.StopBit2.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
-            this.StopBit2.Width = 60;
+            this.AlarmMin.DataPropertyName = "AlarmMin";
+            this.AlarmMin.HeaderText = "下限值";
+            this.AlarmMin.Name = "AlarmMin";
+            this.AlarmMin.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
+            this.AlarmMin.Width = 70;
             // 
-            // IsEnable2
+            // AlarmMinNode
             // 
-            this.IsEnable2.DataPropertyName = "isenable";
-            this.IsEnable2.HeaderText = "启用";
-            this.IsEnable2.Name = "IsEnable2";
+            this.AlarmMinNode.DataPropertyName = "AlarmMinNode";
+            this.AlarmMinNode.HeaderText = "下限报警说明";
+            this.AlarmMinNode.Name = "AlarmMinNode";
             // 
-            // Comments2
+            // Scale
             // 
-            this.Comments2.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
-            this.Comments2.DataPropertyName = "comments";
-            this.Comments2.HeaderText = "备注";
-            this.Comments2.Name = "Comments2";
-            this.Comments2.Resizable = System.Windows.Forms.DataGridViewTriState.True;
-            this.Comments2.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
+            this.Scale.DataPropertyName = "Scale";
+            this.Scale.HeaderText = "线性系数";
+            this.Scale.Name = "Scale";
+            this.Scale.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
+            this.Scale.Width = 80;
             // 
-            // Etypeid2
+            // Offsetorlength
             // 
-            this.Etypeid2.DataPropertyName = "etypeid";
-            this.Etypeid2.HeaderText = "Etypeid2";
-            this.Etypeid2.Name = "Etypeid2";
-            this.Etypeid2.Visible = false;
+            this.Offsetorlength.DataPropertyName = "Offsetorlength";
+            this.Offsetorlength.HeaderText = "线性偏移量";
+            this.Offsetorlength.Name = "Offsetorlength";
             // 
-            // Ptypeid2
+            // Isfile
             // 
-            this.Ptypeid2.DataPropertyName = "ptypeid";
-            this.Ptypeid2.HeaderText = "Ptypeid2";
-            this.Ptypeid2.Name = "Ptypeid2";
-            this.Ptypeid2.Visible = false;
+            this.Isfile.DataPropertyName = "IsFile";
+            this.Isfile.HeaderText = "归档";
+            this.Isfile.Name = "Isfile";
+            this.Isfile.Width = 50;
             // 
-            // EquipmentId2
+            // Comments5
             // 
-            this.EquipmentId2.DataPropertyName = "equipmentid";
-            this.EquipmentId2.HeaderText = "Equipmentid2";
-            this.EquipmentId2.Name = "EquipmentId2";
-            this.EquipmentId2.Visible = false;
+            this.Comments5.DataPropertyName = "Comments";
+            this.Comments5.HeaderText = "备注";
+            this.Comments5.Name = "Comments5";
+            this.Comments5.Width = 150;
+            // 
+            // Variableid
+            // 
+            this.Variableid.DataPropertyName = "variableid";
+            this.Variableid.HeaderText = "变量ID";
+            this.Variableid.Name = "Variableid";
+            this.Variableid.Visible = false;
             // 
             // FrmMain
             // 
@@ -1344,24 +1353,10 @@
         private System.Windows.Forms.DataGridViewCheckBoxColumn IsEnable;
         private System.Windows.Forms.DataGridViewTextBoxColumn Comments;
         private System.Windows.Forms.DataGridViewTextBoxColumn CGid;
-        private System.Windows.Forms.DataGridViewTextBoxColumn SN5;
-        private System.Windows.Forms.DataGridViewTextBoxColumn VariableName;
-        private System.Windows.Forms.DataGridViewTextBoxColumn StartAddRess1;
-        private System.Windows.Forms.DataGridViewTextBoxColumn DataType;
-        private System.Windows.Forms.DataGridViewCheckBoxColumn IsMaxAlarm;
-        private System.Windows.Forms.DataGridViewTextBoxColumn ALarmMax;
-        private System.Windows.Forms.DataGridViewTextBoxColumn AlarmMaxNode;
-        private System.Windows.Forms.DataGridViewCheckBoxColumn IsMinAlarm;
-        private System.Windows.Forms.DataGridViewTextBoxColumn AlarmMin;
-        private System.Windows.Forms.DataGridViewTextBoxColumn AlarmMinNode;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Scale;
-        private System.Windows.Forms.DataGridViewCheckBoxColumn Isfile;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Comments5;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Variableid;
         private System.Windows.Forms.Button btn_ReadCSV;
         private System.Windows.Forms.Button btn_SaveCSV;
         private System.Windows.Forms.Button btn_SaveDeviceFile;
-        private System.Windows.Forms.RichTextBox richTextBox1;
+        private System.Windows.Forms.RichTextBox rtb;
         private System.Windows.Forms.DataGridViewTextBoxColumn SN2;
         private System.Windows.Forms.DataGridViewTextBoxColumn EquipMentName2;
         private System.Windows.Forms.DataGridViewTextBoxColumn EtypeName2;
@@ -1376,6 +1371,21 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn Etypeid2;
         private System.Windows.Forms.DataGridViewTextBoxColumn Ptypeid2;
         private System.Windows.Forms.DataGridViewTextBoxColumn EquipmentId2;
+        private System.Windows.Forms.DataGridViewTextBoxColumn SN5;
+        private System.Windows.Forms.DataGridViewTextBoxColumn VariableName;
+        private System.Windows.Forms.DataGridViewTextBoxColumn StartAddRess1;
+        private System.Windows.Forms.DataGridViewTextBoxColumn DataType;
+        private System.Windows.Forms.DataGridViewCheckBoxColumn IsMaxAlarm;
+        private System.Windows.Forms.DataGridViewTextBoxColumn ALarmMax;
+        private System.Windows.Forms.DataGridViewTextBoxColumn AlarmMaxNode;
+        private System.Windows.Forms.DataGridViewCheckBoxColumn IsMinAlarm;
+        private System.Windows.Forms.DataGridViewTextBoxColumn AlarmMin;
+        private System.Windows.Forms.DataGridViewTextBoxColumn AlarmMinNode;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Scale;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Offsetorlength;
+        private System.Windows.Forms.DataGridViewCheckBoxColumn Isfile;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Comments5;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Variableid;
     }
 }
 

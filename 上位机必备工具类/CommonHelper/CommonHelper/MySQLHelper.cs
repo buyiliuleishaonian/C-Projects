@@ -12,7 +12,7 @@ namespace CommonHelper
     {
         /// <summary>
         /// MySql数据库通信地址
-        /// 一般魏 public static connString="server=localhots;port=3306;DataBase=数据库名称;uid=root;pwd=123456";
+        /// 一般为 public static connString="server=localhots;port=3306;DataBase=数据库名称;uid=root;pwd=123456";
         /// 数据库
         /// </summary>
 

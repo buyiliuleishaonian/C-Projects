@@ -20,3 +20,11 @@ F:\桌面\MTH连接西门子\MTHModels\obj\Debug\MTHModels.csproj.CoreCompileInp
 F:\桌面\MTH连接西门子\MTHModels\obj\Debug\MTHModels.csproj.CopyComplete
 F:\桌面\MTH连接西门子\MTHModels\obj\Debug\MTHModels.dll
 F:\桌面\MTH连接西门子\MTHModels\obj\Debug\MTHModels.pdb
+C:\学习文件\C#项目\项目三温湿度采集\MTH连接西门子\MTHModels\bin\Debug\MTHModels.dll
+C:\学习文件\C#项目\项目三温湿度采集\MTH连接西门子\MTHModels\bin\Debug\MTHModels.pdb
+C:\学习文件\C#项目\项目三温湿度采集\MTH连接西门子\MTHModels\bin\Debug\MiniExcel.dll
+C:\学习文件\C#项目\项目三温湿度采集\MTH连接西门子\MTHModels\obj\Debug\MTHModels.csproj.AssemblyReference.cache
+C:\学习文件\C#项目\项目三温湿度采集\MTH连接西门子\MTHModels\obj\Debug\MTHModels.csproj.CoreCompileInputs.cache
+C:\学习文件\C#项目\项目三温湿度采集\MTH连接西门子\MTHModels\obj\Debug\MTHModels.csproj.CopyComplete
+C:\学习文件\C#项目\项目三温湿度采集\MTH连接西门子\MTHModels\obj\Debug\MTHModels.dll
+C:\学习文件\C#项目\项目三温湿度采集\MTH连接西门子\MTHModels\obj\Debug\MTHModels.pdb

@@ -52,12 +52,12 @@ namespace ConfigLib
                 foreach (var variable in gp.VarList)
                 {
                     VarList.Add(variable);
-
+                    //是否归档
                     if (variable.ArchiveEnable)
                     {
                         StoreVarList.Add(variable);
                     }
-
+                    //所有变量值的集合
                     if (CurrentValue.ContainsKey(variable.VarName))
                     {
                         CurrentValue[variable.VarName] = "NA";

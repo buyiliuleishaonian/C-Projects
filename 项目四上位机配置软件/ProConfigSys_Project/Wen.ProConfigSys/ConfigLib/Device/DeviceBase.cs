@@ -79,7 +79,7 @@ namespace ConfigLib
         /// 多线程取消源标志位
         /// </summary>
         [JsonIgnore]
-        public CancellationTokenSource Cts { get; set; }
+        public CancellationTokenSource CancellationTokenSource  { get; set; }
 
         /// <summary>
         /// 计时器
@@ -147,8 +147,10 @@ namespace ConfigLib
             //报警处理
             if (variable.HighAlarmEnable || variable.LowAlarmEnable)
             {
+                //当前变量值
                 float compareValue = 0.0f;
 
+                //判断是Bool报警还是数值报警
                 if (variable.VarType.ToLower() == "bool")
                 {
                     compareValue = Convert.ToBoolean(variable.VarValue) ? 1.0f : 0.0f;
@@ -158,6 +160,7 @@ namespace ConfigLib
                     compareValue = Convert.ToSingle(variable.VarValue);
                 }
 
+                //比较结果值
                 int compareResult = 0;
 
                 if (variable.HighAlarmEnable)
@@ -255,6 +258,9 @@ namespace ConfigLib
         }
     }
 
+    /// <summary>
+    /// 报警类
+    /// </summary>
     public class AlarmEventArgs : EventArgs
     {
         /// <summary>

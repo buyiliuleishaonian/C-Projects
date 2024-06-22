@@ -186,6 +186,7 @@ namespace Sqlhelper
             }
             return string.Join("", words)+"Model";
         }
+
         static string ToTitleCase2(string str)
         {
             string[] words = str.Split(new char[] { '_', ' ' }, StringSplitOptions.RemoveEmptyEntries);

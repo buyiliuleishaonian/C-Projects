@@ -58,7 +58,7 @@ namespace Wen.DAL
                 " inner join Projects" +
                 " on Projects.projectid=Equipments.Projectid" +
                 " where  projects.projectid=@projectid  and CgName=@CgName  and " +
-                " ((Equipments.equipmentID<>@EquipmentID)  or (Equipments.equipmentID=@equipmentID))";
+                " ((Equipments.equipmentID<>@EquipmentID))";
             SqlParameter[] parameters = new SqlParameter[]
             {
                 new SqlParameter("@equipmentID",equipmentID),
