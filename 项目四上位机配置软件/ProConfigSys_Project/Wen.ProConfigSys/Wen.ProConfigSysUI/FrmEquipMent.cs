@@ -60,6 +60,7 @@ namespace Wen.ProConfigSysUI
             InitializeComponent();
 
             #region 初始化
+            this.lbl_Comment.Visible=false;
             //查询设备类型
             GetEType();
 
@@ -531,6 +532,36 @@ namespace Wen.ProConfigSysUI
             {
                 MessageBox.Show("数据库对象" + ex.Message, "错误提示");
                 return;
+            }
+        }
+
+        private void cmbProtocolType_SelectedValueChanged(object sender, EventArgs e)
+        {
+            switch (this.cmbProtocolType.Text)
+            {
+                case "西门子S7":
+                    this.lbl_Comment.Visible=true;
+                    this.lbl_Comment.Text="S7200,LogoOBAB8,S7200Smart,S7300,S7400,S71200,S71500,只可以选择其中一个，写为备注";
+                    break;
+                case "三菱AIE":
+                case "三菱MC":
+                    this.lbl_Comment.Visible=true;
+                    this.lbl_Comment.Text="FX3U,FX5U,Q,只能选择其中一个，其他的删除啊";
+                    break;
+                case "欧姆龙HostLink":
+                    this.lbl_Comment.Visible=true;
+                    this.lbl_Comment.Text="请输入单元号UNIT，PLC单元号SA2，响应时间ResponseWaitTime,用英文标点“.”隔开";
+                    break;
+                case "ModbusRTU":
+                case "ModbusASCII":
+                case "ModbusTCP":
+                case "ModbusRTUOverTCP":
+                    this.lbl_Comment.Visible=true;
+                    this.lbl_Comment.Text="请输入true或者false,用来判断是长短地址类型,true是长地址类型，false是短地址类型";
+                    break;
+                default:
+                    this.lbl_Comment.Visible=false;
+                    break;
             }
         }
     }

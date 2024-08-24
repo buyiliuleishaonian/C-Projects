@@ -12,6 +12,9 @@ namespace Wen.Models
     public class VariablesModel
     {
 
+        /// <summary>
+        /// 
+        /// </summary>
         public int SN { get; set; }
         /// <summary>
         /// ±äÁ¿ID

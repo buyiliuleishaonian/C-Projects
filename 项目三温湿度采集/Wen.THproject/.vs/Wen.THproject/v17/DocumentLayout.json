@@ -1,0 +1,383 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u4E09\u6E29\u6E7F\u5EA6\u91C7\u96C6\\Wen.THproject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B272C49A-B416-4624-87A1-3BDBB91A205E}|Wen.MTHDAL\\Wen.MTHDAL.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u4E09\u6E29\u6E7F\u5EA6\u91C7\u96C6\\Wen.THproject\\wen.mthdal\\syslogdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B272C49A-B416-4624-87A1-3BDBB91A205E}|Wen.MTHDAL\\Wen.MTHDAL.csproj|solutionrelative:wen.mthdal\\syslogdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B272C49A-B416-4624-87A1-3BDBB91A205E}|Wen.MTHDAL\\Wen.MTHDAL.csproj|c:\\\u5B66\u4E60\u6587\u4EF6\\c#\u9879\u76EE\\\u9879\u76EE\u4E09\u6E29\u6E7F\u5EA6\u91C7\u96C6\\wen.thproject\\wen.mthdal\\actualdatadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B272C49A-B416-4624-87A1-3BDBB91A205E}|Wen.MTHDAL\\Wen.MTHDAL.csproj|solutionrelative:wen.mthdal\\actualdatadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B272C49A-B416-4624-87A1-3BDBB91A205E}|Wen.MTHDAL\\Wen.MTHDAL.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u4E09\u6E29\u6E7F\u5EA6\u91C7\u96C6\\Wen.THproject\\wen.mthdal\\sysadmindal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B272C49A-B416-4624-87A1-3BDBB91A205E}|Wen.MTHDAL\\Wen.MTHDAL.csproj|solutionrelative:wen.mthdal\\sysadmindal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDF4C31-9F9D-4B8D-887D-6DADE8AC2169}|Wen.THproject\\Wen.THproject.csproj|c:\\\u5B66\u4E60\u6587\u4EF6\\c#\u9879\u76EE\\\u9879\u76EE\u4E09\u6E29\u6E7F\u5EA6\u91C7\u96C6\\wen.thproject\\wen.thproject\\frmusermange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FDF4C31-9F9D-4B8D-887D-6DADE8AC2169}|Wen.THproject\\Wen.THproject.csproj|solutionrelative:wen.thproject\\frmusermange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDF4C31-9F9D-4B8D-887D-6DADE8AC2169}|Wen.THproject\\Wen.THproject.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u4E09\u6E29\u6E7F\u5EA6\u91C7\u96C6\\Wen.THproject\\wen.thproject\\frmusermange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7FDF4C31-9F9D-4B8D-887D-6DADE8AC2169}|Wen.THproject\\Wen.THproject.csproj|solutionrelative:wen.thproject\\frmusermange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDF4C31-9F9D-4B8D-887D-6DADE8AC2169}|Wen.THproject\\Wen.THproject.csproj|c:\\\u5B66\u4E60\u6587\u4EF6\\c#\u9879\u76EE\\\u9879\u76EE\u4E09\u6E29\u6E7F\u5EA6\u91C7\u96C6\\wen.thproject\\wen.thproject\\frmhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FDF4C31-9F9D-4B8D-887D-6DADE8AC2169}|Wen.THproject\\Wen.THproject.csproj|solutionrelative:wen.thproject\\frmhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDF4C31-9F9D-4B8D-887D-6DADE8AC2169}|Wen.THproject\\Wen.THproject.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u4E09\u6E29\u6E7F\u5EA6\u91C7\u96C6\\Wen.THproject\\wen.thproject\\frmhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7FDF4C31-9F9D-4B8D-887D-6DADE8AC2169}|Wen.THproject\\Wen.THproject.csproj|solutionrelative:wen.thproject\\frmhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDF4C31-9F9D-4B8D-887D-6DADE8AC2169}|Wen.THproject\\Wen.THproject.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u4E09\u6E29\u6E7F\u5EA6\u91C7\u96C6\\Wen.THproject\\wen.thproject\\frmmsgboxwithoutack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7FDF4C31-9F9D-4B8D-887D-6DADE8AC2169}|Wen.THproject\\Wen.THproject.csproj|solutionrelative:wen.thproject\\frmmsgboxwithoutack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDF4C31-9F9D-4B8D-887D-6DADE8AC2169}|Wen.THproject\\Wen.THproject.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u4E09\u6E29\u6E7F\u5EA6\u91C7\u96C6\\Wen.THproject\\wen.thproject\\frmmodify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7FDF4C31-9F9D-4B8D-887D-6DADE8AC2169}|Wen.THproject\\Wen.THproject.csproj|solutionrelative:wen.thproject\\frmmodify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDF4C31-9F9D-4B8D-887D-6DADE8AC2169}|Wen.THproject\\Wen.THproject.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u4E09\u6E29\u6E7F\u5EA6\u91C7\u96C6\\Wen.THproject\\wen.thproject\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7FDF4C31-9F9D-4B8D-887D-6DADE8AC2169}|Wen.THproject\\Wen.THproject.csproj|solutionrelative:wen.thproject\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDF4C31-9F9D-4B8D-887D-6DADE8AC2169}|Wen.THproject\\Wen.THproject.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u4E09\u6E29\u6E7F\u5EA6\u91C7\u96C6\\Wen.THproject\\wen.thproject\\frmvariableconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7FDF4C31-9F9D-4B8D-887D-6DADE8AC2169}|Wen.THproject\\Wen.THproject.csproj|solutionrelative:wen.thproject\\frmvariableconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDF4C31-9F9D-4B8D-887D-6DADE8AC2169}|Wen.THproject\\Wen.THproject.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u4E09\u6E29\u6E7F\u5EA6\u91C7\u96C6\\Wen.THproject\\wen.thproject\\frmrecipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7FDF4C31-9F9D-4B8D-887D-6DADE8AC2169}|Wen.THproject\\Wen.THproject.csproj|solutionrelative:wen.thproject\\frmrecipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDF4C31-9F9D-4B8D-887D-6DADE8AC2169}|Wen.THproject\\Wen.THproject.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u4E09\u6E29\u6E7F\u5EA6\u91C7\u96C6\\Wen.THproject\\wen.thproject\\frmparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7FDF4C31-9F9D-4B8D-887D-6DADE8AC2169}|Wen.THproject\\Wen.THproject.csproj|solutionrelative:wen.thproject\\frmparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDF4C31-9F9D-4B8D-887D-6DADE8AC2169}|Wen.THproject\\Wen.THproject.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u4E09\u6E29\u6E7F\u5EA6\u91C7\u96C6\\Wen.THproject\\wen.thproject\\frmmsgboxwithack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7FDF4C31-9F9D-4B8D-887D-6DADE8AC2169}|Wen.THproject\\Wen.THproject.csproj|solutionrelative:wen.thproject\\frmmsgboxwithack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDF4C31-9F9D-4B8D-887D-6DADE8AC2169}|Wen.THproject\\Wen.THproject.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u4E09\u6E29\u6E7F\u5EA6\u91C7\u96C6\\Wen.THproject\\wen.thproject\\frmmonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7FDF4C31-9F9D-4B8D-887D-6DADE8AC2169}|Wen.THproject\\Wen.THproject.csproj|solutionrelative:wen.thproject\\frmmonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDF4C31-9F9D-4B8D-887D-6DADE8AC2169}|Wen.THproject\\Wen.THproject.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u4E09\u6E29\u6E7F\u5EA6\u91C7\u96C6\\Wen.THproject\\wen.thproject\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7FDF4C31-9F9D-4B8D-887D-6DADE8AC2169}|Wen.THproject\\Wen.THproject.csproj|solutionrelative:wen.thproject\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDF4C31-9F9D-4B8D-887D-6DADE8AC2169}|Wen.THproject\\Wen.THproject.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u4E09\u6E29\u6E7F\u5EA6\u91C7\u96C6\\Wen.THproject\\wen.thproject\\frmgroupconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7FDF4C31-9F9D-4B8D-887D-6DADE8AC2169}|Wen.THproject\\Wen.THproject.csproj|solutionrelative:wen.thproject\\frmgroupconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDF4C31-9F9D-4B8D-887D-6DADE8AC2169}|Wen.THproject\\Wen.THproject.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u4E09\u6E29\u6E7F\u5EA6\u91C7\u96C6\\Wen.THproject\\wen.thproject\\frmalarm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7FDF4C31-9F9D-4B8D-887D-6DADE8AC2169}|Wen.THproject\\Wen.THproject.csproj|solutionrelative:wen.thproject\\frmalarm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDF4C31-9F9D-4B8D-887D-6DADE8AC2169}|Wen.THproject\\Wen.THproject.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u4E09\u6E29\u6E7F\u5EA6\u91C7\u96C6\\Wen.THproject\\wen.thproject\\commonmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FDF4C31-9F9D-4B8D-887D-6DADE8AC2169}|Wen.THproject\\Wen.THproject.csproj|solutionrelative:wen.thproject\\commonmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDF4C31-9F9D-4B8D-887D-6DADE8AC2169}|Wen.THproject\\Wen.THproject.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u4E09\u6E29\u6E7F\u5EA6\u91C7\u96C6\\Wen.THproject\\wen.thproject\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FDF4C31-9F9D-4B8D-887D-6DADE8AC2169}|Wen.THproject\\Wen.THproject.csproj|solutionrelative:wen.thproject\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDF4C31-9F9D-4B8D-887D-6DADE8AC2169}|Wen.THproject\\Wen.THproject.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u4E09\u6E29\u6E7F\u5EA6\u91C7\u96C6\\Wen.THproject\\wen.thproject\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FDF4C31-9F9D-4B8D-887D-6DADE8AC2169}|Wen.THproject\\Wen.THproject.csproj|solutionrelative:wen.thproject\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDF4C31-9F9D-4B8D-887D-6DADE8AC2169}|Wen.THproject\\Wen.THproject.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u4E09\u6E29\u6E7F\u5EA6\u91C7\u96C6\\Wen.THproject\\wen.thproject\\frmmodify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FDF4C31-9F9D-4B8D-887D-6DADE8AC2169}|Wen.THproject\\Wen.THproject.csproj|solutionrelative:wen.thproject\\frmmodify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 287,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ActualDataDAL.cs",
+              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u4E09\u6E29\u6E7F\u5EA6\u91C7\u96C6\\Wen.THproject\\Wen.MTHDAL\\ActualDataDAL.cs",
+              "RelativeDocumentMoniker": "Wen.MTHDAL\\ActualDataDAL.cs",
+              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u4E09\u6E29\u6E7F\u5EA6\u91C7\u96C6\\Wen.THproject\\Wen.MTHDAL\\ActualDataDAL.cs",
+              "RelativeToolTip": "Wen.MTHDAL\\ActualDataDAL.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T13:25:47.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmUserMange.cs",
+              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u4E09\u6E29\u6E7F\u5EA6\u91C7\u96C6\\Wen.THproject\\Wen.THproject\\FrmUserMange.cs",
+              "RelativeDocumentMoniker": "Wen.THproject\\FrmUserMange.cs",
+              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u4E09\u6E29\u6E7F\u5EA6\u91C7\u96C6\\Wen.THproject\\Wen.THproject\\FrmUserMange.cs",
+              "RelativeToolTip": "Wen.THproject\\FrmUserMange.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T13:25:07.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmHistory.cs",
+              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u4E09\u6E29\u6E7F\u5EA6\u91C7\u96C6\\Wen.THproject\\Wen.THproject\\FrmHistory.cs",
+              "RelativeDocumentMoniker": "Wen.THproject\\FrmHistory.cs",
+              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u4E09\u6E29\u6E7F\u5EA6\u91C7\u96C6\\Wen.THproject\\Wen.THproject\\FrmHistory.cs",
+              "RelativeToolTip": "Wen.THproject\\FrmHistory.cs",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAqwKoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T09:08:11.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmMsgBoxWithoutAck.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u4E09\u6E29\u6E7F\u5EA6\u91C7\u96C6\\Wen.THproject\\Wen.THproject\\FrmMsgBoxWithoutAck.cs",
+              "RelativeDocumentMoniker": "Wen.THproject\\FrmMsgBoxWithoutAck.cs",
+              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u4E09\u6E29\u6E7F\u5EA6\u91C7\u96C6\\Wen.THproject\\Wen.THproject\\FrmMsgBoxWithoutAck.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Wen.THproject\\FrmMsgBoxWithoutAck.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T04:00:35.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmMsgBoxWithAck.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u4E09\u6E29\u6E7F\u5EA6\u91C7\u96C6\\Wen.THproject\\Wen.THproject\\FrmMsgBoxWithAck.cs",
+              "RelativeDocumentMoniker": "Wen.THproject\\FrmMsgBoxWithAck.cs",
+              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u4E09\u6E29\u6E7F\u5EA6\u91C7\u96C6\\Wen.THproject\\Wen.THproject\\FrmMsgBoxWithAck.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Wen.THproject\\FrmMsgBoxWithAck.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T04:00:34.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmMonitor.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u4E09\u6E29\u6E7F\u5EA6\u91C7\u96C6\\Wen.THproject\\Wen.THproject\\FrmMonitor.cs",
+              "RelativeDocumentMoniker": "Wen.THproject\\FrmMonitor.cs",
+              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u4E09\u6E29\u6E7F\u5EA6\u91C7\u96C6\\Wen.THproject\\Wen.THproject\\FrmMonitor.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Wen.THproject\\FrmMonitor.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T04:00:20.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmHistory.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u4E09\u6E29\u6E7F\u5EA6\u91C7\u96C6\\Wen.THproject\\Wen.THproject\\FrmHistory.cs",
+              "RelativeDocumentMoniker": "Wen.THproject\\FrmHistory.cs",
+              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u4E09\u6E29\u6E7F\u5EA6\u91C7\u96C6\\Wen.THproject\\Wen.THproject\\FrmHistory.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Wen.THproject\\FrmHistory.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T03:59:54.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SysLogDAL.cs",
+              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u4E09\u6E29\u6E7F\u5EA6\u91C7\u96C6\\Wen.THproject\\Wen.MTHDAL\\SysLogDAL.cs",
+              "RelativeDocumentMoniker": "Wen.MTHDAL\\SysLogDAL.cs",
+              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u4E09\u6E29\u6E7F\u5EA6\u91C7\u96C6\\Wen.THproject\\Wen.MTHDAL\\SysLogDAL.cs",
+              "RelativeToolTip": "Wen.MTHDAL\\SysLogDAL.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T14:03:04.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmParams.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u4E09\u6E29\u6E7F\u5EA6\u91C7\u96C6\\Wen.THproject\\Wen.THproject\\FrmParams.cs",
+              "RelativeDocumentMoniker": "Wen.THproject\\FrmParams.cs",
+              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u4E09\u6E29\u6E7F\u5EA6\u91C7\u96C6\\Wen.THproject\\Wen.THproject\\FrmParams.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Wen.THproject\\FrmParams.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T04:00:38.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SysAdminDAL.cs",
+              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u4E09\u6E29\u6E7F\u5EA6\u91C7\u96C6\\Wen.THproject\\Wen.MTHDAL\\SysAdminDAL.cs",
+              "RelativeDocumentMoniker": "Wen.MTHDAL\\SysAdminDAL.cs",
+              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u4E09\u6E29\u6E7F\u5EA6\u91C7\u96C6\\Wen.THproject\\Wen.MTHDAL\\SysAdminDAL.cs",
+              "RelativeToolTip": "Wen.MTHDAL\\SysAdminDAL.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T14:03:09.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmRecipe.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u4E09\u6E29\u6E7F\u5EA6\u91C7\u96C6\\Wen.THproject\\Wen.THproject\\FrmRecipe.cs",
+              "RelativeDocumentMoniker": "Wen.THproject\\FrmRecipe.cs",
+              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u4E09\u6E29\u6E7F\u5EA6\u91C7\u96C6\\Wen.THproject\\Wen.THproject\\FrmRecipe.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Wen.THproject\\FrmRecipe.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T04:00:55.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmUserMange.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u4E09\u6E29\u6E7F\u5EA6\u91C7\u96C6\\Wen.THproject\\Wen.THproject\\FrmUserMange.cs",
+              "RelativeDocumentMoniker": "Wen.THproject\\FrmUserMange.cs",
+              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u4E09\u6E29\u6E7F\u5EA6\u91C7\u96C6\\Wen.THproject\\Wen.THproject\\FrmUserMange.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Wen.THproject\\FrmUserMange.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T14:47:07.44Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmVariableConfig.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u4E09\u6E29\u6E7F\u5EA6\u91C7\u96C6\\Wen.THproject\\Wen.THproject\\FrmVariableConfig.cs",
+              "RelativeDocumentMoniker": "Wen.THproject\\FrmVariableConfig.cs",
+              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u4E09\u6E29\u6E7F\u5EA6\u91C7\u96C6\\Wen.THproject\\Wen.THproject\\FrmVariableConfig.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Wen.THproject\\FrmVariableConfig.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T04:01:24.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmLogin.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u4E09\u6E29\u6E7F\u5EA6\u91C7\u96C6\\Wen.THproject\\Wen.THproject\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "Wen.THproject\\FrmLogin.cs",
+              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u4E09\u6E29\u6E7F\u5EA6\u91C7\u96C6\\Wen.THproject\\Wen.THproject\\FrmLogin.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Wen.THproject\\FrmLogin.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T14:47:11.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmGroupConfig.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u4E09\u6E29\u6E7F\u5EA6\u91C7\u96C6\\Wen.THproject\\Wen.THproject\\FrmGroupConfig.cs",
+              "RelativeDocumentMoniker": "Wen.THproject\\FrmGroupConfig.cs",
+              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u4E09\u6E29\u6E7F\u5EA6\u91C7\u96C6\\Wen.THproject\\Wen.THproject\\FrmGroupConfig.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Wen.THproject\\FrmGroupConfig.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T03:59:52.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FrmAlarm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u4E09\u6E29\u6E7F\u5EA6\u91C7\u96C6\\Wen.THproject\\Wen.THproject\\FrmAlarm.cs",
+              "RelativeDocumentMoniker": "Wen.THproject\\FrmAlarm.cs",
+              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u4E09\u6E29\u6E7F\u5EA6\u91C7\u96C6\\Wen.THproject\\Wen.THproject\\FrmAlarm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Wen.THproject\\FrmAlarm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T14:24:50.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CommonModel.cs",
+              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u4E09\u6E29\u6E7F\u5EA6\u91C7\u96C6\\Wen.THproject\\Wen.THproject\\CommonModel.cs",
+              "RelativeDocumentMoniker": "Wen.THproject\\CommonModel.cs",
+              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u4E09\u6E29\u6E7F\u5EA6\u91C7\u96C6\\Wen.THproject\\Wen.THproject\\CommonModel.cs",
+              "RelativeToolTip": "Wen.THproject\\CommonModel.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAUwCMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T14:24:42.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FrmModify.cs",
+              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u4E09\u6E29\u6E7F\u5EA6\u91C7\u96C6\\Wen.THproject\\Wen.THproject\\FrmModify.cs",
+              "RelativeDocumentMoniker": "Wen.THproject\\FrmModify.cs",
+              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u4E09\u6E29\u6E7F\u5EA6\u91C7\u96C6\\Wen.THproject\\Wen.THproject\\FrmModify.cs",
+              "RelativeToolTip": "Wen.THproject\\FrmModify.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T14:54:43.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmMain.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u4E09\u6E29\u6E7F\u5EA6\u91C7\u96C6\\Wen.THproject\\Wen.THproject\\FrmMain.cs",
+              "RelativeDocumentMoniker": "Wen.THproject\\FrmMain.cs",
+              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u4E09\u6E29\u6E7F\u5EA6\u91C7\u96C6\\Wen.THproject\\Wen.THproject\\FrmMain.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Wen.THproject\\FrmMain.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T14:54:32.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmModify.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u4E09\u6E29\u6E7F\u5EA6\u91C7\u96C6\\Wen.THproject\\Wen.THproject\\FrmModify.cs",
+              "RelativeDocumentMoniker": "Wen.THproject\\FrmModify.cs",
+              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u4E09\u6E29\u6E7F\u5EA6\u91C7\u96C6\\Wen.THproject\\Wen.THproject\\FrmModify.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Wen.THproject\\FrmModify.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T14:54:42.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FrmLogin.cs",
+              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u4E09\u6E29\u6E7F\u5EA6\u91C7\u96C6\\Wen.THproject\\Wen.THproject\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "Wen.THproject\\FrmLogin.cs",
+              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u4E09\u6E29\u6E7F\u5EA6\u91C7\u96C6\\Wen.THproject\\Wen.THproject\\FrmLogin.cs",
+              "RelativeToolTip": "Wen.THproject\\FrmLogin.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAwwIIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T14:47:12.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FrmMain.cs",
+              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u4E09\u6E29\u6E7F\u5EA6\u91C7\u96C6\\Wen.THproject\\Wen.THproject\\FrmMain.cs",
+              "RelativeDocumentMoniker": "Wen.THproject\\FrmMain.cs",
+              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u4E09\u6E29\u6E7F\u5EA6\u91C7\u96C6\\Wen.THproject\\Wen.THproject\\FrmMain.cs",
+              "RelativeToolTip": "Wen.THproject\\FrmMain.cs",
+              "ViewState": "AQIAAD8CAAAAAAAAAAAqwGICAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T12:45:55.568Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 113,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

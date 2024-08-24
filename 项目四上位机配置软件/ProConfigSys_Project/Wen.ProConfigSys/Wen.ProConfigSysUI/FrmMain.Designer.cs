@@ -39,6 +39,23 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmMain));
             this.tabControl1 = new System.Windows.Forms.TabControl();
             this.tabPage1 = new System.Windows.Forms.TabPage();
+            this.dgv_EquipMent_IPAddRess = new System.Windows.Forms.DataGridView();
+            this.SN1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.EquipmentName = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn5 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.PtypeName = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn7 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Column5 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewCheckBoxColumn1 = new System.Windows.Forms.DataGridViewCheckBoxColumn();
+            this.dataGridViewCheckBoxColumn2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.EquipMentid = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Etypeid = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Ptypeid = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
+            this.tsml_Update_Internet = new System.Windows.Forms.ToolStripMenuItem();
+            this.tsmi_delete_IPEquipment = new System.Windows.Forms.ToolStripMenuItem();
+            this.toolStripSeparator1 = new System.Windows.Forms.ToolStripSeparator();
+            this.tslm_Add_CGroup_Internet = new System.Windows.Forms.ToolStripMenuItem();
             this.groupBox3 = new System.Windows.Forms.GroupBox();
             this.btn_ReadCSV = new System.Windows.Forms.Button();
             this.btn_SaveCSV = new System.Windows.Forms.Button();
@@ -46,6 +63,21 @@
             this.btn_UpdateVariable = new System.Windows.Forms.Button();
             this.btn_AddVariabl = new System.Windows.Forms.Button();
             this.dgv_Variable = new System.Windows.Forms.DataGridView();
+            this.SN5 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.VariableName = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.StartAddRess1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.DataType = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.IsMaxAlarm = new System.Windows.Forms.DataGridViewCheckBoxColumn();
+            this.ALarmMax = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.AlarmMaxNode = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.IsMinAlarm = new System.Windows.Forms.DataGridViewCheckBoxColumn();
+            this.AlarmMin = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.AlarmMinNode = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Scale = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Offsetorlength = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Isfile = new System.Windows.Forms.DataGridViewCheckBoxColumn();
+            this.Comments5 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Variableid = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.dgv_EquipMent_OPC = new System.Windows.Forms.DataGridView();
             this.SN3 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.EquipmentName3 = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -83,23 +115,6 @@
             this.tsmi_delete_SerialEquipment = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStripSeparator2 = new System.Windows.Forms.ToolStripSeparator();
             this.tsml_Add_CGroup_Serial = new System.Windows.Forms.ToolStripMenuItem();
-            this.dgv_EquipMent_IPAddRess = new System.Windows.Forms.DataGridView();
-            this.SN1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.EquipmentName = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn5 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.PtypeName = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn7 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Column5 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewCheckBoxColumn1 = new System.Windows.Forms.DataGridViewCheckBoxColumn();
-            this.dataGridViewCheckBoxColumn2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.EquipMentid = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Etypeid = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Ptypeid = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
-            this.tsml_Update_Internet = new System.Windows.Forms.ToolStripMenuItem();
-            this.tsmi_delete_IPEquipment = new System.Windows.Forms.ToolStripMenuItem();
-            this.toolStripSeparator1 = new System.Windows.Forms.ToolStripSeparator();
-            this.tslm_Add_CGroup_Internet = new System.Windows.Forms.ToolStripMenuItem();
             this.label2 = new System.Windows.Forms.Label();
             this.btnAddEquipMents = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
@@ -130,31 +145,16 @@
             this.toolStripStatusLabel1 = new System.Windows.Forms.ToolStripStatusLabel();
             this.toolStripStatusLabel2 = new System.Windows.Forms.ToolStripStatusLabel();
             this.tlbleUser = new System.Windows.Forms.ToolStripStatusLabel();
-            this.SN5 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.VariableName = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.StartAddRess1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.DataType = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.IsMaxAlarm = new System.Windows.Forms.DataGridViewCheckBoxColumn();
-            this.ALarmMax = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.AlarmMaxNode = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.IsMinAlarm = new System.Windows.Forms.DataGridViewCheckBoxColumn();
-            this.AlarmMin = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.AlarmMinNode = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Scale = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Offsetorlength = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Isfile = new System.Windows.Forms.DataGridViewCheckBoxColumn();
-            this.Comments5 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Variableid = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dgv_EquipMent_IPAddRess)).BeginInit();
+            this.contextMenuStrip1.SuspendLayout();
             this.groupBox3.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgv_Variable)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dgv_EquipMent_OPC)).BeginInit();
             this.contextMenuStrip3.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgv_EquipMnetProt_SerialNo)).BeginInit();
             this.contextMenuStrip2.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dgv_EquipMent_IPAddRess)).BeginInit();
-            this.contextMenuStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgv_CG)).BeginInit();
             this.groupBox2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvProjects)).BeginInit();
@@ -178,11 +178,11 @@
             // tabPage1
             // 
             this.tabPage1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.tabPage1.Controls.Add(this.dgv_EquipMent_IPAddRess);
             this.tabPage1.Controls.Add(this.groupBox3);
             this.tabPage1.Controls.Add(this.dgv_Variable);
             this.tabPage1.Controls.Add(this.dgv_EquipMent_OPC);
             this.tabPage1.Controls.Add(this.dgv_EquipMnetProt_SerialNo);
-            this.tabPage1.Controls.Add(this.dgv_EquipMent_IPAddRess);
             this.tabPage1.Controls.Add(this.label2);
             this.tabPage1.Controls.Add(this.btnAddEquipMents);
             this.tabPage1.Controls.Add(this.label1);
@@ -197,6 +197,157 @@
             this.tabPage1.TabIndex = 0;
             this.tabPage1.Text = "项目配置";
             this.tabPage1.UseVisualStyleBackColor = true;
+            // 
+            // dgv_EquipMent_IPAddRess
+            // 
+            this.dgv_EquipMent_IPAddRess.AllowUserToAddRows = false;
+            this.dgv_EquipMent_IPAddRess.BackgroundColor = System.Drawing.Color.White;
+            dataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
+            dataGridViewCellStyle1.BackColor = System.Drawing.SystemColors.Control;
+            dataGridViewCellStyle1.Font = new System.Drawing.Font("微软雅黑", 10.5F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            dataGridViewCellStyle1.ForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle1.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle1.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.dgv_EquipMent_IPAddRess.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle1;
+            this.dgv_EquipMent_IPAddRess.ColumnHeadersHeight = 30;
+            this.dgv_EquipMent_IPAddRess.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
+            this.SN1,
+            this.EquipmentName,
+            this.dataGridViewTextBoxColumn5,
+            this.PtypeName,
+            this.dataGridViewTextBoxColumn7,
+            this.Column5,
+            this.dataGridViewCheckBoxColumn1,
+            this.dataGridViewCheckBoxColumn2,
+            this.EquipMentid,
+            this.Etypeid,
+            this.Ptypeid});
+            this.dgv_EquipMent_IPAddRess.ContextMenuStrip = this.contextMenuStrip1;
+            this.dgv_EquipMent_IPAddRess.Location = new System.Drawing.Point(4, 419);
+            this.dgv_EquipMent_IPAddRess.Name = "dgv_EquipMent_IPAddRess";
+            this.dgv_EquipMent_IPAddRess.RowHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.Single;
+            this.dgv_EquipMent_IPAddRess.RowHeadersVisible = false;
+            this.dgv_EquipMent_IPAddRess.RowTemplate.Height = 23;
+            this.dgv_EquipMent_IPAddRess.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.CellSelect;
+            this.dgv_EquipMent_IPAddRess.Size = new System.Drawing.Size(900, 89);
+            this.dgv_EquipMent_IPAddRess.TabIndex = 7;
+            this.dgv_EquipMent_IPAddRess.Click += new System.EventHandler(this.dgv_EquipMent_IPAddRess_Click);
+            this.dgv_EquipMent_IPAddRess.DoubleClick += new System.EventHandler(this.dgv_EquipMent_IPAddRess_DoubleClick);
+            // 
+            // SN1
+            // 
+            this.SN1.DataPropertyName = "sn";
+            this.SN1.HeaderText = "序号";
+            this.SN1.Name = "SN1";
+            this.SN1.Width = 50;
+            // 
+            // EquipmentName
+            // 
+            this.EquipmentName.DataPropertyName = "EquipmentName";
+            this.EquipmentName.HeaderText = "设备名称";
+            this.EquipmentName.Name = "EquipmentName";
+            this.EquipmentName.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
+            // 
+            // dataGridViewTextBoxColumn5
+            // 
+            this.dataGridViewTextBoxColumn5.DataPropertyName = "EtypeName";
+            this.dataGridViewTextBoxColumn5.HeaderText = "设备类型";
+            this.dataGridViewTextBoxColumn5.Name = "dataGridViewTextBoxColumn5";
+            this.dataGridViewTextBoxColumn5.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
+            // 
+            // PtypeName
+            // 
+            this.PtypeName.DataPropertyName = "PtypeName";
+            this.PtypeName.HeaderText = "协议类型";
+            this.PtypeName.Name = "PtypeName";
+            this.PtypeName.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
+            // 
+            // dataGridViewTextBoxColumn7
+            // 
+            this.dataGridViewTextBoxColumn7.DataPropertyName = "IPaddress";
+            this.dataGridViewTextBoxColumn7.HeaderText = "IP地址";
+            this.dataGridViewTextBoxColumn7.Name = "dataGridViewTextBoxColumn7";
+            this.dataGridViewTextBoxColumn7.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
+            // 
+            // Column5
+            // 
+            this.Column5.DataPropertyName = "portno";
+            this.Column5.HeaderText = "端口号";
+            this.Column5.Name = "Column5";
+            // 
+            // dataGridViewCheckBoxColumn1
+            // 
+            this.dataGridViewCheckBoxColumn1.DataPropertyName = "isenable";
+            this.dataGridViewCheckBoxColumn1.HeaderText = "启用";
+            this.dataGridViewCheckBoxColumn1.Name = "dataGridViewCheckBoxColumn1";
+            // 
+            // dataGridViewCheckBoxColumn2
+            // 
+            this.dataGridViewCheckBoxColumn2.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.dataGridViewCheckBoxColumn2.DataPropertyName = "comments";
+            this.dataGridViewCheckBoxColumn2.HeaderText = "备注";
+            this.dataGridViewCheckBoxColumn2.Name = "dataGridViewCheckBoxColumn2";
+            this.dataGridViewCheckBoxColumn2.Resizable = System.Windows.Forms.DataGridViewTriState.True;
+            this.dataGridViewCheckBoxColumn2.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
+            // 
+            // EquipMentid
+            // 
+            this.EquipMentid.DataPropertyName = "EquipMentID";
+            this.EquipMentid.HeaderText = "EquipMentid";
+            this.EquipMentid.Name = "EquipMentid";
+            this.EquipMentid.Visible = false;
+            // 
+            // Etypeid
+            // 
+            this.Etypeid.DataPropertyName = "Etypeid";
+            this.Etypeid.HeaderText = "Etypeid";
+            this.Etypeid.Name = "Etypeid";
+            this.Etypeid.Visible = false;
+            // 
+            // Ptypeid
+            // 
+            this.Ptypeid.DataPropertyName = "ptypeid";
+            this.Ptypeid.HeaderText = "Ptypeid";
+            this.Ptypeid.Name = "Ptypeid";
+            this.Ptypeid.Visible = false;
+            // 
+            // contextMenuStrip1
+            // 
+            this.contextMenuStrip1.Font = new System.Drawing.Font("微软雅黑", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.contextMenuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.tsml_Update_Internet,
+            this.tsmi_delete_IPEquipment,
+            this.toolStripSeparator1,
+            this.tslm_Add_CGroup_Internet});
+            this.contextMenuStrip1.Name = "contextMenuStrip1";
+            this.contextMenuStrip1.Size = new System.Drawing.Size(218, 100);
+            // 
+            // tsml_Update_Internet
+            // 
+            this.tsml_Update_Internet.Name = "tsml_Update_Internet";
+            this.tsml_Update_Internet.Size = new System.Drawing.Size(217, 30);
+            this.tsml_Update_Internet.Text = "修改以太网设备";
+            this.tsml_Update_Internet.Click += new System.EventHandler(this.tsml_Update_Internet_Click);
+            // 
+            // tsmi_delete_IPEquipment
+            // 
+            this.tsmi_delete_IPEquipment.Name = "tsmi_delete_IPEquipment";
+            this.tsmi_delete_IPEquipment.Size = new System.Drawing.Size(217, 30);
+            this.tsmi_delete_IPEquipment.Text = "删除以太网设备";
+            this.tsmi_delete_IPEquipment.Click += new System.EventHandler(this.tsmi_delete_IPEquipment_Click);
+            // 
+            // toolStripSeparator1
+            // 
+            this.toolStripSeparator1.Name = "toolStripSeparator1";
+            this.toolStripSeparator1.Size = new System.Drawing.Size(214, 6);
+            // 
+            // tslm_Add_CGroup_Internet
+            // 
+            this.tslm_Add_CGroup_Internet.Name = "tslm_Add_CGroup_Internet";
+            this.tslm_Add_CGroup_Internet.Size = new System.Drawing.Size(217, 30);
+            this.tslm_Add_CGroup_Internet.Text = "新增通信组配置";
+            this.tslm_Add_CGroup_Internet.Click += new System.EventHandler(this.tslm_Add_CGroup_Internet_Click);
             // 
             // groupBox3
             // 
@@ -282,14 +433,14 @@
             this.dgv_Variable.AllowUserToAddRows = false;
             this.dgv_Variable.BackgroundColor = System.Drawing.Color.White;
             this.dgv_Variable.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            dataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
-            dataGridViewCellStyle1.BackColor = System.Drawing.SystemColors.Control;
-            dataGridViewCellStyle1.Font = new System.Drawing.Font("微软雅黑", 10.5F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            dataGridViewCellStyle1.ForeColor = System.Drawing.SystemColors.WindowText;
-            dataGridViewCellStyle1.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle1.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.dgv_Variable.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle1;
+            dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
+            dataGridViewCellStyle2.BackColor = System.Drawing.SystemColors.Control;
+            dataGridViewCellStyle2.Font = new System.Drawing.Font("微软雅黑", 10.5F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            dataGridViewCellStyle2.ForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle2.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle2.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.dgv_Variable.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle2;
             this.dgv_Variable.ColumnHeadersHeight = 30;
             this.dgv_Variable.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.SN5,
@@ -316,18 +467,129 @@
             this.dgv_Variable.Paint += new System.Windows.Forms.PaintEventHandler(this.dgv_Variable_Paint);
             this.dgv_Variable.DoubleClick += new System.EventHandler(this.dgv_Variable_DoubleClick);
             // 
+            // SN5
+            // 
+            this.SN5.DataPropertyName = "sn";
+            this.SN5.Frozen = true;
+            this.SN5.HeaderText = "序号";
+            this.SN5.Name = "SN5";
+            this.SN5.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
+            this.SN5.Width = 50;
+            // 
+            // VariableName
+            // 
+            this.VariableName.DataPropertyName = "VariableName";
+            this.VariableName.Frozen = true;
+            this.VariableName.HeaderText = "变量名";
+            this.VariableName.Name = "VariableName";
+            this.VariableName.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
+            this.VariableName.Width = 70;
+            // 
+            // StartAddRess1
+            // 
+            this.StartAddRess1.DataPropertyName = "StartAddress";
+            this.StartAddRess1.Frozen = true;
+            this.StartAddRess1.HeaderText = "起始地址";
+            this.StartAddRess1.Name = "StartAddRess1";
+            this.StartAddRess1.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
+            this.StartAddRess1.Width = 80;
+            // 
+            // DataType
+            // 
+            this.DataType.DataPropertyName = "DataType";
+            this.DataType.Frozen = true;
+            this.DataType.HeaderText = "数据类型";
+            this.DataType.Name = "DataType";
+            this.DataType.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
+            this.DataType.Width = 80;
+            // 
+            // IsMaxAlarm
+            // 
+            this.IsMaxAlarm.DataPropertyName = "IsMaxAlarm";
+            this.IsMaxAlarm.HeaderText = "上限值报警";
+            this.IsMaxAlarm.Name = "IsMaxAlarm";
+            // 
+            // ALarmMax
+            // 
+            this.ALarmMax.DataPropertyName = "ALarmMax";
+            this.ALarmMax.HeaderText = "上限值";
+            this.ALarmMax.Name = "ALarmMax";
+            this.ALarmMax.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
+            this.ALarmMax.Width = 60;
+            // 
+            // AlarmMaxNode
+            // 
+            this.AlarmMaxNode.DataPropertyName = "AlarmMaxNode";
+            this.AlarmMaxNode.HeaderText = "上限报警说明";
+            this.AlarmMaxNode.Name = "AlarmMaxNode";
+            // 
+            // IsMinAlarm
+            // 
+            this.IsMinAlarm.DataPropertyName = "ISAlarmMin";
+            this.IsMinAlarm.HeaderText = "下限值报警";
+            this.IsMinAlarm.Name = "IsMinAlarm";
+            // 
+            // AlarmMin
+            // 
+            this.AlarmMin.DataPropertyName = "AlarmMin";
+            this.AlarmMin.HeaderText = "下限值";
+            this.AlarmMin.Name = "AlarmMin";
+            this.AlarmMin.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
+            this.AlarmMin.Width = 70;
+            // 
+            // AlarmMinNode
+            // 
+            this.AlarmMinNode.DataPropertyName = "AlarmMinNode";
+            this.AlarmMinNode.HeaderText = "下限报警说明";
+            this.AlarmMinNode.Name = "AlarmMinNode";
+            // 
+            // Scale
+            // 
+            this.Scale.DataPropertyName = "Scale";
+            this.Scale.HeaderText = "线性系数";
+            this.Scale.Name = "Scale";
+            this.Scale.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
+            this.Scale.Width = 80;
+            // 
+            // Offsetorlength
+            // 
+            this.Offsetorlength.DataPropertyName = "Offsetorlength";
+            this.Offsetorlength.HeaderText = "线性偏移量";
+            this.Offsetorlength.Name = "Offsetorlength";
+            // 
+            // Isfile
+            // 
+            this.Isfile.DataPropertyName = "IsFile";
+            this.Isfile.HeaderText = "归档";
+            this.Isfile.Name = "Isfile";
+            this.Isfile.Width = 50;
+            // 
+            // Comments5
+            // 
+            this.Comments5.DataPropertyName = "Comments";
+            this.Comments5.HeaderText = "备注";
+            this.Comments5.Name = "Comments5";
+            this.Comments5.Width = 150;
+            // 
+            // Variableid
+            // 
+            this.Variableid.DataPropertyName = "variableid";
+            this.Variableid.HeaderText = "变量ID";
+            this.Variableid.Name = "Variableid";
+            this.Variableid.Visible = false;
+            // 
             // dgv_EquipMent_OPC
             // 
             this.dgv_EquipMent_OPC.AllowUserToAddRows = false;
             this.dgv_EquipMent_OPC.BackgroundColor = System.Drawing.Color.White;
-            dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
-            dataGridViewCellStyle2.BackColor = System.Drawing.SystemColors.Control;
-            dataGridViewCellStyle2.Font = new System.Drawing.Font("微软雅黑", 10.5F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            dataGridViewCellStyle2.ForeColor = System.Drawing.SystemColors.WindowText;
-            dataGridViewCellStyle2.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle2.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.dgv_EquipMent_OPC.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle2;
+            dataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
+            dataGridViewCellStyle3.BackColor = System.Drawing.SystemColors.Control;
+            dataGridViewCellStyle3.Font = new System.Drawing.Font("微软雅黑", 10.5F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            dataGridViewCellStyle3.ForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle3.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle3.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.dgv_EquipMent_OPC.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle3;
             this.dgv_EquipMent_OPC.ColumnHeadersHeight = 30;
             this.dgv_EquipMent_OPC.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.SN3,
@@ -470,14 +732,14 @@
             // 
             this.dgv_EquipMnetProt_SerialNo.AllowUserToAddRows = false;
             this.dgv_EquipMnetProt_SerialNo.BackgroundColor = System.Drawing.Color.White;
-            dataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
-            dataGridViewCellStyle3.BackColor = System.Drawing.SystemColors.Control;
-            dataGridViewCellStyle3.Font = new System.Drawing.Font("微软雅黑", 10.5F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            dataGridViewCellStyle3.ForeColor = System.Drawing.SystemColors.WindowText;
-            dataGridViewCellStyle3.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle3.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.dgv_EquipMnetProt_SerialNo.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle3;
+            dataGridViewCellStyle4.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
+            dataGridViewCellStyle4.BackColor = System.Drawing.SystemColors.Control;
+            dataGridViewCellStyle4.Font = new System.Drawing.Font("微软雅黑", 10.5F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            dataGridViewCellStyle4.ForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle4.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle4.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle4.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.dgv_EquipMnetProt_SerialNo.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle4;
             this.dgv_EquipMnetProt_SerialNo.ColumnHeadersHeight = 30;
             this.dgv_EquipMnetProt_SerialNo.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.SN2,
@@ -643,157 +905,6 @@
             this.tsml_Add_CGroup_Serial.Size = new System.Drawing.Size(217, 30);
             this.tsml_Add_CGroup_Serial.Text = "添加通信组配置";
             this.tsml_Add_CGroup_Serial.Click += new System.EventHandler(this.tsml_Add_CGroup_Serial_Click);
-            // 
-            // dgv_EquipMent_IPAddRess
-            // 
-            this.dgv_EquipMent_IPAddRess.AllowUserToAddRows = false;
-            this.dgv_EquipMent_IPAddRess.BackgroundColor = System.Drawing.Color.White;
-            dataGridViewCellStyle4.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
-            dataGridViewCellStyle4.BackColor = System.Drawing.SystemColors.Control;
-            dataGridViewCellStyle4.Font = new System.Drawing.Font("微软雅黑", 10.5F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            dataGridViewCellStyle4.ForeColor = System.Drawing.SystemColors.WindowText;
-            dataGridViewCellStyle4.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle4.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle4.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.dgv_EquipMent_IPAddRess.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle4;
-            this.dgv_EquipMent_IPAddRess.ColumnHeadersHeight = 30;
-            this.dgv_EquipMent_IPAddRess.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
-            this.SN1,
-            this.EquipmentName,
-            this.dataGridViewTextBoxColumn5,
-            this.PtypeName,
-            this.dataGridViewTextBoxColumn7,
-            this.Column5,
-            this.dataGridViewCheckBoxColumn1,
-            this.dataGridViewCheckBoxColumn2,
-            this.EquipMentid,
-            this.Etypeid,
-            this.Ptypeid});
-            this.dgv_EquipMent_IPAddRess.ContextMenuStrip = this.contextMenuStrip1;
-            this.dgv_EquipMent_IPAddRess.Location = new System.Drawing.Point(4, 419);
-            this.dgv_EquipMent_IPAddRess.Name = "dgv_EquipMent_IPAddRess";
-            this.dgv_EquipMent_IPAddRess.RowHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.Single;
-            this.dgv_EquipMent_IPAddRess.RowHeadersVisible = false;
-            this.dgv_EquipMent_IPAddRess.RowTemplate.Height = 23;
-            this.dgv_EquipMent_IPAddRess.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.CellSelect;
-            this.dgv_EquipMent_IPAddRess.Size = new System.Drawing.Size(900, 89);
-            this.dgv_EquipMent_IPAddRess.TabIndex = 7;
-            this.dgv_EquipMent_IPAddRess.Click += new System.EventHandler(this.dgv_EquipMent_IPAddRess_Click);
-            this.dgv_EquipMent_IPAddRess.DoubleClick += new System.EventHandler(this.dgv_EquipMent_IPAddRess_DoubleClick);
-            // 
-            // SN1
-            // 
-            this.SN1.DataPropertyName = "sn";
-            this.SN1.HeaderText = "序号";
-            this.SN1.Name = "SN1";
-            this.SN1.Width = 50;
-            // 
-            // EquipmentName
-            // 
-            this.EquipmentName.DataPropertyName = "EquipmentName";
-            this.EquipmentName.HeaderText = "设备名称";
-            this.EquipmentName.Name = "EquipmentName";
-            this.EquipmentName.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
-            // 
-            // dataGridViewTextBoxColumn5
-            // 
-            this.dataGridViewTextBoxColumn5.DataPropertyName = "EtypeName";
-            this.dataGridViewTextBoxColumn5.HeaderText = "设备类型";
-            this.dataGridViewTextBoxColumn5.Name = "dataGridViewTextBoxColumn5";
-            this.dataGridViewTextBoxColumn5.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
-            // 
-            // PtypeName
-            // 
-            this.PtypeName.DataPropertyName = "PtypeName";
-            this.PtypeName.HeaderText = "协议类型";
-            this.PtypeName.Name = "PtypeName";
-            this.PtypeName.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
-            // 
-            // dataGridViewTextBoxColumn7
-            // 
-            this.dataGridViewTextBoxColumn7.DataPropertyName = "IPaddress";
-            this.dataGridViewTextBoxColumn7.HeaderText = "IP地址";
-            this.dataGridViewTextBoxColumn7.Name = "dataGridViewTextBoxColumn7";
-            this.dataGridViewTextBoxColumn7.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
-            // 
-            // Column5
-            // 
-            this.Column5.DataPropertyName = "portno";
-            this.Column5.HeaderText = "端口号";
-            this.Column5.Name = "Column5";
-            // 
-            // dataGridViewCheckBoxColumn1
-            // 
-            this.dataGridViewCheckBoxColumn1.DataPropertyName = "isenable";
-            this.dataGridViewCheckBoxColumn1.HeaderText = "启用";
-            this.dataGridViewCheckBoxColumn1.Name = "dataGridViewCheckBoxColumn1";
-            // 
-            // dataGridViewCheckBoxColumn2
-            // 
-            this.dataGridViewCheckBoxColumn2.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
-            this.dataGridViewCheckBoxColumn2.DataPropertyName = "comments";
-            this.dataGridViewCheckBoxColumn2.HeaderText = "备注";
-            this.dataGridViewCheckBoxColumn2.Name = "dataGridViewCheckBoxColumn2";
-            this.dataGridViewCheckBoxColumn2.Resizable = System.Windows.Forms.DataGridViewTriState.True;
-            this.dataGridViewCheckBoxColumn2.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
-            // 
-            // EquipMentid
-            // 
-            this.EquipMentid.DataPropertyName = "EquipMentID";
-            this.EquipMentid.HeaderText = "EquipMentid";
-            this.EquipMentid.Name = "EquipMentid";
-            this.EquipMentid.Visible = false;
-            // 
-            // Etypeid
-            // 
-            this.Etypeid.DataPropertyName = "Etypeid";
-            this.Etypeid.HeaderText = "Etypeid";
-            this.Etypeid.Name = "Etypeid";
-            this.Etypeid.Visible = false;
-            // 
-            // Ptypeid
-            // 
-            this.Ptypeid.DataPropertyName = "ptypeid";
-            this.Ptypeid.HeaderText = "Ptypeid";
-            this.Ptypeid.Name = "Ptypeid";
-            this.Ptypeid.Visible = false;
-            // 
-            // contextMenuStrip1
-            // 
-            this.contextMenuStrip1.Font = new System.Drawing.Font("微软雅黑", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.contextMenuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.tsml_Update_Internet,
-            this.tsmi_delete_IPEquipment,
-            this.toolStripSeparator1,
-            this.tslm_Add_CGroup_Internet});
-            this.contextMenuStrip1.Name = "contextMenuStrip1";
-            this.contextMenuStrip1.Size = new System.Drawing.Size(218, 100);
-            // 
-            // tsml_Update_Internet
-            // 
-            this.tsml_Update_Internet.Name = "tsml_Update_Internet";
-            this.tsml_Update_Internet.Size = new System.Drawing.Size(217, 30);
-            this.tsml_Update_Internet.Text = "修改以太网设备";
-            this.tsml_Update_Internet.Click += new System.EventHandler(this.tsml_Update_Internet_Click);
-            // 
-            // tsmi_delete_IPEquipment
-            // 
-            this.tsmi_delete_IPEquipment.Name = "tsmi_delete_IPEquipment";
-            this.tsmi_delete_IPEquipment.Size = new System.Drawing.Size(217, 30);
-            this.tsmi_delete_IPEquipment.Text = "删除以太网设备";
-            this.tsmi_delete_IPEquipment.Click += new System.EventHandler(this.tsmi_delete_IPEquipment_Click);
-            // 
-            // toolStripSeparator1
-            // 
-            this.toolStripSeparator1.Name = "toolStripSeparator1";
-            this.toolStripSeparator1.Size = new System.Drawing.Size(214, 6);
-            // 
-            // tslm_Add_CGroup_Internet
-            // 
-            this.tslm_Add_CGroup_Internet.Name = "tslm_Add_CGroup_Internet";
-            this.tslm_Add_CGroup_Internet.Size = new System.Drawing.Size(217, 30);
-            this.tslm_Add_CGroup_Internet.Text = "新增通信组配置";
-            this.tslm_Add_CGroup_Internet.Click += new System.EventHandler(this.tslm_Add_CGroup_Internet_Click);
             // 
             // label2
             // 
@@ -1126,117 +1237,6 @@
             this.tlbleUser.Size = new System.Drawing.Size(74, 22);
             this.tlbleUser.Text = "默认用户";
             // 
-            // SN5
-            // 
-            this.SN5.DataPropertyName = "sn";
-            this.SN5.Frozen = true;
-            this.SN5.HeaderText = "序号";
-            this.SN5.Name = "SN5";
-            this.SN5.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
-            this.SN5.Width = 50;
-            // 
-            // VariableName
-            // 
-            this.VariableName.DataPropertyName = "VariableName";
-            this.VariableName.Frozen = true;
-            this.VariableName.HeaderText = "变量名";
-            this.VariableName.Name = "VariableName";
-            this.VariableName.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
-            this.VariableName.Width = 70;
-            // 
-            // StartAddRess1
-            // 
-            this.StartAddRess1.DataPropertyName = "StartAddress";
-            this.StartAddRess1.Frozen = true;
-            this.StartAddRess1.HeaderText = "起始地址";
-            this.StartAddRess1.Name = "StartAddRess1";
-            this.StartAddRess1.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
-            this.StartAddRess1.Width = 80;
-            // 
-            // DataType
-            // 
-            this.DataType.DataPropertyName = "DataType";
-            this.DataType.Frozen = true;
-            this.DataType.HeaderText = "数据类型";
-            this.DataType.Name = "DataType";
-            this.DataType.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
-            this.DataType.Width = 80;
-            // 
-            // IsMaxAlarm
-            // 
-            this.IsMaxAlarm.DataPropertyName = "IsMaxAlarm";
-            this.IsMaxAlarm.HeaderText = "上限值报警";
-            this.IsMaxAlarm.Name = "IsMaxAlarm";
-            // 
-            // ALarmMax
-            // 
-            this.ALarmMax.DataPropertyName = "ALarmMax";
-            this.ALarmMax.HeaderText = "上限值";
-            this.ALarmMax.Name = "ALarmMax";
-            this.ALarmMax.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
-            this.ALarmMax.Width = 60;
-            // 
-            // AlarmMaxNode
-            // 
-            this.AlarmMaxNode.DataPropertyName = "AlarmMaxNode";
-            this.AlarmMaxNode.HeaderText = "上限报警说明";
-            this.AlarmMaxNode.Name = "AlarmMaxNode";
-            // 
-            // IsMinAlarm
-            // 
-            this.IsMinAlarm.DataPropertyName = "ISAlarmMin";
-            this.IsMinAlarm.HeaderText = "下限值报警";
-            this.IsMinAlarm.Name = "IsMinAlarm";
-            // 
-            // AlarmMin
-            // 
-            this.AlarmMin.DataPropertyName = "AlarmMin";
-            this.AlarmMin.HeaderText = "下限值";
-            this.AlarmMin.Name = "AlarmMin";
-            this.AlarmMin.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
-            this.AlarmMin.Width = 70;
-            // 
-            // AlarmMinNode
-            // 
-            this.AlarmMinNode.DataPropertyName = "AlarmMinNode";
-            this.AlarmMinNode.HeaderText = "下限报警说明";
-            this.AlarmMinNode.Name = "AlarmMinNode";
-            // 
-            // Scale
-            // 
-            this.Scale.DataPropertyName = "Scale";
-            this.Scale.HeaderText = "线性系数";
-            this.Scale.Name = "Scale";
-            this.Scale.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
-            this.Scale.Width = 80;
-            // 
-            // Offsetorlength
-            // 
-            this.Offsetorlength.DataPropertyName = "Offsetorlength";
-            this.Offsetorlength.HeaderText = "线性偏移量";
-            this.Offsetorlength.Name = "Offsetorlength";
-            // 
-            // Isfile
-            // 
-            this.Isfile.DataPropertyName = "IsFile";
-            this.Isfile.HeaderText = "归档";
-            this.Isfile.Name = "Isfile";
-            this.Isfile.Width = 50;
-            // 
-            // Comments5
-            // 
-            this.Comments5.DataPropertyName = "Comments";
-            this.Comments5.HeaderText = "备注";
-            this.Comments5.Name = "Comments5";
-            this.Comments5.Width = 150;
-            // 
-            // Variableid
-            // 
-            this.Variableid.DataPropertyName = "variableid";
-            this.Variableid.HeaderText = "变量ID";
-            this.Variableid.Name = "Variableid";
-            this.Variableid.Visible = false;
-            // 
             // FrmMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 19F);
@@ -1256,14 +1256,14 @@
             this.tabControl1.ResumeLayout(false);
             this.tabPage1.ResumeLayout(false);
             this.tabPage1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dgv_EquipMent_IPAddRess)).EndInit();
+            this.contextMenuStrip1.ResumeLayout(false);
             this.groupBox3.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.dgv_Variable)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dgv_EquipMent_OPC)).EndInit();
             this.contextMenuStrip3.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.dgv_EquipMnetProt_SerialNo)).EndInit();
             this.contextMenuStrip2.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.dgv_EquipMent_IPAddRess)).EndInit();
-            this.contextMenuStrip1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.dgv_CG)).EndInit();
             this.groupBox2.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.dgvProjects)).EndInit();

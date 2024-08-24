@@ -3,24 +3,75 @@
   "WorkspaceRootPath": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C3790100-7F73-4535-9327-3BF60EAA589D}|Wen.DAL\\Wen.DAL.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\wen.dal\\communicationsgroupdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3790100-7F73-4535-9327-3BF60EAA589D}|Wen.DAL\\Wen.DAL.csproj|solutionrelative:wen.dal\\communicationsgroupdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\configlib\\config\\configmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|solutionrelative:configlib\\config\\configmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3790100-7F73-4535-9327-3BF60EAA589D}|Wen.DAL\\Wen.DAL.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\wen.dal\\equipementdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3790100-7F73-4535-9327-3BF60EAA589D}|Wen.DAL\\Wen.DAL.csproj|solutionrelative:wen.dal\\equipementdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{07E29C70-B602-4DD3-9CC5-F86814ABCF00}|Wen.ProConfigSysUI\\Wen.ProConfigSysUI.csproj|c:\\\u5B66\u4E60\u6587\u4EF6\\c#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\proconfigsys_project\\wen.proconfigsys\\wen.proconfigsysui\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E29C70-B602-4DD3-9CC5-F86814ABCF00}|Wen.ProConfigSysUI\\Wen.ProConfigSysUI.csproj|solutionrelative:wen.proconfigsysui\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07E29C70-B602-4DD3-9CC5-F86814ABCF00}|Wen.ProConfigSysUI\\Wen.ProConfigSysUI.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\wen.proconfigsysui\\frmgroupupadate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07E29C70-B602-4DD3-9CC5-F86814ABCF00}|Wen.ProConfigSysUI\\Wen.ProConfigSysUI.csproj|solutionrelative:wen.proconfigsysui\\frmgroupupadate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{07E29C70-B602-4DD3-9CC5-F86814ABCF00}|Wen.ProConfigSysUI\\Wen.ProConfigSysUI.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\wen.proconfigsysui\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07E29C70-B602-4DD3-9CC5-F86814ABCF00}|Wen.ProConfigSysUI\\Wen.ProConfigSysUI.csproj|solutionrelative:wen.proconfigsysui\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F852914E-B962-4D13-A1EF-373B7CC9CD7B}|Wen.BLL\\Wen.BLL.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\wen.bll\\communicationsgroupbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F852914E-B962-4D13-A1EF-373B7CC9CD7B}|Wen.BLL\\Wen.BLL.csproj|solutionrelative:wen.bll\\communicationsgroupbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{135B51F4-17FB-4B64-9FAC-E84B2D6C3824}|Wen.Common\\Wen.Common.csproj|c:\\\u5B66\u4E60\u6587\u4EF6\\c#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\proconfigsys_project\\wen.proconfigsys\\wen.common\\csvhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{135B51F4-17FB-4B64-9FAC-E84B2D6C3824}|Wen.Common\\Wen.Common.csproj|solutionrelative:wen.common\\csvhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA7D158-0BE5-4B14-821F-12573DC6A461}|Wen.Models\\Wen.Models.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\wen.models\\variablesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA7D158-0BE5-4B14-821F-12573DC6A461}|Wen.Models\\Wen.Models.csproj|solutionrelative:wen.models\\variablesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C3790100-7F73-4535-9327-3BF60EAA589D}|Wen.DAL\\Wen.DAL.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\wen.dal\\helper\\sqlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C3790100-7F73-4535-9327-3BF60EAA589D}|Wen.DAL\\Wen.DAL.csproj|solutionrelative:wen.dal\\helper\\sqlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3790100-7F73-4535-9327-3BF60EAA589D}|Wen.DAL\\Wen.DAL.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\wen.dal\\variabledal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3790100-7F73-4535-9327-3BF60EAA589D}|Wen.DAL\\Wen.DAL.csproj|solutionrelative:wen.dal\\variabledal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{135B51F4-17FB-4B64-9FAC-E84B2D6C3824}|Wen.Common\\Wen.Common.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\wen.common\\stringsecurity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{135B51F4-17FB-4B64-9FAC-E84B2D6C3824}|Wen.Common\\Wen.Common.csproj|solutionrelative:wen.common\\stringsecurity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{135B51F4-17FB-4B64-9FAC-E84B2D6C3824}|Wen.Common\\Wen.Common.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\wen.common\\md5enc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{135B51F4-17FB-4B64-9FAC-E84B2D6C3824}|Wen.Common\\Wen.Common.csproj|solutionrelative:wen.common\\md5enc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{135B51F4-17FB-4B64-9FAC-E84B2D6C3824}|Wen.Common\\Wen.Common.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\wen.common\\jsonhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{135B51F4-17FB-4B64-9FAC-E84B2D6C3824}|Wen.Common\\Wen.Common.csproj|solutionrelative:wen.common\\jsonhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{135B51F4-17FB-4B64-9FAC-E84B2D6C3824}|Wen.Common\\Wen.Common.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\wen.common\\iniconfighelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{135B51F4-17FB-4B64-9FAC-E84B2D6C3824}|Wen.Common\\Wen.Common.csproj|solutionrelative:wen.common\\iniconfighelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{135B51F4-17FB-4B64-9FAC-E84B2D6C3824}|Wen.Common\\Wen.Common.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\wen.common\\datavalidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{135B51F4-17FB-4B64-9FAC-E84B2D6C3824}|Wen.Common\\Wen.Common.csproj|solutionrelative:wen.common\\datavalidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{135B51F4-17FB-4B64-9FAC-E84B2D6C3824}|Wen.Common\\Wen.Common.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\wen.common\\datagridviewstyle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{135B51F4-17FB-4B64-9FAC-E84B2D6C3824}|Wen.Common\\Wen.Common.csproj|solutionrelative:wen.common\\datagridviewstyle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E29C70-B602-4DD3-9CC5-F86814ABCF00}|Wen.ProConfigSysUI\\Wen.ProConfigSysUI.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\wen.proconfigsysui\\frmvariableadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E29C70-B602-4DD3-9CC5-F86814ABCF00}|Wen.ProConfigSysUI\\Wen.ProConfigSysUI.csproj|solutionrelative:wen.proconfigsysui\\frmvariableadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u4E0A\u4F4D\u673A\u5FC5\u5907\u5DE5\u5177\u7C7B\\CommonHelper\\CommonHelper\\ExcelHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E29C70-B602-4DD3-9CC5-F86814ABCF00}|Wen.ProConfigSysUI\\Wen.ProConfigSysUI.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\wen.proconfigsysui\\frmgroupadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07E29C70-B602-4DD3-9CC5-F86814ABCF00}|Wen.ProConfigSysUI\\Wen.ProConfigSysUI.csproj|solutionrelative:wen.proconfigsysui\\frmgroupadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\configlib\\device\\melsecfxserialdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|solutionrelative:configlib\\device\\melsecfxserialdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E29C70-B602-4DD3-9CC5-F86814ABCF00}|Wen.ProConfigSysUI\\Wen.ProConfigSysUI.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\wen.proconfigsysui\\frmgroupadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E29C70-B602-4DD3-9CC5-F86814ABCF00}|Wen.ProConfigSysUI\\Wen.ProConfigSysUI.csproj|solutionrelative:wen.proconfigsysui\\frmgroupadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{07E29C70-B602-4DD3-9CC5-F86814ABCF00}|Wen.ProConfigSysUI\\Wen.ProConfigSysUI.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\wen.proconfigsysui\\frmgroupupadate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -31,76 +82,136 @@
       "RelativeMoniker": "D:0:0:{07E29C70-B602-4DD3-9CC5-F86814ABCF00}|Wen.ProConfigSysUI\\Wen.ProConfigSysUI.csproj|solutionrelative:wen.proconfigsysui\\frmequipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07E29C70-B602-4DD3-9CC5-F86814ABCF00}|Wen.ProConfigSysUI\\Wen.ProConfigSysUI.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\wen.proconfigsysui\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07E29C70-B602-4DD3-9CC5-F86814ABCF00}|Wen.ProConfigSysUI\\Wen.ProConfigSysUI.csproj|solutionrelative:wen.proconfigsysui\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07E29C70-B602-4DD3-9CC5-F86814ABCF00}|Wen.ProConfigSysUI\\Wen.ProConfigSysUI.csproj|c:\\\u5B66\u4E60\u6587\u4EF6\\c#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\proconfigsys_project\\wen.proconfigsys\\wen.proconfigsysui\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{07E29C70-B602-4DD3-9CC5-F86814ABCF00}|Wen.ProConfigSysUI\\Wen.ProConfigSysUI.csproj|solutionrelative:wen.proconfigsysui\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3790100-7F73-4535-9327-3BF60EAA589D}|Wen.DAL\\Wen.DAL.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\wen.dal\\variabledal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3790100-7F73-4535-9327-3BF60EAA589D}|Wen.DAL\\Wen.DAL.csproj|solutionrelative:wen.dal\\variabledal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07E29C70-B602-4DD3-9CC5-F86814ABCF00}|Wen.ProConfigSysUI\\Wen.ProConfigSysUI.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\wen.proconfigsysui\\frmvariableadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07E29C70-B602-4DD3-9CC5-F86814ABCF00}|Wen.ProConfigSysUI\\Wen.ProConfigSysUI.csproj|solutionrelative:wen.proconfigsysui\\frmvariableadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07E29C70-B602-4DD3-9CC5-F86814ABCF00}|Wen.ProConfigSysUI\\Wen.ProConfigSysUI.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\wen.proconfigsysui\\frmvariableadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{07E29C70-B602-4DD3-9CC5-F86814ABCF00}|Wen.ProConfigSysUI\\Wen.ProConfigSysUI.csproj|solutionrelative:wen.proconfigsysui\\frmvariableadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07E29C70-B602-4DD3-9CC5-F86814ABCF00}|Wen.ProConfigSysUI\\Wen.ProConfigSysUI.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\wen.proconfigsysui\\frmgroupadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{07E29C70-B602-4DD3-9CC5-F86814ABCF00}|Wen.ProConfigSysUI\\Wen.ProConfigSysUI.csproj|solutionrelative:wen.proconfigsysui\\frmgroupadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07E29C70-B602-4DD3-9CC5-F86814ABCF00}|Wen.ProConfigSysUI\\Wen.ProConfigSysUI.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\wen.proconfigsysui\\frmadminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{07E29C70-B602-4DD3-9CC5-F86814ABCF00}|Wen.ProConfigSysUI\\Wen.ProConfigSysUI.csproj|solutionrelative:wen.proconfigsysui\\frmadminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\configlib\\device\\devicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|solutionrelative:configlib\\device\\devicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{07E29C70-B602-4DD3-9CC5-F86814ABCF00}|Wen.ProConfigSysUI\\Wen.ProConfigSysUI.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\wen.proconfigsysui\\frmequipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E29C70-B602-4DD3-9CC5-F86814ABCF00}|Wen.ProConfigSysUI\\Wen.ProConfigSysUI.csproj|solutionrelative:wen.proconfigsysui\\frmequipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\configlib\\device\\melsecdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|solutionrelative:configlib\\device\\melsecdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\configlib\\config\\configmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|solutionrelative:configlib\\config\\configmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\configlib\\group\\melsecgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|solutionrelative:configlib\\group\\melsecgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\configlib\\project\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|solutionrelative:configlib\\project\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\configlib\\group\\modbusasciigroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|solutionrelative:configlib\\group\\modbusasciigroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07E29C70-B602-4DD3-9CC5-F86814ABCF00}|Wen.ProConfigSysUI\\Wen.ProConfigSysUI.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\wen.proconfigsysui\\frmadminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07E29C70-B602-4DD3-9CC5-F86814ABCF00}|Wen.ProConfigSysUI\\Wen.ProConfigSysUI.csproj|solutionrelative:wen.proconfigsysui\\frmadminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\configlib\\group\\melsecfxserialgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|solutionrelative:configlib\\group\\melsecfxserialgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07E29C70-B602-4DD3-9CC5-F86814ABCF00}|Wen.ProConfigSysUI\\Wen.ProConfigSysUI.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\wen.proconfigsysui\\frmgroupadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07E29C70-B602-4DD3-9CC5-F86814ABCF00}|Wen.ProConfigSysUI\\Wen.ProConfigSysUI.csproj|solutionrelative:wen.proconfigsysui\\frmgroupadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{07E29C70-B602-4DD3-9CC5-F86814ABCF00}|Wen.ProConfigSysUI\\Wen.ProConfigSysUI.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\wen.proconfigsysui\\frmvariableadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07E29C70-B602-4DD3-9CC5-F86814ABCF00}|Wen.ProConfigSysUI\\Wen.ProConfigSysUI.csproj|solutionrelative:wen.proconfigsysui\\frmvariableadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{07E29C70-B602-4DD3-9CC5-F86814ABCF00}|Wen.ProConfigSysUI\\Wen.ProConfigSysUI.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\wen.proconfigsysui\\frmproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{07E29C70-B602-4DD3-9CC5-F86814ABCF00}|Wen.ProConfigSysUI\\Wen.ProConfigSysUI.csproj|solutionrelative:wen.proconfigsysui\\frmproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3790100-7F73-4535-9327-3BF60EAA589D}|Wen.DAL\\Wen.DAL.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\wen.dal\\sysadmindal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3790100-7F73-4535-9327-3BF60EAA589D}|Wen.DAL\\Wen.DAL.csproj|solutionrelative:wen.dal\\sysadmindal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\configlib\\device\\siemensdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|solutionrelative:configlib\\device\\siemensdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\configlib\\device\\devicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|solutionrelative:configlib\\device\\devicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\configlib\\device\\opcuadevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|solutionrelative:configlib\\device\\opcuadevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\configlib\\device\\opcdadevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|solutionrelative:configlib\\device\\opcdadevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\configlib\\device\\omronhostlinkdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|solutionrelative:configlib\\device\\omronhostlinkdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\configlib\\device\\omrondevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|solutionrelative:configlib\\device\\omrondevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\configlib\\device\\modbustcpdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|solutionrelative:configlib\\device\\modbustcpdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\configlib\\device\\modbusrtuovertcpdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|solutionrelative:configlib\\device\\modbusrtuovertcpdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\configlib\\device\\modbusrtudevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|solutionrelative:configlib\\device\\modbusrtudevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\configlib\\device\\modbusasciidevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|solutionrelative:configlib\\device\\modbusasciidevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\configlib\\project\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|solutionrelative:configlib\\project\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA7D158-0BE5-4B14-821F-12573DC6A461}|Wen.Models\\Wen.Models.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\wen.models\\projectsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA7D158-0BE5-4B14-821F-12573DC6A461}|Wen.Models\\Wen.Models.csproj|solutionrelative:wen.models\\projectsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\configlib\\vaiable\\variablebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|solutionrelative:configlib\\vaiable\\variablebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\configlib\\vaiable\\modbusrtuvariable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|solutionrelative:configlib\\vaiable\\modbusrtuvariable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E29C70-B602-4DD3-9CC5-F86814ABCF00}|Wen.ProConfigSysUI\\Wen.ProConfigSysUI.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\wen.proconfigsysui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E29C70-B602-4DD3-9CC5-F86814ABCF00}|Wen.ProConfigSysUI\\Wen.ProConfigSysUI.csproj|solutionrelative:wen.proconfigsysui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E29C70-B602-4DD3-9CC5-F86814ABCF00}|Wen.ProConfigSysUI\\Wen.ProConfigSysUI.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\wen.proconfigsysui\\frmadminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07E29C70-B602-4DD3-9CC5-F86814ABCF00}|Wen.ProConfigSysUI\\Wen.ProConfigSysUI.csproj|solutionrelative:wen.proconfigsysui\\frmadminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\configlib\\jsonhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|solutionrelative:configlib\\jsonhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F852914E-B962-4D13-A1EF-373B7CC9CD7B}|Wen.BLL\\Wen.BLL.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\wen.bll\\variablebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F852914E-B962-4D13-A1EF-373B7CC9CD7B}|Wen.BLL\\Wen.BLL.csproj|solutionrelative:wen.bll\\variablebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F852914E-B962-4D13-A1EF-373B7CC9CD7B}|Wen.BLL\\Wen.BLL.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\wen.bll\\communicationsgroupbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F852914E-B962-4D13-A1EF-373B7CC9CD7B}|Wen.BLL\\Wen.BLL.csproj|solutionrelative:wen.bll\\communicationsgroupbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3790100-7F73-4535-9327-3BF60EAA589D}|Wen.DAL\\Wen.DAL.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\wen.dal\\communicationsgroupdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3790100-7F73-4535-9327-3BF60EAA589D}|Wen.DAL\\Wen.DAL.csproj|solutionrelative:wen.dal\\communicationsgroupdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA7D158-0BE5-4B14-821F-12573DC6A461}|Wen.Models\\Wen.Models.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\wen.models\\communicationsgroupsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA7D158-0BE5-4B14-821F-12573DC6A461}|Wen.Models\\Wen.Models.csproj|solutionrelative:wen.models\\communicationsgroupsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E29C70-B602-4DD3-9CC5-F86814ABCF00}|Wen.ProConfigSysUI\\Wen.ProConfigSysUI.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\wen.proconfigsysui\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E29C70-B602-4DD3-9CC5-F86814ABCF00}|Wen.ProConfigSysUI\\Wen.ProConfigSysUI.csproj|solutionrelative:wen.proconfigsysui\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3790100-7F73-4535-9327-3BF60EAA589D}|Wen.DAL\\Wen.DAL.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\wen.dal\\equipementdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3790100-7F73-4535-9327-3BF60EAA589D}|Wen.DAL\\Wen.DAL.csproj|solutionrelative:wen.dal\\equipementdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E29C70-B602-4DD3-9CC5-F86814ABCF00}|Wen.ProConfigSysUI\\Wen.ProConfigSysUI.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\wen.proconfigsysui\\frmgroupupadate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E29C70-B602-4DD3-9CC5-F86814ABCF00}|Wen.ProConfigSysUI\\Wen.ProConfigSysUI.csproj|solutionrelative:wen.proconfigsysui\\frmgroupupadate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E29C70-B602-4DD3-9CC5-F86814ABCF00}|Wen.ProConfigSysUI\\Wen.ProConfigSysUI.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\wen.proconfigsysui\\frmadminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E29C70-B602-4DD3-9CC5-F86814ABCF00}|Wen.ProConfigSysUI\\Wen.ProConfigSysUI.csproj|solutionrelative:wen.proconfigsysui\\frmadminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3790100-7F73-4535-9327-3BF60EAA589D}|Wen.DAL\\Wen.DAL.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\wen.dal\\sysadmindal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3790100-7F73-4535-9327-3BF60EAA589D}|Wen.DAL\\Wen.DAL.csproj|solutionrelative:wen.dal\\sysadmindal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\configlib\\vaiable\\melsecfxserialvariable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -115,42 +226,6 @@
       "RelativeMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|solutionrelative:configlib\\group\\groupbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\configlib\\group\\melsecfxserialgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|solutionrelative:configlib\\group\\melsecfxserialgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\configlib\\group\\melsecgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|solutionrelative:configlib\\group\\melsecgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\configlib\\device\\opcdadevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|solutionrelative:configlib\\device\\opcdadevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\configlib\\device\\omrondevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|solutionrelative:configlib\\device\\omrondevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\configlib\\device\\melsecfxserialdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|solutionrelative:configlib\\device\\melsecfxserialdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\configlib\\device\\modbusasciidevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|solutionrelative:configlib\\device\\modbusasciidevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F852914E-B962-4D13-A1EF-373B7CC9CD7B}|Wen.BLL\\Wen.BLL.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\wen.bll\\variablebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F852914E-B962-4D13-A1EF-373B7CC9CD7B}|Wen.BLL\\Wen.BLL.csproj|solutionrelative:wen.bll\\variablebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\configlib\\device\\modbusrtudevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|solutionrelative:configlib\\device\\modbusrtudevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\configlib\\vaiable\\variablebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|solutionrelative:configlib\\vaiable\\variablebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\configlib\\vaiable\\melsecvariable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|solutionrelative:configlib\\vaiable\\melsecvariable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -161,10 +236,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\configlib\\vaiable\\modbusrtuovertcpvariable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|solutionrelative:configlib\\vaiable\\modbusrtuovertcpvariable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\configlib\\vaiable\\modbusrtuvariable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|solutionrelative:configlib\\vaiable\\modbusrtuvariable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\configlib\\vaiable\\modbustcpvariable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -191,51 +262,19 @@
       "RelativeMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|solutionrelative:configlib\\vaiable\\siemensvariable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\configlib\\device\\opcuadevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|solutionrelative:configlib\\device\\opcuadevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07E29C70-B602-4DD3-9CC5-F86814ABCF00}|Wen.ProConfigSysUI\\Wen.ProConfigSysUI.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\wen.proconfigsysui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07E29C70-B602-4DD3-9CC5-F86814ABCF00}|Wen.ProConfigSysUI\\Wen.ProConfigSysUI.csproj|solutionrelative:wen.proconfigsysui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F852914E-B962-4D13-A1EF-373B7CC9CD7B}|Wen.BLL\\Wen.BLL.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\wen.bll\\equipmentbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F852914E-B962-4D13-A1EF-373B7CC9CD7B}|Wen.BLL\\Wen.BLL.csproj|solutionrelative:wen.bll\\equipmentbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07E29C70-B602-4DD3-9CC5-F86814ABCF00}|Wen.ProConfigSysUI\\Wen.ProConfigSysUI.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\wen.proconfigsysui\\frmequipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07E29C70-B602-4DD3-9CC5-F86814ABCF00}|Wen.ProConfigSysUI\\Wen.ProConfigSysUI.csproj|solutionrelative:wen.proconfigsysui\\frmequipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CFA7D158-0BE5-4B14-821F-12573DC6A461}|Wen.Models\\Wen.Models.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\wen.models\\equipmentsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CFA7D158-0BE5-4B14-821F-12573DC6A461}|Wen.Models\\Wen.Models.csproj|solutionrelative:wen.models\\equipmentsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CFA7D158-0BE5-4B14-821F-12573DC6A461}|Wen.Models\\Wen.Models.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\wen.models\\communicationsgroupsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFA7D158-0BE5-4B14-821F-12573DC6A461}|Wen.Models\\Wen.Models.csproj|solutionrelative:wen.models\\communicationsgroupsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\24242\\Desktop\\111.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\configlib\\device\\omronhostlinkdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|solutionrelative:configlib\\device\\omronhostlinkdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\configlib\\device\\modbusrtuovertcpdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|solutionrelative:configlib\\device\\modbusrtuovertcpdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\configlib\\group\\omronhostlinkgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|solutionrelative:configlib\\group\\omronhostlinkgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CFA7D158-0BE5-4B14-821F-12573DC6A461}|Wen.Models\\Wen.Models.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\wen.models\\projectsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFA7D158-0BE5-4B14-821F-12573DC6A461}|Wen.Models\\Wen.Models.csproj|solutionrelative:wen.models\\projectsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CFA7D158-0BE5-4B14-821F-12573DC6A461}|Wen.Models\\Wen.Models.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\wen.models\\variablesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFA7D158-0BE5-4B14-821F-12573DC6A461}|Wen.Models\\Wen.Models.csproj|solutionrelative:wen.models\\variablesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CFA7D158-0BE5-4B14-821F-12573DC6A461}|Wen.Models\\Wen.Models.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\wen.models\\equipmenttypemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -274,28 +313,8 @@
       "RelativeMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|solutionrelative:configlib\\group\\modbusrtugroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\configlib\\group\\modbusasciigroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6773CF01-944E-46CD-9ED5-AE26ADE1E5B0}|ConfigLib\\ConfigLib.csproj|solutionrelative:configlib\\group\\modbusasciigroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{135B51F4-17FB-4B64-9FAC-E84B2D6C3824}|Wen.Common\\Wen.Common.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\wen.common\\md5enc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{135B51F4-17FB-4B64-9FAC-E84B2D6C3824}|Wen.Common\\Wen.Common.csproj|solutionrelative:wen.common\\md5enc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{135B51F4-17FB-4B64-9FAC-E84B2D6C3824}|Wen.Common\\Wen.Common.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\wen.common\\stringsecurity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{135B51F4-17FB-4B64-9FAC-E84B2D6C3824}|Wen.Common\\Wen.Common.csproj|solutionrelative:wen.common\\stringsecurity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{135B51F4-17FB-4B64-9FAC-E84B2D6C3824}|Wen.Common\\Wen.Common.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\wen.common\\datavalidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{135B51F4-17FB-4B64-9FAC-E84B2D6C3824}|Wen.Common\\Wen.Common.csproj|solutionrelative:wen.common\\datavalidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{07E29C70-B602-4DD3-9CC5-F86814ABCF00}|Wen.ProConfigSysUI\\Wen.ProConfigSysUI.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\wen.proconfigsysui\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{07E29C70-B602-4DD3-9CC5-F86814ABCF00}|Wen.ProConfigSysUI\\Wen.ProConfigSysUI.csproj|solutionrelative:wen.proconfigsysui\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{135B51F4-17FB-4B64-9FAC-E84B2D6C3824}|Wen.Common\\Wen.Common.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\wen.common\\csvhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{135B51F4-17FB-4B64-9FAC-E84B2D6C3824}|Wen.Common\\Wen.Common.csproj|solutionrelative:wen.common\\csvhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{07E29C70-B602-4DD3-9CC5-F86814ABCF00}|Wen.ProConfigSysUI\\Wen.ProConfigSysUI.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\wen.proconfigsysui\\frmproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -304,18 +323,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C3790100-7F73-4535-9327-3BF60EAA589D}|Wen.DAL\\Wen.DAL.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\wen.dal\\projectdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C3790100-7F73-4535-9327-3BF60EAA589D}|Wen.DAL\\Wen.DAL.csproj|solutionrelative:wen.dal\\projectdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{135B51F4-17FB-4B64-9FAC-E84B2D6C3824}|Wen.Common\\Wen.Common.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\wen.common\\datagridviewstyle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{135B51F4-17FB-4B64-9FAC-E84B2D6C3824}|Wen.Common\\Wen.Common.csproj|solutionrelative:wen.common\\datagridviewstyle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{135B51F4-17FB-4B64-9FAC-E84B2D6C3824}|Wen.Common\\Wen.Common.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\wen.common\\iniconfighelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{135B51F4-17FB-4B64-9FAC-E84B2D6C3824}|Wen.Common\\Wen.Common.csproj|solutionrelative:wen.common\\iniconfighelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{135B51F4-17FB-4B64-9FAC-E84B2D6C3824}|Wen.Common\\Wen.Common.csproj|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\wen.common\\jsonhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{135B51F4-17FB-4B64-9FAC-E84B2D6C3824}|Wen.Common\\Wen.Common.csproj|solutionrelative:wen.common\\jsonhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -325,7 +332,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 287,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -337,109 +344,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EquipeMentDAL.cs",
-              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.DAL\\EquipeMentDAL.cs",
-              "RelativeDocumentMoniker": "Wen.DAL\\EquipeMentDAL.cs",
-              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.DAL\\EquipeMentDAL.cs",
-              "RelativeToolTip": "Wen.DAL\\EquipeMentDAL.cs",
-              "ViewState": "AQIAABgBAAAAAAAAAAAAABgBAACTAAAA",
+              "DocumentIndex": 6,
+              "Title": "VariableDAL.cs",
+              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.DAL\\VariableDAL.cs",
+              "RelativeDocumentMoniker": "Wen.DAL\\VariableDAL.cs",
+              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.DAL\\VariableDAL.cs",
+              "RelativeToolTip": "Wen.DAL\\VariableDAL.cs",
+              "ViewState": "AQIAAMoAAAAAAAAAAAAwwOsAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T12:54:50.667Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CommunicationsGroupDAL.cs",
-              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.DAL\\CommunicationsGroupDAL.cs",
-              "RelativeDocumentMoniker": "Wen.DAL\\CommunicationsGroupDAL.cs",
-              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.DAL\\CommunicationsGroupDAL.cs",
-              "RelativeToolTip": "Wen.DAL\\CommunicationsGroupDAL.cs",
-              "ViewState": "AQIAAD4AAAAAAAAAAAArwDwAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T12:54:51.201Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FrmGroupUpadate.cs [\u8BBE\u8BA1]",
-              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.ProConfigSysUI\\FrmGroupUpadate.cs",
-              "RelativeDocumentMoniker": "Wen.ProConfigSysUI\\FrmGroupUpadate.cs",
-              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.ProConfigSysUI\\FrmGroupUpadate.cs [\u8BBE\u8BA1]",
-              "RelativeToolTip": "Wen.ProConfigSysUI\\FrmGroupUpadate.cs [\u8BBE\u8BA1]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T12:54:51.195Z",
-              "EditorCaption": " [\u8BBE\u8BA1]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FrmGroupUpadate.cs",
-              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.ProConfigSysUI\\FrmGroupUpadate.cs",
-              "RelativeDocumentMoniker": "Wen.ProConfigSysUI\\FrmGroupUpadate.cs",
-              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.ProConfigSysUI\\FrmGroupUpadate.cs",
-              "RelativeToolTip": "Wen.ProConfigSysUI\\FrmGroupUpadate.cs",
-              "ViewState": "AQIAAFYAAAAAAAAAAAAAwF8AAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T12:54:51.2Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CommunicationsGroupBLL.cs",
-              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.BLL\\CommunicationsGroupBLL.cs",
-              "RelativeDocumentMoniker": "Wen.BLL\\CommunicationsGroupBLL.cs",
-              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.BLL\\CommunicationsGroupBLL.cs",
-              "RelativeToolTip": "Wen.BLL\\CommunicationsGroupBLL.cs",
-              "ViewState": "AQIAACUAAAAAAAAAAAAgwCgAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T12:54:51.198Z",
+              "WhenOpened": "2024-04-06T12:54:50.665Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "SQLHelper.cs",
-              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.DAL\\Helper\\SQLHelper.cs",
-              "RelativeDocumentMoniker": "Wen.DAL\\Helper\\SQLHelper.cs",
-              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.DAL\\Helper\\SQLHelper.cs",
-              "RelativeToolTip": "Wen.DAL\\Helper\\SQLHelper.cs",
-              "ViewState": "AQIAAE0AAAAAAAAAAAAUwFcAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T12:54:51.191Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FrmEquipMent.cs [\u8BBE\u8BA1]",
-              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.ProConfigSysUI\\FrmEquipMent.cs",
-              "RelativeDocumentMoniker": "Wen.ProConfigSysUI\\FrmEquipMent.cs",
-              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.ProConfigSysUI\\FrmEquipMent.cs [\u8BBE\u8BA1]",
-              "RelativeToolTip": "Wen.ProConfigSysUI\\FrmEquipMent.cs [\u8BBE\u8BA1]",
+              "Title": "VariablesModel.cs",
+              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.Models\\VariablesModel.cs",
+              "RelativeDocumentMoniker": "Wen.Models\\VariablesModel.cs",
+              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.Models\\VariablesModel.cs",
+              "RelativeToolTip": "Wen.Models\\VariablesModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-06T12:54:51.198Z",
-              "EditorCaption": " [\u8BBE\u8BA1]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FrmMain.cs",
-              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.ProConfigSysUI\\FrmMain.cs",
-              "RelativeDocumentMoniker": "Wen.ProConfigSysUI\\FrmMain.cs",
-              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.ProConfigSysUI\\FrmMain.cs",
-              "RelativeToolTip": "Wen.ProConfigSysUI\\FrmMain.cs",
-              "ViewState": "AQIAAKoCAAAAAAAAAAAqwKwCAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T12:54:50.664Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
+              "Title": "DataGridViewStyle.cs",
+              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.Common\\DataGridViewStyle.cs",
+              "RelativeDocumentMoniker": "Wen.Common\\DataGridViewStyle.cs",
+              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.Common\\DataGridViewStyle.cs",
+              "RelativeToolTip": "Wen.Common\\DataGridViewStyle.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T12:54:51.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CsvHelper.cs",
+              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.Common\\CsvHelper.cs",
+              "RelativeDocumentMoniker": "Wen.Common\\CsvHelper.cs",
+              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.Common\\CsvHelper.cs",
+              "RelativeToolTip": "Wen.Common\\CsvHelper.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAnwC8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T11:49:08.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "FrmMain.cs [\u8BBE\u8BA1]",
               "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.ProConfigSysUI\\FrmMain.cs",
               "RelativeDocumentMoniker": "Wen.ProConfigSysUI\\FrmMain.cs",
@@ -451,219 +408,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "VariableDAL.cs",
-              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.DAL\\VariableDAL.cs",
-              "RelativeDocumentMoniker": "Wen.DAL\\VariableDAL.cs",
-              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.DAL\\VariableDAL.cs",
-              "RelativeToolTip": "Wen.DAL\\VariableDAL.cs",
-              "ViewState": "AQIAAKgAAAAAAAAAAAAuwM8AAAAjAAAA",
+              "DocumentIndex": 1,
+              "Title": "FrmMain.cs",
+              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.ProConfigSysUI\\FrmMain.cs",
+              "RelativeDocumentMoniker": "Wen.ProConfigSysUI\\FrmMain.cs",
+              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.ProConfigSysUI\\FrmMain.cs",
+              "RelativeToolTip": "Wen.ProConfigSysUI\\FrmMain.cs",
+              "ViewState": "AQIAAOIDAAAAAAAAAAAjwO8DAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T12:54:50.665Z"
+              "WhenOpened": "2024-04-06T12:54:50.664Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "DeviceBase.cs",
-              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Device\\DeviceBase.cs",
-              "RelativeDocumentMoniker": "ConfigLib\\Device\\DeviceBase.cs",
-              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Device\\DeviceBase.cs",
-              "RelativeToolTip": "ConfigLib\\Device\\DeviceBase.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAAAqwEsAAAA1AAAA",
+              "DocumentIndex": 5,
+              "Title": "SQLHelper.cs",
+              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.DAL\\Helper\\SQLHelper.cs",
+              "RelativeDocumentMoniker": "Wen.DAL\\Helper\\SQLHelper.cs",
+              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.DAL\\Helper\\SQLHelper.cs",
+              "RelativeToolTip": "Wen.DAL\\Helper\\SQLHelper.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAawBwBAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T05:50:13.819Z"
+              "WhenOpened": "2024-04-06T12:54:51.191Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "FrmVariableAdd.cs [\u8BBE\u8BA1]",
-              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.ProConfigSysUI\\FrmVariableAdd.cs",
-              "RelativeDocumentMoniker": "Wen.ProConfigSysUI\\FrmVariableAdd.cs",
-              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.ProConfigSysUI\\FrmVariableAdd.cs [\u8BBE\u8BA1]",
-              "RelativeToolTip": "Wen.ProConfigSysUI\\FrmVariableAdd.cs [\u8BBE\u8BA1]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
-              "WhenOpened": "2024-04-06T12:54:50.671Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "FrmGroupAdd.cs [\u8BBE\u8BA1]",
-              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.ProConfigSysUI\\FrmGroupAdd.cs",
-              "RelativeDocumentMoniker": "Wen.ProConfigSysUI\\FrmGroupAdd.cs",
-              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.ProConfigSysUI\\FrmGroupAdd.cs [\u8BBE\u8BA1]",
-              "RelativeToolTip": "Wen.ProConfigSysUI\\FrmGroupAdd.cs [\u8BBE\u8BA1]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
-              "WhenOpened": "2024-04-06T12:54:51.201Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "FrmVariableAdd.cs",
-              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.ProConfigSysUI\\FrmVariableAdd.cs",
-              "RelativeDocumentMoniker": "Wen.ProConfigSysUI\\FrmVariableAdd.cs",
-              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.ProConfigSysUI\\FrmVariableAdd.cs",
-              "RelativeToolTip": "Wen.ProConfigSysUI\\FrmVariableAdd.cs",
-              "ViewState": "AQIAACEBAAAAAAAAAAAuwOcAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
-              "WhenOpened": "2024-04-06T12:54:51.194Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "FrmAdminLogin.cs [\u8BBE\u8BA1]",
-              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.ProConfigSysUI\\FrmAdminLogin.cs",
-              "RelativeDocumentMoniker": "Wen.ProConfigSysUI\\FrmAdminLogin.cs",
-              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.ProConfigSysUI\\FrmAdminLogin.cs [\u8BBE\u8BA1]",
-              "RelativeToolTip": "Wen.ProConfigSysUI\\FrmAdminLogin.cs [\u8BBE\u8BA1]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
-              "WhenOpened": "2024-04-06T12:54:51.201Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Project.cs",
-              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Project\\Project.cs",
-              "RelativeDocumentMoniker": "ConfigLib\\Project\\Project.cs",
-              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Project\\Project.cs",
-              "RelativeToolTip": "ConfigLib\\Project\\Project.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAswAkAAAAVAAAA",
+              "DocumentIndex": 7,
+              "Title": "StringSecurity.cs",
+              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.Common\\StringSecurity.cs",
+              "RelativeDocumentMoniker": "Wen.Common\\StringSecurity.cs",
+              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.Common\\StringSecurity.cs",
+              "RelativeToolTip": "Wen.Common\\StringSecurity.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAABYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T05:58:02.063Z"
+              "WhenOpened": "2024-04-06T13:01:26.113Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "MelsecDevice.cs",
-              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Device\\MelsecDevice.cs",
-              "RelativeDocumentMoniker": "ConfigLib\\Device\\MelsecDevice.cs",
-              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Device\\MelsecDevice.cs",
-              "RelativeToolTip": "ConfigLib\\Device\\MelsecDevice.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwDsAAAAeAAAA",
+              "DocumentIndex": 8,
+              "Title": "MD5ENC.cs",
+              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.Common\\MD5ENC.cs",
+              "RelativeDocumentMoniker": "Wen.Common\\MD5ENC.cs",
+              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.Common\\MD5ENC.cs",
+              "RelativeToolTip": "Wen.Common\\MD5ENC.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAA8AAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T05:50:17.38Z"
+              "WhenOpened": "2024-04-06T12:54:51.189Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 0,
               "Title": "ConfigManage.cs",
               "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Config\\ConfigManage.cs",
               "RelativeDocumentMoniker": "ConfigLib\\Config\\ConfigManage.cs",
               "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Config\\ConfigManage.cs",
               "RelativeToolTip": "ConfigLib\\Config\\ConfigManage.cs",
-              "ViewState": "AQIAAGUDAAAAAAAAAAAwwEUAAAASAAAA",
+              "ViewState": "AQIAAD8DAAAAAAAAAAApwF8DAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T05:54:32.9Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "FrmAdminLogin.cs",
-              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.ProConfigSysUI\\FrmAdminLogin.cs",
-              "RelativeDocumentMoniker": "Wen.ProConfigSysUI\\FrmAdminLogin.cs",
-              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.ProConfigSysUI\\FrmAdminLogin.cs",
-              "RelativeToolTip": "Wen.ProConfigSysUI\\FrmAdminLogin.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAqwCsAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
-              "WhenOpened": "2024-06-17T11:43:16.791Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "FrmGroupAdd.cs",
-              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.ProConfigSysUI\\FrmGroupAdd.cs",
-              "RelativeDocumentMoniker": "Wen.ProConfigSysUI\\FrmGroupAdd.cs",
-              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.ProConfigSysUI\\FrmGroupAdd.cs",
-              "RelativeToolTip": "Wen.ProConfigSysUI\\FrmGroupAdd.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAAwAAAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
-              "WhenOpened": "2024-04-17T14:52:43.148Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "FrmProject.cs [\u8BBE\u8BA1]",
-              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.ProConfigSysUI\\FrmProject.cs",
-              "RelativeDocumentMoniker": "Wen.ProConfigSysUI\\FrmProject.cs",
-              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.ProConfigSysUI\\FrmProject.cs [\u8BBE\u8BA1]",
-              "RelativeToolTip": "Wen.ProConfigSysUI\\FrmProject.cs [\u8BBE\u8BA1]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
-              "WhenOpened": "2024-04-06T12:54:51.193Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "SysAdminDAL.cs",
-              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.DAL\\SysAdminDAL.cs",
-              "RelativeDocumentMoniker": "Wen.DAL\\SysAdminDAL.cs",
-              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.DAL\\SysAdminDAL.cs",
-              "RelativeToolTip": "Wen.DAL\\SysAdminDAL.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAuwD8AAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T12:54:51.191Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "MelsecFXSerialVariable.cs",
-              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Vaiable\\MelsecFXSerialVariable.cs",
-              "RelativeDocumentMoniker": "ConfigLib\\Vaiable\\MelsecFXSerialVariable.cs",
-              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Vaiable\\MelsecFXSerialVariable.cs",
-              "RelativeToolTip": "ConfigLib\\Vaiable\\MelsecFXSerialVariable.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T05:58:06.723Z"
+              "WhenOpened": "2024-04-20T05:54:32.9Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
-              "Title": "SiemensDevice.cs",
-              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Device\\SiemensDevice.cs",
-              "RelativeDocumentMoniker": "ConfigLib\\Device\\SiemensDevice.cs",
-              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Device\\SiemensDevice.cs",
-              "RelativeToolTip": "ConfigLib\\Device\\SiemensDevice.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAcwCsAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T06:08:52.07Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "ModbusTCPDevice.cs",
-              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Device\\ModbusTCPDevice.cs",
-              "RelativeDocumentMoniker": "ConfigLib\\Device\\ModbusTCPDevice.cs",
-              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Device\\ModbusTCPDevice.cs",
-              "RelativeToolTip": "ConfigLib\\Device\\ModbusTCPDevice.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T06:08:47.615Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "JsonHelper.cs",
-              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\JsonHelper.cs",
-              "RelativeDocumentMoniker": "ConfigLib\\JsonHelper.cs",
-              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\JsonHelper.cs",
-              "RelativeToolTip": "ConfigLib\\JsonHelper.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAQwCUAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T08:35:12.506Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "SiemensGroup.cs",
-              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Group\\SiemensGroup.cs",
-              "RelativeDocumentMoniker": "ConfigLib\\Group\\SiemensGroup.cs",
-              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Group\\SiemensGroup.cs",
-              "RelativeToolTip": "ConfigLib\\Group\\SiemensGroup.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T05:57:54.054Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
               "Title": "MelsecGroup.cs",
               "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Group\\MelsecGroup.cs",
               "RelativeDocumentMoniker": "ConfigLib\\Group\\MelsecGroup.cs",
@@ -675,27 +485,231 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 9,
+              "Title": "JsonHelper.cs",
+              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.Common\\JsonHelper.cs",
+              "RelativeDocumentMoniker": "Wen.Common\\JsonHelper.cs",
+              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.Common\\JsonHelper.cs",
+              "RelativeToolTip": "Wen.Common\\JsonHelper.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T12:54:51.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IniConfigHelper.cs",
+              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.Common\\IniConfigHelper.cs",
+              "RelativeDocumentMoniker": "Wen.Common\\IniConfigHelper.cs",
+              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.Common\\IniConfigHelper.cs",
+              "RelativeToolTip": "Wen.Common\\IniConfigHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T12:54:51.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DataValidate.cs",
+              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.Common\\DataValidate.cs",
+              "RelativeDocumentMoniker": "Wen.Common\\DataValidate.cs",
+              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.Common\\DataValidate.cs",
+              "RelativeToolTip": "Wen.Common\\DataValidate.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwDkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T12:54:51.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmGroupAdd.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.ProConfigSysUI\\FrmGroupAdd.cs",
+              "RelativeDocumentMoniker": "Wen.ProConfigSysUI\\FrmGroupAdd.cs",
+              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.ProConfigSysUI\\FrmGroupAdd.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Wen.ProConfigSysUI\\FrmGroupAdd.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T12:54:51.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FrmGroupAdd.cs",
+              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.ProConfigSysUI\\FrmGroupAdd.cs",
+              "RelativeDocumentMoniker": "Wen.ProConfigSysUI\\FrmGroupAdd.cs",
+              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.ProConfigSysUI\\FrmGroupAdd.cs",
+              "RelativeToolTip": "Wen.ProConfigSysUI\\FrmGroupAdd.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAUwIsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T14:52:43.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ExcelHelper.cs",
+              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u4E0A\u4F4D\u673A\u5FC5\u5907\u5DE5\u5177\u7C7B\\CommonHelper\\CommonHelper\\ExcelHelper.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u4E0A\u4F4D\u673A\u5FC5\u5907\u5DE5\u5177\u7C7B\\CommonHelper\\CommonHelper\\ExcelHelper.cs",
+              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u4E0A\u4F4D\u673A\u5FC5\u5907\u5DE5\u5177\u7C7B\\CommonHelper\\CommonHelper\\ExcelHelper.cs",
+              "RelativeToolTip": "..\\..\\..\\\u4E0A\u4F4D\u673A\u5FC5\u5907\u5DE5\u5177\u7C7B\\CommonHelper\\CommonHelper\\ExcelHelper.cs",
+              "ViewState": "AQIAACACAAAAAAAAAAAAAGQDAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T14:03:36.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FrmGroupUpadate.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.ProConfigSysUI\\FrmGroupUpadate.cs",
+              "RelativeDocumentMoniker": "Wen.ProConfigSysUI\\FrmGroupUpadate.cs",
+              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.ProConfigSysUI\\FrmGroupUpadate.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Wen.ProConfigSysUI\\FrmGroupUpadate.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T12:54:51.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmVariableAdd.cs",
+              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.ProConfigSysUI\\FrmVariableAdd.cs",
+              "RelativeDocumentMoniker": "Wen.ProConfigSysUI\\FrmVariableAdd.cs",
+              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.ProConfigSysUI\\FrmVariableAdd.cs",
+              "RelativeToolTip": "Wen.ProConfigSysUI\\FrmVariableAdd.cs",
+              "ViewState": "AQIAAPIAAAAAAAAAAAAkwAYBAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T12:54:51.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MelsecFXSerialDevice.cs",
+              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Device\\MelsecFXSerialDevice.cs",
+              "RelativeDocumentMoniker": "ConfigLib\\Device\\MelsecFXSerialDevice.cs",
+              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Device\\MelsecFXSerialDevice.cs",
+              "RelativeToolTip": "ConfigLib\\Device\\MelsecFXSerialDevice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T06:06:37.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MelsecDevice.cs",
+              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Device\\MelsecDevice.cs",
+              "RelativeDocumentMoniker": "ConfigLib\\Device\\MelsecDevice.cs",
+              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Device\\MelsecDevice.cs",
+              "RelativeToolTip": "ConfigLib\\Device\\MelsecDevice.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T05:50:17.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FrmEquipMent.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.ProConfigSysUI\\FrmEquipMent.cs",
+              "RelativeDocumentMoniker": "Wen.ProConfigSysUI\\FrmEquipMent.cs",
+              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.ProConfigSysUI\\FrmEquipMent.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Wen.ProConfigSysUI\\FrmEquipMent.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T12:54:51.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ModbusASCIIGroup.cs",
+              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Group\\ModbusASCIIGroup.cs",
+              "RelativeDocumentMoniker": "ConfigLib\\Group\\ModbusASCIIGroup.cs",
+              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Group\\ModbusASCIIGroup.cs",
+              "RelativeToolTip": "ConfigLib\\Group\\ModbusASCIIGroup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T05:55:50.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "MelsecFXSerialGroup.cs",
               "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Group\\MelsecFXSerialGroup.cs",
               "RelativeDocumentMoniker": "ConfigLib\\Group\\MelsecFXSerialGroup.cs",
               "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Group\\MelsecFXSerialGroup.cs",
               "RelativeToolTip": "ConfigLib\\Group\\MelsecFXSerialGroup.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAYAAAAKAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-20T05:55:29.29Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "GroupBase.cs",
-              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Group\\GroupBase.cs",
-              "RelativeDocumentMoniker": "ConfigLib\\Group\\GroupBase.cs",
-              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Group\\GroupBase.cs",
-              "RelativeToolTip": "ConfigLib\\Group\\GroupBase.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAYwAcAAAAKAAAA",
+              "DocumentIndex": 20,
+              "Title": "FrmEquipMent.cs",
+              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.ProConfigSysUI\\FrmEquipMent.cs",
+              "RelativeDocumentMoniker": "Wen.ProConfigSysUI\\FrmEquipMent.cs",
+              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.ProConfigSysUI\\FrmEquipMent.cs",
+              "RelativeToolTip": "Wen.ProConfigSysUI\\FrmEquipMent.cs",
+              "ViewState": "AQIAAAECAAAAAAAAAAAIwCcCAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T05:55:19.971Z"
+              "WhenOpened": "2024-04-06T12:54:51.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FrmVariableAdd.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.ProConfigSysUI\\FrmVariableAdd.cs",
+              "RelativeDocumentMoniker": "Wen.ProConfigSysUI\\FrmVariableAdd.cs",
+              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.ProConfigSysUI\\FrmVariableAdd.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Wen.ProConfigSysUI\\FrmVariableAdd.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T12:54:50.671Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FrmProject.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.ProConfigSysUI\\FrmProject.cs",
+              "RelativeDocumentMoniker": "Wen.ProConfigSysUI\\FrmProject.cs",
+              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.ProConfigSysUI\\FrmProject.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Wen.ProConfigSysUI\\FrmProject.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T12:54:51.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SiemensDevice.cs",
+              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Device\\SiemensDevice.cs",
+              "RelativeDocumentMoniker": "ConfigLib\\Device\\SiemensDevice.cs",
+              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Device\\SiemensDevice.cs",
+              "RelativeToolTip": "ConfigLib\\Device\\SiemensDevice.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T06:08:52.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DeviceBase.cs",
+              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Device\\DeviceBase.cs",
+              "RelativeDocumentMoniker": "ConfigLib\\Device\\DeviceBase.cs",
+              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Device\\DeviceBase.cs",
+              "RelativeToolTip": "ConfigLib\\Device\\DeviceBase.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAswEsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T05:50:13.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "OPCUADevice.cs",
+              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Device\\OPCUADevice.cs",
+              "RelativeDocumentMoniker": "ConfigLib\\Device\\OPCUADevice.cs",
+              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Device\\OPCUADevice.cs",
+              "RelativeToolTip": "ConfigLib\\Device\\OPCUADevice.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T06:08:50.571Z"
             },
             {
               "$type": "Document",
@@ -712,6 +726,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 31,
+              "Title": "OmronHostlinkDevice.cs",
+              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Device\\OmronHostlinkDevice.cs",
+              "RelativeDocumentMoniker": "ConfigLib\\Device\\OmronHostlinkDevice.cs",
+              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Device\\OmronHostlinkDevice.cs",
+              "RelativeToolTip": "ConfigLib\\Device\\OmronHostlinkDevice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T06:08:49.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
               "Title": "OmronDevice.cs",
               "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Device\\OmronDevice.cs",
               "RelativeDocumentMoniker": "ConfigLib\\Device\\OmronDevice.cs",
@@ -723,39 +749,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "MelsecFXSerialDevice.cs",
-              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Device\\MelsecFXSerialDevice.cs",
-              "RelativeDocumentMoniker": "ConfigLib\\Device\\MelsecFXSerialDevice.cs",
-              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Device\\MelsecFXSerialDevice.cs",
-              "RelativeToolTip": "ConfigLib\\Device\\MelsecFXSerialDevice.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T06:06:37.522Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 33,
-              "Title": "ModbusASCIIDevice.cs",
-              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Device\\ModbusASCIIDevice.cs",
-              "RelativeDocumentMoniker": "ConfigLib\\Device\\ModbusASCIIDevice.cs",
-              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Device\\ModbusASCIIDevice.cs",
-              "RelativeToolTip": "ConfigLib\\Device\\ModbusASCIIDevice.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAACQAAAAUAAAA",
+              "Title": "ModbusTCPDevice.cs",
+              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Device\\ModbusTCPDevice.cs",
+              "RelativeDocumentMoniker": "ConfigLib\\Device\\ModbusTCPDevice.cs",
+              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Device\\ModbusTCPDevice.cs",
+              "RelativeToolTip": "ConfigLib\\Device\\ModbusTCPDevice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T06:08:42.235Z"
+              "WhenOpened": "2024-04-20T06:08:47.615Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 34,
-              "Title": "VariableBLL.cs",
-              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.BLL\\VariableBLL.cs",
-              "RelativeDocumentMoniker": "Wen.BLL\\VariableBLL.cs",
-              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.BLL\\VariableBLL.cs",
-              "RelativeToolTip": "Wen.BLL\\VariableBLL.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAywGYAAAAnAAAA",
+              "Title": "ModbusRTUOverTCPDevice.cs",
+              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Device\\ModbusRTUOverTCPDevice.cs",
+              "RelativeDocumentMoniker": "ConfigLib\\Device\\ModbusRTUOverTCPDevice.cs",
+              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Device\\ModbusRTUOverTCPDevice.cs",
+              "RelativeToolTip": "ConfigLib\\Device\\ModbusRTUOverTCPDevice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T12:54:50.668Z"
+              "WhenOpened": "2024-04-20T06:08:45.175Z"
             },
             {
               "$type": "Document",
@@ -772,50 +786,50 @@
             {
               "$type": "Document",
               "DocumentIndex": 36,
+              "Title": "ModbusASCIIDevice.cs",
+              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Device\\ModbusASCIIDevice.cs",
+              "RelativeDocumentMoniker": "ConfigLib\\Device\\ModbusASCIIDevice.cs",
+              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Device\\ModbusASCIIDevice.cs",
+              "RelativeToolTip": "ConfigLib\\Device\\ModbusASCIIDevice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T06:08:42.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Project\\Project.cs",
+              "RelativeDocumentMoniker": "ConfigLib\\Project\\Project.cs",
+              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Project\\Project.cs",
+              "RelativeToolTip": "ConfigLib\\Project\\Project.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T05:58:02.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ProjectsModel.cs",
+              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.Models\\ProjectsModel.cs",
+              "RelativeDocumentMoniker": "Wen.Models\\ProjectsModel.cs",
+              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.Models\\ProjectsModel.cs",
+              "RelativeToolTip": "Wen.Models\\ProjectsModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T05:34:14.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
               "Title": "VariableBase.cs",
               "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Vaiable\\VariableBase.cs",
               "RelativeDocumentMoniker": "ConfigLib\\Vaiable\\VariableBase.cs",
               "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Vaiable\\VariableBase.cs",
               "RelativeToolTip": "ConfigLib\\Vaiable\\VariableBase.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAAswAoAAAANAAAA",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAuwAoAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-20T05:59:09.059Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "MelsecVariable.cs",
-              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Vaiable\\MelsecVariable.cs",
-              "RelativeDocumentMoniker": "ConfigLib\\Vaiable\\MelsecVariable.cs",
-              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Vaiable\\MelsecVariable.cs",
-              "RelativeToolTip": "ConfigLib\\Vaiable\\MelsecVariable.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T05:58:10.838Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "ModbusRTUOverTCPVariable.cs",
-              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Vaiable\\ModbusRTUOverTCPVariable.cs",
-              "RelativeDocumentMoniker": "ConfigLib\\Vaiable\\ModbusRTUOverTCPVariable.cs",
-              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Vaiable\\ModbusRTUOverTCPVariable.cs",
-              "RelativeToolTip": "ConfigLib\\Vaiable\\ModbusRTUOverTCPVariable.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T05:58:25.594Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "ModbusASCIIVariable.cs",
-              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Vaiable\\ModbusASCIIVariable.cs",
-              "RelativeDocumentMoniker": "ConfigLib\\Vaiable\\ModbusASCIIVariable.cs",
-              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Vaiable\\ModbusASCIIVariable.cs",
-              "RelativeToolTip": "ConfigLib\\Vaiable\\ModbusASCIIVariable.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T05:58:15.284Z"
             },
             {
               "$type": "Document",
@@ -832,6 +846,221 @@
             {
               "$type": "Document",
               "DocumentIndex": 41,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.ProConfigSysUI\\Program.cs",
+              "RelativeDocumentMoniker": "Wen.ProConfigSysUI\\Program.cs",
+              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.ProConfigSysUI\\Program.cs",
+              "RelativeToolTip": "Wen.ProConfigSysUI\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T12:54:50.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "FrmAdminLogin.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.ProConfigSysUI\\FrmAdminLogin.cs",
+              "RelativeDocumentMoniker": "Wen.ProConfigSysUI\\FrmAdminLogin.cs",
+              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.ProConfigSysUI\\FrmAdminLogin.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Wen.ProConfigSysUI\\FrmAdminLogin.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T12:54:51.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "JsonHelper.cs",
+              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\JsonHelper.cs",
+              "RelativeDocumentMoniker": "ConfigLib\\JsonHelper.cs",
+              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\JsonHelper.cs",
+              "RelativeToolTip": "ConfigLib\\JsonHelper.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAQwCUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T08:35:12.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "CommunicationsGroupDAL.cs",
+              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.DAL\\CommunicationsGroupDAL.cs",
+              "RelativeDocumentMoniker": "Wen.DAL\\CommunicationsGroupDAL.cs",
+              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.DAL\\CommunicationsGroupDAL.cs",
+              "RelativeToolTip": "Wen.DAL\\CommunicationsGroupDAL.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAnwGgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T12:54:51.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "FrmMain.Designer.cs",
+              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.ProConfigSysUI\\FrmMain.Designer.cs",
+              "RelativeDocumentMoniker": "Wen.ProConfigSysUI\\FrmMain.Designer.cs",
+              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.ProConfigSysUI\\FrmMain.Designer.cs",
+              "RelativeToolTip": "Wen.ProConfigSysUI\\FrmMain.Designer.cs",
+              "ViewState": "AQIAAAwDAAAAAAAAAAAkwBcDAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T13:23:33.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "VariableBLL.cs",
+              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.BLL\\VariableBLL.cs",
+              "RelativeDocumentMoniker": "Wen.BLL\\VariableBLL.cs",
+              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.BLL\\VariableBLL.cs",
+              "RelativeToolTip": "Wen.BLL\\VariableBLL.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAnwFsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T12:54:50.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "CommunicationsgroupsModel.cs",
+              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.Models\\CommunicationsgroupsModel.cs",
+              "RelativeDocumentMoniker": "Wen.Models\\CommunicationsgroupsModel.cs",
+              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.Models\\CommunicationsgroupsModel.cs",
+              "RelativeToolTip": "Wen.Models\\CommunicationsgroupsModel.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAnwDgAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T05:34:06.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CommunicationsGroupBLL.cs",
+              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.BLL\\CommunicationsGroupBLL.cs",
+              "RelativeDocumentMoniker": "Wen.BLL\\CommunicationsGroupBLL.cs",
+              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.BLL\\CommunicationsGroupBLL.cs",
+              "RelativeToolTip": "Wen.BLL\\CommunicationsGroupBLL.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAArwDMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T12:54:51.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "FrmGroupUpadate.cs",
+              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.ProConfigSysUI\\FrmGroupUpadate.cs",
+              "RelativeDocumentMoniker": "Wen.ProConfigSysUI\\FrmGroupUpadate.cs",
+              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.ProConfigSysUI\\FrmGroupUpadate.cs",
+              "RelativeToolTip": "Wen.ProConfigSysUI\\FrmGroupUpadate.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAAwF8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T12:54:51.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "EquipeMentDAL.cs",
+              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.DAL\\EquipeMentDAL.cs",
+              "RelativeDocumentMoniker": "Wen.DAL\\EquipeMentDAL.cs",
+              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.DAL\\EquipeMentDAL.cs",
+              "RelativeToolTip": "Wen.DAL\\EquipeMentDAL.cs",
+              "ViewState": "AQIAABgBAAAAAAAAAAAAABgBAACTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T12:54:50.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "FrmAdminLogin.cs",
+              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.ProConfigSysUI\\FrmAdminLogin.cs",
+              "RelativeDocumentMoniker": "Wen.ProConfigSysUI\\FrmAdminLogin.cs",
+              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.ProConfigSysUI\\FrmAdminLogin.cs",
+              "RelativeToolTip": "Wen.ProConfigSysUI\\FrmAdminLogin.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAqwCsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T11:43:16.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "SysAdminDAL.cs",
+              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.DAL\\SysAdminDAL.cs",
+              "RelativeDocumentMoniker": "Wen.DAL\\SysAdminDAL.cs",
+              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.DAL\\SysAdminDAL.cs",
+              "RelativeToolTip": "Wen.DAL\\SysAdminDAL.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAuwD8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T12:54:51.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "MelsecFXSerialVariable.cs",
+              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Vaiable\\MelsecFXSerialVariable.cs",
+              "RelativeDocumentMoniker": "ConfigLib\\Vaiable\\MelsecFXSerialVariable.cs",
+              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Vaiable\\MelsecFXSerialVariable.cs",
+              "RelativeToolTip": "ConfigLib\\Vaiable\\MelsecFXSerialVariable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T05:58:06.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "SiemensGroup.cs",
+              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Group\\SiemensGroup.cs",
+              "RelativeDocumentMoniker": "ConfigLib\\Group\\SiemensGroup.cs",
+              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Group\\SiemensGroup.cs",
+              "RelativeToolTip": "ConfigLib\\Group\\SiemensGroup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T05:57:54.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "GroupBase.cs",
+              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Group\\GroupBase.cs",
+              "RelativeDocumentMoniker": "ConfigLib\\Group\\GroupBase.cs",
+              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Group\\GroupBase.cs",
+              "RelativeToolTip": "ConfigLib\\Group\\GroupBase.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwAcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T05:55:19.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "MelsecVariable.cs",
+              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Vaiable\\MelsecVariable.cs",
+              "RelativeDocumentMoniker": "ConfigLib\\Vaiable\\MelsecVariable.cs",
+              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Vaiable\\MelsecVariable.cs",
+              "RelativeToolTip": "ConfigLib\\Vaiable\\MelsecVariable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T05:58:10.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ModbusRTUOverTCPVariable.cs",
+              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Vaiable\\ModbusRTUOverTCPVariable.cs",
+              "RelativeDocumentMoniker": "ConfigLib\\Vaiable\\ModbusRTUOverTCPVariable.cs",
+              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Vaiable\\ModbusRTUOverTCPVariable.cs",
+              "RelativeToolTip": "ConfigLib\\Vaiable\\ModbusRTUOverTCPVariable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T05:58:25.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ModbusASCIIVariable.cs",
+              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Vaiable\\ModbusASCIIVariable.cs",
+              "RelativeDocumentMoniker": "ConfigLib\\Vaiable\\ModbusASCIIVariable.cs",
+              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Vaiable\\ModbusASCIIVariable.cs",
+              "RelativeToolTip": "ConfigLib\\Vaiable\\ModbusASCIIVariable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T05:58:15.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
               "Title": "ModbusTCPVariable.cs",
               "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Vaiable\\ModbusTCPVariable.cs",
               "RelativeDocumentMoniker": "ConfigLib\\Vaiable\\ModbusTCPVariable.cs",
@@ -843,7 +1072,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 60,
               "Title": "OmronHostlinkVariable.cs",
               "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Vaiable\\OmronHostlinkVariable.cs",
               "RelativeDocumentMoniker": "ConfigLib\\Vaiable\\OmronHostlinkVariable.cs",
@@ -855,7 +1084,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 61,
               "Title": "OmronVariable.cs",
               "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Vaiable\\OmronVariable.cs",
               "RelativeDocumentMoniker": "ConfigLib\\Vaiable\\OmronVariable.cs",
@@ -867,7 +1096,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 62,
               "Title": "OPCDAVariable.cs",
               "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Vaiable\\OPCDAVariable.cs",
               "RelativeDocumentMoniker": "ConfigLib\\Vaiable\\OPCDAVariable.cs",
@@ -879,7 +1108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 63,
               "Title": "OPCUAVariable.cs",
               "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Vaiable\\OPCUAVariable.cs",
               "RelativeDocumentMoniker": "ConfigLib\\Vaiable\\OPCUAVariable.cs",
@@ -891,7 +1120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 64,
               "Title": "SiemensVariable.cs",
               "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Vaiable\\SiemensVariable.cs",
               "RelativeDocumentMoniker": "ConfigLib\\Vaiable\\SiemensVariable.cs",
@@ -903,31 +1132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "OPCUADevice.cs",
-              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Device\\OPCUADevice.cs",
-              "RelativeDocumentMoniker": "ConfigLib\\Device\\OPCUADevice.cs",
-              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Device\\OPCUADevice.cs",
-              "RelativeToolTip": "ConfigLib\\Device\\OPCUADevice.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T06:08:50.571Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.ProConfigSysUI\\Program.cs",
-              "RelativeDocumentMoniker": "Wen.ProConfigSysUI\\Program.cs",
-              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.ProConfigSysUI\\Program.cs",
-              "RelativeToolTip": "Wen.ProConfigSysUI\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T12:54:50.669Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 65,
               "Title": "EquipMentBLL.cs",
               "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.BLL\\EquipMentBLL.cs",
               "RelativeDocumentMoniker": "Wen.BLL\\EquipMentBLL.cs",
@@ -939,32 +1144,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "FrmEquipMent.cs",
-              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.ProConfigSysUI\\FrmEquipMent.cs",
-              "RelativeDocumentMoniker": "Wen.ProConfigSysUI\\FrmEquipMent.cs",
-              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.ProConfigSysUI\\FrmEquipMent.cs",
-              "RelativeToolTip": "Wen.ProConfigSysUI\\FrmEquipMent.cs",
-              "ViewState": "AQIAAAgCAAAAAAAAAAAAwBcCAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T12:54:51.199Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
-              "Title": "CommunicationsgroupsModel.cs",
-              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.Models\\CommunicationsgroupsModel.cs",
-              "RelativeDocumentMoniker": "Wen.Models\\CommunicationsgroupsModel.cs",
-              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.Models\\CommunicationsgroupsModel.cs",
-              "RelativeToolTip": "Wen.Models\\CommunicationsgroupsModel.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAQwDgAAABXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T05:34:06.637Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 66,
               "Title": "EquipmentsModel.cs",
               "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.Models\\EquipmentsModel.cs",
               "RelativeDocumentMoniker": "Wen.Models\\EquipmentsModel.cs",
@@ -976,7 +1156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 67,
               "Title": "111.json",
               "DocumentMoniker": "C:\\Users\\24242\\Desktop\\111.json",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Users\\24242\\Desktop\\111.json",
@@ -988,31 +1168,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
-              "Title": "OmronHostlinkDevice.cs",
-              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Device\\OmronHostlinkDevice.cs",
-              "RelativeDocumentMoniker": "ConfigLib\\Device\\OmronHostlinkDevice.cs",
-              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Device\\OmronHostlinkDevice.cs",
-              "RelativeToolTip": "ConfigLib\\Device\\OmronHostlinkDevice.cs",
-              "ViewState": "AQIAADQAAAAAAAAAAADwvyMAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T06:08:49.423Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 55,
-              "Title": "ModbusRTUOverTCPDevice.cs",
-              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Device\\ModbusRTUOverTCPDevice.cs",
-              "RelativeDocumentMoniker": "ConfigLib\\Device\\ModbusRTUOverTCPDevice.cs",
-              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Device\\ModbusRTUOverTCPDevice.cs",
-              "RelativeToolTip": "ConfigLib\\Device\\ModbusRTUOverTCPDevice.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T06:08:45.175Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 68,
               "Title": "OmronHostlinkGroup.cs",
               "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Group\\OmronHostlinkGroup.cs",
               "RelativeDocumentMoniker": "ConfigLib\\Group\\OmronHostlinkGroup.cs",
@@ -1024,31 +1180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
-              "Title": "ProjectsModel.cs",
-              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.Models\\ProjectsModel.cs",
-              "RelativeDocumentMoniker": "Wen.Models\\ProjectsModel.cs",
-              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.Models\\ProjectsModel.cs",
-              "RelativeToolTip": "Wen.Models\\ProjectsModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAABjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T05:34:14.215Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 58,
-              "Title": "VariablesModel.cs",
-              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.Models\\VariablesModel.cs",
-              "RelativeDocumentMoniker": "Wen.Models\\VariablesModel.cs",
-              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.Models\\VariablesModel.cs",
-              "RelativeToolTip": "Wen.Models\\VariablesModel.cs",
-              "ViewState": "AQIAADUAAAAAAAAAAAAUwFEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T12:54:51.198Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 69,
               "Title": "EquipmenttypeModel.cs",
               "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.Models\\EquipmenttypeModel.cs",
               "RelativeDocumentMoniker": "Wen.Models\\EquipmenttypeModel.cs",
@@ -1060,7 +1192,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 70,
               "Title": "ProtocoltypeModel.cs",
               "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.Models\\ProtocoltypeModel.cs",
               "RelativeDocumentMoniker": "Wen.Models\\ProtocoltypeModel.cs",
@@ -1072,7 +1204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 71,
               "Title": "SysadminsModel.cs",
               "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.Models\\SysadminsModel.cs",
               "RelativeDocumentMoniker": "Wen.Models\\SysadminsModel.cs",
@@ -1084,7 +1216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 72,
               "Title": "OPCUAGroup.cs",
               "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Group\\OPCUAGroup.cs",
               "RelativeDocumentMoniker": "ConfigLib\\Group\\OPCUAGroup.cs",
@@ -1096,7 +1228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 73,
               "Title": "OPCDAGroup.cs",
               "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Group\\OPCDAGroup.cs",
               "RelativeDocumentMoniker": "ConfigLib\\Group\\OPCDAGroup.cs",
@@ -1108,7 +1240,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 74,
               "Title": "OmronGroup.cs",
               "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Group\\OmronGroup.cs",
               "RelativeDocumentMoniker": "ConfigLib\\Group\\OmronGroup.cs",
@@ -1120,7 +1252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 75,
               "Title": "ModbusTCPGroup.cs",
               "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Group\\ModbusTCPGroup.cs",
               "RelativeDocumentMoniker": "ConfigLib\\Group\\ModbusTCPGroup.cs",
@@ -1132,7 +1264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 76,
               "Title": "ModbusRTUOverTCPGroup.cs",
               "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Group\\ModbusRTUOverTCPGroup.cs",
               "RelativeDocumentMoniker": "ConfigLib\\Group\\ModbusRTUOverTCPGroup.cs",
@@ -1144,7 +1276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 77,
               "Title": "ModbusRTUGroup.cs",
               "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Group\\ModbusRTUGroup.cs",
               "RelativeDocumentMoniker": "ConfigLib\\Group\\ModbusRTUGroup.cs",
@@ -1156,31 +1288,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
-              "Title": "ModbusASCIIGroup.cs",
-              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Group\\ModbusASCIIGroup.cs",
-              "RelativeDocumentMoniker": "ConfigLib\\Group\\ModbusASCIIGroup.cs",
-              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\ConfigLib\\Group\\ModbusASCIIGroup.cs",
-              "RelativeToolTip": "ConfigLib\\Group\\ModbusASCIIGroup.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T05:55:50.216Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 69,
-              "Title": "MD5ENC.cs",
-              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.Common\\MD5ENC.cs",
-              "RelativeDocumentMoniker": "Wen.Common\\MD5ENC.cs",
-              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.Common\\MD5ENC.cs",
-              "RelativeToolTip": "Wen.Common\\MD5ENC.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T12:54:51.189Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 78,
               "Title": "App.config",
               "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.ProConfigSysUI\\App.config",
               "RelativeDocumentMoniker": "Wen.ProConfigSysUI\\App.config",
@@ -1193,7 +1301,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 80,
               "Title": "ProjectDAL.cs",
               "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.DAL\\ProjectDAL.cs",
               "RelativeDocumentMoniker": "Wen.DAL\\ProjectDAL.cs",
@@ -1205,87 +1313,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
-              "Title": "DataValidate.cs",
-              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.Common\\DataValidate.cs",
-              "RelativeDocumentMoniker": "Wen.Common\\DataValidate.cs",
-              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.Common\\DataValidate.cs",
-              "RelativeToolTip": "Wen.Common\\DataValidate.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAQwDkAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T12:54:51.197Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 70,
-              "Title": "StringSecurity.cs",
-              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.Common\\StringSecurity.cs",
-              "RelativeDocumentMoniker": "Wen.Common\\StringSecurity.cs",
-              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.Common\\StringSecurity.cs",
-              "RelativeToolTip": "Wen.Common\\StringSecurity.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T13:01:26.113Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 73,
-              "Title": "CsvHelper.cs",
-              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.Common\\CsvHelper.cs",
-              "RelativeDocumentMoniker": "Wen.Common\\CsvHelper.cs",
-              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.Common\\CsvHelper.cs",
-              "RelativeToolTip": "Wen.Common\\CsvHelper.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAwEAAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T12:54:50.596Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 79,
               "Title": "FrmProject.cs",
               "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.ProConfigSysUI\\FrmProject.cs",
               "RelativeDocumentMoniker": "Wen.ProConfigSysUI\\FrmProject.cs",
               "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.ProConfigSysUI\\FrmProject.cs",
               "RelativeToolTip": "Wen.ProConfigSysUI\\FrmProject.cs",
               "ViewState": "AQIAAG4AAAAAAAAAAAAiwEgAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-06T12:54:51.192Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 76,
-              "Title": "DataGridViewStyle.cs",
-              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.Common\\DataGridViewStyle.cs",
-              "RelativeDocumentMoniker": "Wen.Common\\DataGridViewStyle.cs",
-              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.Common\\DataGridViewStyle.cs",
-              "RelativeToolTip": "Wen.Common\\DataGridViewStyle.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T12:54:51.197Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 77,
-              "Title": "IniConfigHelper.cs",
-              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.Common\\IniConfigHelper.cs",
-              "RelativeDocumentMoniker": "Wen.Common\\IniConfigHelper.cs",
-              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.Common\\IniConfigHelper.cs",
-              "RelativeToolTip": "Wen.Common\\IniConfigHelper.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAYwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T12:54:51.2Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 78,
-              "Title": "JsonHelper.cs",
-              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.Common\\JsonHelper.cs",
-              "RelativeDocumentMoniker": "Wen.Common\\JsonHelper.cs",
-              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u9879\u76EE\u56DB\u4E0A\u4F4D\u673A\u914D\u7F6E\u8F6F\u4EF6\\ProConfigSys_Project\\Wen.ProConfigSys\\Wen.Common\\JsonHelper.cs",
-              "RelativeToolTip": "Wen.Common\\JsonHelper.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAYwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T12:54:51.202Z"
             }
           ]
         },

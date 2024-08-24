@@ -13,10 +13,13 @@ using System.Windows.Forms;
 using Wen.BLL;
 using Wen.Common;
 using Wen.Models;
-
+using Wen.ComonHelper;
 
 using ConfigLib;
 using System.IO;
+using CommonHelper;
+using DataGridViewStyle = Wen.Common.DataGridViewStyle;
+using System.Diagnostics;
 
 namespace Wen.ProConfigSysUI
 {
@@ -605,11 +608,18 @@ namespace Wen.ProConfigSysUI
         /// <param name="e"></param>
         private void dgv_EquipMent_IPAddRess_Click(object sender, EventArgs e)
         {
-            if (this.dgv_EquipMent_IPAddRess.Rows.Count <= 0) return;
-            if (this.dgv_EquipMent_IPAddRess.CurrentRow == null) return;
-            int index = Convert.ToInt32(this.dgv_EquipMent_IPAddRess.CurrentRow.Cells["equipmentid"].Value.ToString());
-            string equipmentname = this.dgv_EquipMent_IPAddRess.CurrentRow.Cells["EquipmentName"].Value.ToString();
-            ShowCGroup(index, this.dgv_EquipMent_IPAddRess, equipmentname);
+            try
+            {
+                if (this.dgv_EquipMent_IPAddRess.Rows.Count <= 0) return;
+                if (this.dgv_EquipMent_IPAddRess.CurrentRow == null) return;
+                int index = Convert.ToInt32(this.dgv_EquipMent_IPAddRess.CurrentRow.Cells["equipmentid"].Value.ToString());
+                string equipmentname = this.dgv_EquipMent_IPAddRess.CurrentRow.Cells["EquipmentName"].Value.ToString();
+                ShowCGroup(index, this.dgv_EquipMent_IPAddRess, equipmentname);
+            }
+            catch (IndexOutOfRangeException ex)
+            {
+                string s = ex.Message;
+            }
         }
 
         /// <summary>
@@ -747,7 +757,7 @@ namespace Wen.ProConfigSysUI
                 }
             }
             //把对象从数据集合中删除
-            this.CGroupList.Remove(this.CGroupList.First(c=>c.Cgid==CGid));
+            this.CGroupList.Remove(this.CGroupList.First(c => c.Cgid==CGid));
             this.VarList = null;
             this.dgv_CG.DataSource = null;
             //更新显示
@@ -975,32 +985,42 @@ namespace Wen.ProConfigSysUI
             }
         }
 
+
+       
         /// <summary>
-        /// 导入excel中的variable
+        /// 导入CSV文件数据内容导入List<VariableModel>
         /// </summary>
         /// <param name="sender"></param>
         /// <param name="e"></param>
+        /// 
         private void btn_ReadCSV_Click(object sender, EventArgs e)
         {
             OpenFileDialog dlg = new OpenFileDialog();
             dlg.Title = "选择导入文件";
             dlg.Multiselect = false;
-            dlg.Filter = "Excel文件|*.xlsx|CSV文件|*.CSV";
+            dlg.Filter = "CSV文件|*.CSV";
             dlg.InitialDirectory = @"C:\Users";
             if (dlg.ShowDialog()==DialogResult.OK)
             {
-                string path=dlg.FileName;
-                List<VariablesModel> varList= MiniExcel.Query<VariablesModel>(path).ToList();
-                for (int i = 0; i <varList.Count; i++)
+                string path = dlg.FileName;
+                List<VariablesModel> varList = Common.CsvHelper.CsvToList<VariablesModel>(path,true);
+
+                //为了避免删除元素时，影响索引，采用倒叙的方法
+                for (int i = varList.Count - 1; i >= 0; i--)
                 {
                     varList[i].Cgid = Convert.ToInt32(this.dgv_CG.CurrentRow.Cells["CGID"].Value);
+
+                    if (this.VarList.Any(c => c.Variablename == varList[i].Variablename))
+                    {
+                        varList.RemoveAt(i);
+                    }
                 }
                 if (Variablebll.InsertVariables(varList))
                 {
                     this.VarList=null;
                     this.VarList = this.Variablebll.QueryVariable(Convert.ToInt32(this.dgv_CG.CurrentRow.Cells["CGID"].Value));
                     this.dgv_Variable.DataSource = null;
-                    for (int i = 0; i <this.VarList.Count; i++) 
+                    for (int i = 0; i <this.VarList.Count; i++)
                     {
                         this.VarList[i].SN = i + 1;
                     }
@@ -1010,11 +1030,11 @@ namespace Wen.ProConfigSysUI
         }
 
         /// <summary>
-        /// 保存变量组
+        /// 导出变量为csv文件
         /// </summary>
         /// <param name="sender"></param>
         /// <param name="e"></param>
-        private void btn_SaveCSV_Click(object sender, EventArgs e) 
+        private void btn_SaveCSV_Click(object sender, EventArgs e)
         {
             SaveFileDialog dlg = new SaveFileDialog();
             dlg.Title = "保存文件";
@@ -1022,8 +1042,10 @@ namespace Wen.ProConfigSysUI
             dlg.Filter = "CSV文件|*.csv|Excel文件|*.xlsx";
             if (dlg.ShowDialog()==DialogResult.OK)
             {
-                string path= dlg.FileName;
-                MiniExcel.SaveAs(path,this.dgv_Variable.DataSource);
+                string path = dlg.FileName;
+                Common.CsvHelper.ListToCsv((List<VariablesModel>)this.dgv_Variable.DataSource,path,true);
+                Process.Start(path);
+                //ExcelHelper.DataGridViewToExcel(path, this.dgv_Variable,true);
             }
         }
 
@@ -1042,15 +1064,15 @@ namespace Wen.ProConfigSysUI
 
             if (saveFileDialog.ShowDialog()==DialogResult.OK)
             {
-                string path= saveFileDialog.FileName;
+                string path = saveFileDialog.FileName;
                 string projectName = this.dgvProjects.CurrentRow.Cells["ProjectName"].Value.ToString();
-                bool result=new ConfigManage().ExportProjects(path,projectName);
+                bool result = new ConfigManage().ExportProjects(path, projectName);
                 if (result)
                 {
                     MessageBox.Show("配置文件", "导出成功", MessageBoxButtons.OK, MessageBoxIcon.Information);
                     this.rtb.Text=null;
                     this.rtb.Text=File.ReadAllText(path);
-                    
+
                 }
                 else
                 {
@@ -1059,5 +1081,6 @@ namespace Wen.ProConfigSysUI
 
             }
         }
+
     }
 }

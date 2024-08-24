@@ -62,6 +62,7 @@
             this.chkIsEnable = new System.Windows.Forms.CheckBox();
             this.btnAddEquipeMents = new System.Windows.Forms.Button();
             this.lblProject = new System.Windows.Forms.Label();
+            this.lbl_Comment = new System.Windows.Forms.Label();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.groupBox3.SuspendLayout();
@@ -126,6 +127,7 @@
             this.cmbProtocolType.Name = "cmbProtocolType";
             this.cmbProtocolType.Size = new System.Drawing.Size(328, 34);
             this.cmbProtocolType.TabIndex = 2;
+            this.cmbProtocolType.SelectedValueChanged += new System.EventHandler(this.cmbProtocolType_SelectedValueChanged);
             // 
             // label4
             // 
@@ -146,7 +148,7 @@
             this.groupBox1.Controls.Add(this.label5);
             this.groupBox1.Location = new System.Drawing.Point(49, 142);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(928, 144);
+            this.groupBox1.Size = new System.Drawing.Size(928, 122);
             this.groupBox1.TabIndex = 3;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "以太网配置";
@@ -206,7 +208,7 @@
             this.groupBox2.Controls.Add(this.label8);
             this.groupBox2.Location = new System.Drawing.Point(49, 292);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(928, 144);
+            this.groupBox2.Size = new System.Drawing.Size(928, 121);
             this.groupBox2.TabIndex = 4;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "串口配置";
@@ -345,7 +347,7 @@
             this.groupBox3.Controls.Add(this.label13);
             this.groupBox3.Location = new System.Drawing.Point(52, 442);
             this.groupBox3.Name = "groupBox3";
-            this.groupBox3.Size = new System.Drawing.Size(928, 144);
+            this.groupBox3.Size = new System.Drawing.Size(925, 121);
             this.groupBox3.TabIndex = 5;
             this.groupBox3.TabStop = false;
             this.groupBox3.Text = "OPC配置";
@@ -394,7 +396,7 @@
             // 
             this.label14.AutoSize = true;
             this.label14.Font = new System.Drawing.Font("微软雅黑", 15F, System.Drawing.FontStyle.Bold);
-            this.label14.Location = new System.Drawing.Point(50, 606);
+            this.label14.Location = new System.Drawing.Point(17, 609);
             this.label14.Name = "label14";
             this.label14.Size = new System.Drawing.Size(72, 27);
             this.label14.TabIndex = 14;
@@ -403,10 +405,10 @@
             // txtComments
             // 
             this.txtComments.Font = new System.Drawing.Font("微软雅黑", 15F, System.Drawing.FontStyle.Bold);
-            this.txtComments.Location = new System.Drawing.Point(128, 606);
+            this.txtComments.Location = new System.Drawing.Point(95, 609);
             this.txtComments.Multiline = true;
             this.txtComments.Name = "txtComments";
-            this.txtComments.Size = new System.Drawing.Size(817, 110);
+            this.txtComments.Size = new System.Drawing.Size(817, 122);
             this.txtComments.TabIndex = 6;
             // 
             // chkIsEnable
@@ -442,11 +444,22 @@
             this.lblProject.Size = new System.Drawing.Size(328, 27);
             this.lblProject.TabIndex = 18;
             // 
+            // lbl_Comment
+            // 
+            this.lbl_Comment.AutoSize = true;
+            this.lbl_Comment.Font = new System.Drawing.Font("微软雅黑", 15F, System.Drawing.FontStyle.Bold);
+            this.lbl_Comment.Location = new System.Drawing.Point(101, 571);
+            this.lbl_Comment.Name = "lbl_Comment";
+            this.lbl_Comment.Size = new System.Drawing.Size(52, 27);
+            this.lbl_Comment.TabIndex = 19;
+            this.lbl_Comment.Text = "事项";
+            // 
             // FrmEquipMent
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 26F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1080, 733);
+            this.Controls.Add(this.lbl_Comment);
             this.Controls.Add(this.lblProject);
             this.Controls.Add(this.btnAddEquipeMents);
             this.Controls.Add(this.chkIsEnable);
@@ -517,5 +530,6 @@
         private System.Windows.Forms.CheckBox chkIsEnable;
         private System.Windows.Forms.Button btnAddEquipeMents;
         private System.Windows.Forms.Label lblProject;
+        private System.Windows.Forms.Label lbl_Comment;
     }
 }

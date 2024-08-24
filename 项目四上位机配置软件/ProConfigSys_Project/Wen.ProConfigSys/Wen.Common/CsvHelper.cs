@@ -1,44 +1,47 @@
-ï»¿using System;
+using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Data;
 using System.IO;
 using System.Linq;
+using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Forms;
 
 namespace Wen.Common
 {
-    
     public class CsvHelper
     {
         /// <summary>
-        /// 
+        /// ½«CSVÎÄ¼şÖĞÄÚÈİ¶ÁÈ¡µ½DataTableÖĞ
         /// </summary>
-        /// <param name="path">CSVæ–‡ä»¶è·¯å¾„</param>
-        /// <param name="hasTitle">æ˜¯å¦å°†CSVæ–‡ä»¶çš„ç¬¬ä¸€è¡Œè¯»å–ä¸ºDataTable</param>
+        /// <param name="path">CSVÎÄ¼şÂ·¾¶</param>
+        /// <param name="hasTitle">ÊÇ·ñ½«CSVÎÄ¼şµÄµÚÒ»ĞĞ¶ÁÈ¡ÎªDataTableµÄÁĞÃû</param>
         /// <returns></returns>
-        public static DataTable CsvToDataTable(string path,bool hasTitle=true)
+        public static DataTable CsvToDataTable(string path, bool hasTitle = false)
         {
-            DataTable dt = new DataTable(); //è¦è¾“å‡ºçš„æ•°æ®è¡¨
-            StreamReader read=new StreamReader(path,Encoding.Default);
-            bool bFrist = true;
+            DataTable dt = new DataTable();           //ÒªÊä³öµÄÊı¾İ±í
+            StreamReader sr = new StreamReader(path, Encoding.Default); //ÎÄ¼ş¶ÁÈëÁ÷
+            bool bFirst = true;                       //Ö¸Ê¾ÊÇ·ñµÚÒ»´Î¶ÁÈ¡Êı¾İ
 
-            //é€è¡Œè¯»å–
-            string line=string.Empty;
-            while ((line=read.ReadLine())!=null)
+            //ÖğĞĞ¶ÁÈ¡
+            string line;
+            while ((line = sr.ReadLine()) != null)
             {
                 string[] elements = line.Split(',');
-                //ç¬¬ä¸€æ¬¡è¯»å–æ•°æ®æ—¶ï¼Œè¦åˆ›å»ºæ•°æ®åˆ—
-                if (bFrist)
+
+                //µÚÒ»´Î¶ÁÈ¡Êı¾İÊ±£¬Òª´´½¨Êı¾İÁĞ
+                if (bFirst)
                 {
-                    for (int i = 0; i < elements.Length; i++) 
+                    for (int i = 0; i < elements.Length; i++)
                     {
                         dt.Columns.Add();
                     }
-                    bFrist=false;
+                    bFirst = false;
                 }
 
-                //æœ‰æ ‡é¢˜æ—¶ï¼Œç¬¬ä¸€è¡Œå½“ä½œæ ‡é¢˜å¤„ç†
+                //ÓĞ±êÌâĞĞÊ±£¬µÚÒ»ĞĞµ±×ö±êÌâĞĞ´¦Àí
                 if (hasTitle)
                 {
                     for (int i = 0; i < dt.Columns.Count && i < elements.Length; i++)
@@ -47,7 +50,7 @@ namespace Wen.Common
                     }
                     hasTitle = false;
                 }
-                else//è¯»å–ä¸€è¡Œæ•°æ®
+                else //¶ÁÈ¡Ò»ĞĞÊı¾İ
                 {
                     if (elements.Length == dt.Columns.Count)
                     {
@@ -55,13 +58,300 @@ namespace Wen.Common
                     }
                     else
                     {
-                        throw new Exception("CSVæ ¼å¼é”™è¯¯:è¡¨æ ¼å„è¡Œåˆ—æ•°ä¸ä¸€è‡´");
+                        throw new Exception("CSV¸ñÊ½´íÎó£º±í¸ñ¸÷ĞĞÁĞÊı²»Ò»ÖÂ");
                     }
                 }
             }
-            read.Close();
+            sr.Close();
 
             return dt;
         }
+
+        /// <summary>
+        /// ½«CSVÎÄ¼şÖĞµÄÄÚÈİ¶ÁÈ¡×ª»»³ÉList<T>
+        /// </summary>
+        /// <typeparam name="T"></typeparam>
+        /// <param name="path"></param>
+        /// <param name="hasTitle"></param>
+        /// <returns></returns>
+        public static List<T> CsvToList<T>(string path, bool hasTitle = false)
+        {
+            DataTable dataTable = CsvToDataTable(path, hasTitle);
+
+            return DataTableToList<T>(dataTable);
+        }
+
+
+        /// <summary>
+        /// ½«DataTableÄÚÈİ±£´æµ½CSVÎÄ¼şÖĞ
+        /// </summary>
+        /// <param name="dt">Êı¾İ±í</param>
+        /// <param name="path">CSVÎÄ¼şµØÖ·</param>
+        /// <param name="hasTitle">ÊÇ·ñÒªÊä³öÊı¾İ±í¸÷ÁĞÁĞÃû×÷ÎªCSVÎÄ¼şµÚÒ»ĞĞ</param>
+        public static void DataTableToCsv(DataTable dt, string path, bool hasTitle = false)
+        {
+            StreamWriter sw = new StreamWriter(path, false, Encoding.Default);
+
+            //Êä³ö±êÌâĞĞ£¨Èç¹ûÓĞ£©
+            if (hasTitle)
+            {
+                for (int i = 0; i < dt.Columns.Count; i++)
+                {
+                    sw.Write(dt.Columns[i].ColumnName);
+                    if (i != dt.Columns.Count - 1)
+                    {
+                        sw.Write(",");
+                    }
+                }
+                sw.WriteLine();
+            }
+
+            //Êä³öÎÄ¼şÄÚÈİ
+            for (int i = 0; i < dt.Rows.Count; i++)
+            {
+                for (int j = 0; j < dt.Columns.Count; j++)
+                {
+                    sw.Write(dt.Rows[i][j].ToString());
+                    if (j != dt.Columns.Count - 1)
+                    {
+                        sw.Write(",");
+                    }
+                }
+                sw.WriteLine();
+            }
+
+            sw.Close();
+        }
+
+        /// <summary>
+        /// ½«List¼¯ºÏ×ª»»CSVÎÄ¼ş
+        /// </summary>
+        /// <typeparam name="T"></typeparam>
+        /// <param name="list"></param>
+        /// <param name="path"></param>
+        /// <param name="hasTitle"></param>
+        public static void ListToCsv<T>(List<T> list, string path, bool hasTitle = false)
+        {
+            DataTable dataTable = ListToDataTable<T>(list);
+
+            DataTableToCsv(dataTable, path, hasTitle);
+        }
+
+
+        #region DataTableToList
+        public static List<T> DataTableToList<T>(DataTable table)
+        {
+            if (table == null)
+            {
+                return null;
+            }
+            List<DataRow> rows = new List<DataRow>();
+
+            foreach (DataRow row in table.Rows)
+            {
+                rows.Add(row);
+            }
+
+            return ConvertTo<T>(rows);
+        }
+
+        private static List<T> ConvertTo<T>(IList<DataRow> rows)
+        {
+            List<T> list = null;
+            if (rows != null)
+            {
+
+                list = new List<T>();
+                foreach (DataRow row in rows)
+                {
+                    T item = CreateItem<T>(row);
+                    list.Add(item);
+                }
+
+            }
+            return list;
+        }
+
+        private static T CreateItem<T>(DataRow row)
+        {
+            T obj = default(T);
+
+            if (row != null)
+            {
+                obj = Activator.CreateInstance<T>();
+
+                foreach (DataColumn column in row.Table.Columns)
+                {
+                    PropertyInfo prop = obj.GetType().GetProperty(column.ColumnName);
+
+                    try
+                    {
+                        object value = row[column.ColumnName];
+
+                        SetObjectPropertyValue(obj, column.ColumnName, value.ToString());
+                    }
+
+                    catch (Exception ex)
+                    {
+                        throw ex;
+                    }
+                }
+            }
+            return obj;
+        }
+
+        /// <summary>
+        /// Í¨¹ıÊôĞÔÃû³ÆÉèÖÃÖµ
+        /// </summary>
+        /// <typeparam name="T">¶ÔÏóÀàĞÍ</typeparam>
+        /// <param name="obj">¶ÔÏó</param>
+        /// <param name="propertyName">ÊôĞÔÃû³Æ</param>
+        /// <param name="value">Öµ</param>
+        /// <returns>ÊÇ·ñ³É¹¦</returns>
+        private static bool SetObjectPropertyValue<T>(T obj, string propertyName, string value)
+        {
+            try
+            {
+                Type type = typeof(T);
+
+                object t = Convert.ChangeType(value, type.GetProperty(propertyName).PropertyType);
+
+                type.GetProperty(propertyName).SetValue(obj, t, null);
+
+                return true;
+
+            }
+            catch (Exception ex)
+            {
+                return false;
+            }
+        }
+        #endregion
+
+        #region ListToDataTable
+
+        public static DataTable ListToDataTable<T>(IEnumerable<T> collection)
+        {
+            var props = typeof(T).GetProperties();
+
+            var dt = new DataTable();
+
+            dt.Columns.AddRange(props.Select(p => new DataColumn(p.Name, p.PropertyType)).ToArray());
+
+            if (collection.Count() > 0)
+            {
+                for (int i = 0; i < collection.Count(); i++)
+                {
+                    ArrayList tempList = new ArrayList();
+
+                    foreach (PropertyInfo pi in props)
+                    {
+                        object obj = pi.GetValue(collection.ElementAt(i), null);
+                        tempList.Add(obj);
+                    }
+
+                    object[] array = tempList.ToArray();
+
+                    dt.LoadDataRow(array, true);
+
+                }
+            }
+            return dt;
+        }
+
+        #endregion
+
+        #region Ğ´Èëµ½CSV
+
+        ///// <summary>
+        ///// Ğ´Èëµ½CSV
+        ///// </summary>
+        ///// <param name="path">Â·¾¶</param>
+        ///// <param name="dataList">Êı¾İ¼¯ºÏ</param>
+        ///// <param name="title">±êÌâ¼¯ºÏ</param>
+        //public static void WriteToCsv(string path, List<string> dataList, List<string> title = null, string remark = null)
+        //{
+        //    StreamWriter streamWriter = null;
+
+        //    try
+        //    {
+        //        //ËµÃ÷ÊÇµÚÒ»´Î£¬ÒòÎªµÚÒ»´ÎĞèÒªĞ´Èëtitle
+        //        if (!File.Exists(path))
+        //        {
+        //            streamWriter = new StreamWriter(path, false, Encoding.Default);
+
+        //            if (remark != null)
+        //            {
+        //                //Ğ´ÈëÒ»Ğ©±¸×¢ĞÅÏ¢
+        //                streamWriter.WriteLine(remark, Encoding.Default);
+        //            }
+
+        //            if (title != null)
+        //            {
+        //                //Ğ´Èë±êÌâ
+        //                streamWriter.WriteLine(string.Join(",", title), Encoding.Default);
+        //            }
+        //        }
+        //        else
+        //        {
+        //            //Ğ´ÈëÊı¾İ
+        //            streamWriter = new StreamWriter(path, true, Encoding.Default);
+        //        }
+
+        //        streamWriter.WriteLine(string.Join(",", dataList), Encoding.Default);
+
+        //        streamWriter.Flush();
+        //        streamWriter.Close();
+        //    }
+        //    catch (Exception ex)
+        //    {
+        //        throw new Exception("CsvĞ´ÈëÊ§°Ü£º" + ex.Message);
+        //    }
+        //}
+
+        #endregion
+
+        #region Ğ´Èëµ½CSV
+        /// <summary>
+        /// Ğ´Èëµ½csv
+        /// </summary>
+        /// <param name="path">Â·¾¶</param>
+        /// <param name="dataList">Êı¾İ¼¯ºÏ</param>
+        /// <param name="title">±êÌâ¼¯ºÏ</param>
+        /// <returns></returns>
+        public static void WriteCSV(string path ,List<string> dataList,List<string> title=null,string remark=null)
+        {
+            StreamWriter streamWrite = null;
+            try
+            {
+                //ÅĞ¶ÏÊÇµÚÒ»´ÎĞ´Èë»¹ÊÇ×·¼Ó
+                if (!File.Exists(path))
+                {
+                    streamWrite = new StreamWriter(path, false, Encoding.Default);
+                    if (remark!=null)
+                    {
+                        streamWrite.WriteLine(remark, Encoding.Default);
+                    }
+                    if (title!=null)
+                    {
+                        streamWrite.WriteLine(string.Join(",", title), Encoding.Default);
+                    }
+                }
+                else
+                {
+                    streamWrite=new StreamWriter(path, true, Encoding.Default);
+                }
+                //Ìí¼ÓÊı¾İ
+                streamWrite.WriteLine(string.Join(",", dataList), Encoding.Default);
+
+                streamWrite.Flush();
+                streamWrite.Close();
+            }
+            catch (Exception e) 
+            {
+                MessageBox.Show("CSVĞ´Èë´íÎó"+e.Message);
+            }
+        }
+        #endregion
     }
 }

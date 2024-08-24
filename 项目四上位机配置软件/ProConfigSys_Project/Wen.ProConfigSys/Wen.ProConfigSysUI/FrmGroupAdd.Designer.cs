@@ -45,12 +45,6 @@
             this.chk_IsEnable = new System.Windows.Forms.CheckBox();
             this.btn_Add_CGroup = new System.Windows.Forms.Button();
             this.dgv_CGroup = new System.Windows.Forms.DataGridView();
-            this.label8 = new System.Windows.Forms.Label();
-            this.label9 = new System.Windows.Forms.Label();
-            this.label10 = new System.Windows.Forms.Label();
-            this.label11 = new System.Windows.Forms.Label();
-            this.label12 = new System.Windows.Forms.Label();
-            this.label13 = new System.Windows.Forms.Label();
             this.SN = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.equipmentname = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.CgName = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -58,6 +52,12 @@
             this.cglength = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.ISenable = new System.Windows.Forms.DataGridViewCheckBoxColumn();
             this.comments = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.label8 = new System.Windows.Forms.Label();
+            this.label9 = new System.Windows.Forms.Label();
+            this.label10 = new System.Windows.Forms.Label();
+            this.label11 = new System.Windows.Forms.Label();
+            this.label12 = new System.Windows.Forms.Label();
+            this.label13 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.dgv_CGroup)).BeginInit();
             this.SuspendLayout();
             // 
@@ -216,61 +216,6 @@
             this.dgv_CGroup.Size = new System.Drawing.Size(1278, 357);
             this.dgv_CGroup.TabIndex = 13;
             // 
-            // label8
-            // 
-            this.label8.AutoSize = true;
-            this.label8.Location = new System.Drawing.Point(44, 644);
-            this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(183, 26);
-            this.label8.TabIndex = 14;
-            this.label8.Text = "起始地址填写格式：";
-            // 
-            // label9
-            // 
-            this.label9.AutoSize = true;
-            this.label9.Location = new System.Drawing.Point(33, 706);
-            this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(273, 26);
-            this.label9.TabIndex = 15;
-            this.label9.Text = "西门子PLC：M0,I0,Q0,DB1.0";
-            // 
-            // label10
-            // 
-            this.label10.AutoSize = true;
-            this.label10.Location = new System.Drawing.Point(326, 706);
-            this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(264, 26);
-            this.label10.TabIndex = 16;
-            this.label10.Text = "三菱PLC：M0,X0,Y0,D0,W0";
-            // 
-            // label11
-            // 
-            this.label11.AutoSize = true;
-            this.label11.Location = new System.Drawing.Point(613, 706);
-            this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(272, 26);
-            this.label11.TabIndex = 17;
-            this.label11.Text = "欧姆龙PLC：M0,D0,H0,CIO0";
-            // 
-            // label12
-            // 
-            this.label12.AutoSize = true;
-            this.label12.Location = new System.Drawing.Point(33, 737);
-            this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(433, 26);
-            this.label12.TabIndex = 18;
-            this.label12.Text = "Modbus：1.00001,2.00001,3.40001,4.30001";
-            // 
-            // label13
-            // 
-            this.label13.AutoSize = true;
-            this.label13.ForeColor = System.Drawing.Color.Red;
-            this.label13.Location = new System.Drawing.Point(502, 737);
-            this.label13.Name = "label13";
-            this.label13.Size = new System.Drawing.Size(394, 26);
-            this.label13.TabIndex = 19;
-            this.label13.Text = ". 前面表示站号，后面表示绝对的Mdbus地址";
-            // 
             // SN
             // 
             this.SN.DataPropertyName = "SN";
@@ -324,6 +269,61 @@
             this.comments.HeaderText = "备注";
             this.comments.Name = "comments";
             this.comments.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
+            // 
+            // label8
+            // 
+            this.label8.AutoSize = true;
+            this.label8.Location = new System.Drawing.Point(44, 644);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(183, 26);
+            this.label8.TabIndex = 14;
+            this.label8.Text = "起始地址填写格式：";
+            // 
+            // label9
+            // 
+            this.label9.AutoSize = true;
+            this.label9.Location = new System.Drawing.Point(33, 706);
+            this.label9.Name = "label9";
+            this.label9.Size = new System.Drawing.Size(273, 26);
+            this.label9.TabIndex = 15;
+            this.label9.Text = "西门子PLC：M0,I0,Q0,DB1.0";
+            // 
+            // label10
+            // 
+            this.label10.AutoSize = true;
+            this.label10.Location = new System.Drawing.Point(326, 706);
+            this.label10.Name = "label10";
+            this.label10.Size = new System.Drawing.Size(264, 26);
+            this.label10.TabIndex = 16;
+            this.label10.Text = "三菱PLC：M0,X0,Y0,D0,W0";
+            // 
+            // label11
+            // 
+            this.label11.AutoSize = true;
+            this.label11.Location = new System.Drawing.Point(613, 706);
+            this.label11.Name = "label11";
+            this.label11.Size = new System.Drawing.Size(272, 26);
+            this.label11.TabIndex = 17;
+            this.label11.Text = "欧姆龙PLC：M0,D0,H0,CIO0";
+            // 
+            // label12
+            // 
+            this.label12.AutoSize = true;
+            this.label12.Location = new System.Drawing.Point(33, 737);
+            this.label12.Name = "label12";
+            this.label12.Size = new System.Drawing.Size(433, 26);
+            this.label12.TabIndex = 18;
+            this.label12.Text = "Modbus：1.00001,2.00001,3.40001,4.30001";
+            // 
+            // label13
+            // 
+            this.label13.AutoSize = true;
+            this.label13.ForeColor = System.Drawing.Color.Red;
+            this.label13.Location = new System.Drawing.Point(502, 737);
+            this.label13.Name = "label13";
+            this.label13.Size = new System.Drawing.Size(653, 26);
+            this.label13.TabIndex = 19;
+            this.label13.Text = ". 前面表示站号，后面第一个数字表示存储区，剩下表示绝对的Modbus地址";
             // 
             // FrmGroupAdd
             // 

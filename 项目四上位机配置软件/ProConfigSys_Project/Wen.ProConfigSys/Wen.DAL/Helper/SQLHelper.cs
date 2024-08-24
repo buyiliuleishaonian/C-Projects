@@ -268,21 +268,21 @@ namespace Wen.DAL
             try
             {
                 con.Open() ;
-                cmd.Transaction = con.BeginTransaction();
+                cmd.Transaction = con.BeginTransaction();//开启事务
                 for (int i = 0; i < sqlparameter.Count; i++) 
                 {
                     cmd.Parameters.Clear();
                     cmd.Parameters.AddRange(sqlparameter[i]);
                     cmd.ExecuteNonQuery();
                 }
-                cmd.Transaction.Commit() ;
+                cmd.Transaction.Commit() ;//提交事务（并清除自动事务）
                 value = true;
             }
             catch(Exception ex)
             {
                 if (cmd.Transaction != null)
                 {
-                    cmd.Transaction.Rollback();
+                    cmd.Transaction.Rollback();//回滚事务
                     cmd.Transaction = null;
                 }
                 else

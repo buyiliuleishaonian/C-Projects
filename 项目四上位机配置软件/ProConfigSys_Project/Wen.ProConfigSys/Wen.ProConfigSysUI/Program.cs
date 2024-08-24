@@ -1,5 +1,7 @@
 ﻿using System;
+
 using System.Collections.Generic;
+using System.Diagnostics.Tracing;
 using System.Drawing;
 using System.Linq;
 using System.Security.Cryptography.X509Certificates;
@@ -31,7 +33,7 @@ namespace Wen.ProConfigSysUI
             FrmAdminLogin frmAdminLogin = new FrmAdminLogin();
             if (frmAdminLogin.ShowDialog()==DialogResult.OK)
             {
-                Application.Run(new FrmMain());
+                    Application.Run(new FrmMain());
             }
             else
             {
