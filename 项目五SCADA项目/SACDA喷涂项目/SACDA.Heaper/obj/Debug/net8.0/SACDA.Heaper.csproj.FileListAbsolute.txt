@@ -1,0 +1,16 @@
+C:\C#基础\Test\项目五SCADA项目\SACDA喷涂项目\SACDA.Heaper\bin\Debug\net8.0\SACDA.Heaper.deps.json
+C:\C#基础\Test\项目五SCADA项目\SACDA喷涂项目\SACDA.Heaper\bin\Debug\net8.0\SACDA.Heaper.dll
+C:\C#基础\Test\项目五SCADA项目\SACDA喷涂项目\SACDA.Heaper\bin\Debug\net8.0\SACDA.Heaper.pdb
+C:\C#基础\Test\项目五SCADA项目\SACDA喷涂项目\SACDA.Heaper\bin\Debug\net8.0\SACDA.Model.dll
+C:\C#基础\Test\项目五SCADA项目\SACDA喷涂项目\SACDA.Heaper\bin\Debug\net8.0\SACDA.Model.pdb
+C:\C#基础\Test\项目五SCADA项目\SACDA喷涂项目\SACDA.Heaper\obj\Debug\net8.0\SACDA.Heaper.csproj.AssemblyReference.cache
+C:\C#基础\Test\项目五SCADA项目\SACDA喷涂项目\SACDA.Heaper\obj\Debug\net8.0\SACDA.Heaper.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#基础\Test\项目五SCADA项目\SACDA喷涂项目\SACDA.Heaper\obj\Debug\net8.0\SACDA.Heaper.AssemblyInfoInputs.cache
+C:\C#基础\Test\项目五SCADA项目\SACDA喷涂项目\SACDA.Heaper\obj\Debug\net8.0\SACDA.Heaper.AssemblyInfo.cs
+C:\C#基础\Test\项目五SCADA项目\SACDA喷涂项目\SACDA.Heaper\obj\Debug\net8.0\SACDA.Heaper.csproj.CoreCompileInputs.cache
+C:\C#基础\Test\项目五SCADA项目\SACDA喷涂项目\SACDA.Heaper\obj\Debug\net8.0\SACDA.Heaper.sourcelink.json
+C:\C#基础\Test\项目五SCADA项目\SACDA喷涂项目\SACDA.Heaper\obj\Debug\net8.0\SACDA.He.EDFD06F7.Up2Date
+C:\C#基础\Test\项目五SCADA项目\SACDA喷涂项目\SACDA.Heaper\obj\Debug\net8.0\SACDA.Heaper.dll
+C:\C#基础\Test\项目五SCADA项目\SACDA喷涂项目\SACDA.Heaper\obj\Debug\net8.0\refint\SACDA.Heaper.dll
+C:\C#基础\Test\项目五SCADA项目\SACDA喷涂项目\SACDA.Heaper\obj\Debug\net8.0\SACDA.Heaper.pdb
+C:\C#基础\Test\项目五SCADA项目\SACDA喷涂项目\SACDA.Heaper\obj\Debug\net8.0\ref\SACDA.Heaper.dll

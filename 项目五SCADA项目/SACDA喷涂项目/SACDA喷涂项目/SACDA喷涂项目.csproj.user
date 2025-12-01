@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="FrmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Page\PageAuthManage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Page\PageChartManage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Page\PageToalEquipmentControl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Page\PageLogManage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Page\PageRecipeManage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Page\PageReportManage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Page\PageSystemParameterSet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Page\PageEquipmentMonitr1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Page\PageUserManage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserControl\UserControlButton.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControl\UserDeviceUnitControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControl\UserDeviceState.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControl\UserDeviceAlarmState.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

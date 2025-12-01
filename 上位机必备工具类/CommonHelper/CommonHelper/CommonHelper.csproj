@@ -83,6 +83,22 @@
     <Compile Include="ByteArray.cs" />
     <Compile Include="CPUInfoHelper.cs" />
     <Compile Include="CsvHelper.cs" />
+    <Compile Include="DataConvert\BitLib.cs" />
+    <Compile Include="DataConvert\ByteArray.cs" />
+    <Compile Include="DataConvert\ByteArrayLib.cs" />
+    <Compile Include="DataConvert\ByteLib.cs" />
+    <Compile Include="DataConvert\DoubleLib.cs" />
+    <Compile Include="DataConvert\Enum.cs" />
+    <Compile Include="DataConvert\FloatLib.cs" />
+    <Compile Include="DataConvert\IntLib.cs" />
+    <Compile Include="DataConvert\LongLib.cs" />
+    <Compile Include="DataConvert\MigrationLib.cs" />
+    <Compile Include="DataConvert\OperateResult.cs" />
+    <Compile Include="DataConvert\ShortLib.cs" />
+    <Compile Include="DataConvert\StringLib.cs" />
+    <Compile Include="DataConvert\UIntLib.cs" />
+    <Compile Include="DataConvert\ULongLib.cs" />
+    <Compile Include="DataConvert\UShortLib.cs" />
     <Compile Include="DataGridViewStyle.cs" />
     <Compile Include="DataTypeEnum.cs" />
     <Compile Include="DataValidate.cs" />
@@ -95,7 +111,7 @@
     <Compile Include="MySQLHelper.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SQLHelper.cs" />
-    <Compile Include="SQLiteHelper.cs" />
+    <Compile Include="SQLLiteHelper.cs" />
     <Compile Include="StringSecurityHelper.cs" />
     <Compile Include="XmlHelper.cs" />
   </ItemGroup>

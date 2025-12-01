@@ -1,0 +1,14 @@
+C:\C#基础\Test\项目五SCADA项目\SACDA喷涂项目\SACDA.Model\bin\Debug\net8.0\SACDA.Model.deps.json
+C:\C#基础\Test\项目五SCADA项目\SACDA喷涂项目\SACDA.Model\bin\Debug\net8.0\SACDA.Model.dll
+C:\C#基础\Test\项目五SCADA项目\SACDA喷涂项目\SACDA.Model\bin\Debug\net8.0\SACDA.Model.pdb
+C:\C#基础\Test\项目五SCADA项目\SACDA喷涂项目\SACDA.Model\obj\Debug\net8.0\SACDA.Model.csproj.AssemblyReference.cache
+C:\C#基础\Test\项目五SCADA项目\SACDA喷涂项目\SACDA.Model\obj\Debug\net8.0\SACDA.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#基础\Test\项目五SCADA项目\SACDA喷涂项目\SACDA.Model\obj\Debug\net8.0\SACDA.Model.AssemblyInfoInputs.cache
+C:\C#基础\Test\项目五SCADA项目\SACDA喷涂项目\SACDA.Model\obj\Debug\net8.0\SACDA.Model.AssemblyInfo.cs
+C:\C#基础\Test\项目五SCADA项目\SACDA喷涂项目\SACDA.Model\obj\Debug\net8.0\SACDA.Model.csproj.CoreCompileInputs.cache
+C:\C#基础\Test\项目五SCADA项目\SACDA喷涂项目\SACDA.Model\obj\Debug\net8.0\SACDA.Model.sourcelink.json
+C:\C#基础\Test\项目五SCADA项目\SACDA喷涂项目\SACDA.Model\obj\Debug\net8.0\SACDA.Model.csproj.Fody.CopyLocal.cache
+C:\C#基础\Test\项目五SCADA项目\SACDA喷涂项目\SACDA.Model\obj\Debug\net8.0\SACDA.Model.dll
+C:\C#基础\Test\项目五SCADA项目\SACDA喷涂项目\SACDA.Model\obj\Debug\net8.0\refint\SACDA.Model.dll
+C:\C#基础\Test\项目五SCADA项目\SACDA喷涂项目\SACDA.Model\obj\Debug\net8.0\SACDA.Model.pdb
+C:\C#基础\Test\项目五SCADA项目\SACDA喷涂项目\SACDA.Model\obj\Debug\net8.0\ref\SACDA.Model.dll

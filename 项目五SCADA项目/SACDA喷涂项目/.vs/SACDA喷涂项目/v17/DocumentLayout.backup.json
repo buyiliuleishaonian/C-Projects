@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C#\u57FA\u7840\\Test\\\u9879\u76EE\u4E94SCADA\u9879\u76EE\\SACDA\u55B7\u6D82\u9879\u76EE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C30B46E6-8E59-47D6-89F3-A9EDB4F90DE7}|SACDA\u55B7\u6D82\u9879\u76EE\\SACDA\u55B7\u6D82\u9879\u76EE.csproj|c:\\c#\u57FA\u7840\\test\\\u9879\u76EE\u4E94scada\u9879\u76EE\\sacda\u55B7\u6D82\u9879\u76EE\\sacda\u55B7\u6D82\u9879\u76EE\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C30B46E6-8E59-47D6-89F3-A9EDB4F90DE7}|SACDA\u55B7\u6D82\u9879\u76EE\\SACDA\u55B7\u6D82\u9879\u76EE.csproj|solutionrelative:sacda\u55B7\u6D82\u9879\u76EE\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30B46E6-8E59-47D6-89F3-A9EDB4F90DE7}|SACDA\u55B7\u6D82\u9879\u76EE\\SACDA\u55B7\u6D82\u9879\u76EE.csproj|C:\\C#\u57FA\u7840\\Test\\\u9879\u76EE\u4E94SCADA\u9879\u76EE\\SACDA\u55B7\u6D82\u9879\u76EE\\sacda\u55B7\u6D82\u9879\u76EE\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C30B46E6-8E59-47D6-89F3-A9EDB4F90DE7}|SACDA\u55B7\u6D82\u9879\u76EE\\SACDA\u55B7\u6D82\u9879\u76EE.csproj|solutionrelative:sacda\u55B7\u6D82\u9879\u76EE\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30B46E6-8E59-47D6-89F3-A9EDB4F90DE7}|SACDA\u55B7\u6D82\u9879\u76EE\\SACDA\u55B7\u6D82\u9879\u76EE.csproj|c:\\c#\u57FA\u7840\\test\\\u9879\u76EE\u4E94scada\u9879\u76EE\\sacda\u55B7\u6D82\u9879\u76EE\\sacda\u55B7\u6D82\u9879\u76EE\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C30B46E6-8E59-47D6-89F3-A9EDB4F90DE7}|SACDA\u55B7\u6D82\u9879\u76EE\\SACDA\u55B7\u6D82\u9879\u76EE.csproj|solutionrelative:sacda\u55B7\u6D82\u9879\u76EE\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30B46E6-8E59-47D6-89F3-A9EDB4F90DE7}|SACDA\u55B7\u6D82\u9879\u76EE\\SACDA\u55B7\u6D82\u9879\u76EE.csproj|c:\\c#\u57FA\u7840\\test\\\u9879\u76EE\u4E94scada\u9879\u76EE\\sacda\u55B7\u6D82\u9879\u76EE\\sacda\u55B7\u6D82\u9879\u76EE\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C30B46E6-8E59-47D6-89F3-A9EDB4F90DE7}|SACDA\u55B7\u6D82\u9879\u76EE\\SACDA\u55B7\u6D82\u9879\u76EE.csproj|solutionrelative:sacda\u55B7\u6D82\u9879\u76EE\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD138612-0B79-4AB0-8A0A-CB3AA5DDEF7B}|SACDA.Model\\SACDA.Model.csproj|c:\\c#\u57FA\u7840\\test\\\u9879\u76EE\u4E94scada\u9879\u76EE\\sacda\u55B7\u6D82\u9879\u76EE\\sacda.model\\plcvarconfigmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD138612-0B79-4AB0-8A0A-CB3AA5DDEF7B}|SACDA.Model\\SACDA.Model.csproj|solutionrelative:sacda.model\\plcvarconfigmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30B46E6-8E59-47D6-89F3-A9EDB4F90DE7}|SACDA\u55B7\u6D82\u9879\u76EE\\SACDA\u55B7\u6D82\u9879\u76EE.csproj|c:\\c#\u57FA\u7840\\test\\\u9879\u76EE\u4E94scada\u9879\u76EE\\sacda\u55B7\u6D82\u9879\u76EE\\sacda\u55B7\u6D82\u9879\u76EE\\page\\pagesystemparameterset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C30B46E6-8E59-47D6-89F3-A9EDB4F90DE7}|SACDA\u55B7\u6D82\u9879\u76EE\\SACDA\u55B7\u6D82\u9879\u76EE.csproj|solutionrelative:sacda\u55B7\u6D82\u9879\u76EE\\page\\pagesystemparameterset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30B46E6-8E59-47D6-89F3-A9EDB4F90DE7}|SACDA\u55B7\u6D82\u9879\u76EE\\SACDA\u55B7\u6D82\u9879\u76EE.csproj|C:\\C#\u57FA\u7840\\Test\\\u9879\u76EE\u4E94SCADA\u9879\u76EE\\SACDA\u55B7\u6D82\u9879\u76EE\\sacda\u55B7\u6D82\u9879\u76EE\\page\\pagesystemparameterset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C30B46E6-8E59-47D6-89F3-A9EDB4F90DE7}|SACDA\u55B7\u6D82\u9879\u76EE\\SACDA\u55B7\u6D82\u9879\u76EE.csproj|solutionrelative:sacda\u55B7\u6D82\u9879\u76EE\\page\\pagesystemparameterset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30B46E6-8E59-47D6-89F3-A9EDB4F90DE7}|SACDA\u55B7\u6D82\u9879\u76EE\\SACDA\u55B7\u6D82\u9879\u76EE.csproj|c:\\c#\u57FA\u7840\\test\\\u9879\u76EE\u4E94scada\u9879\u76EE\\sacda\u55B7\u6D82\u9879\u76EE\\sacda\u55B7\u6D82\u9879\u76EE\\systemconstant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C30B46E6-8E59-47D6-89F3-A9EDB4F90DE7}|SACDA\u55B7\u6D82\u9879\u76EE\\SACDA\u55B7\u6D82\u9879\u76EE.csproj|solutionrelative:sacda\u55B7\u6D82\u9879\u76EE\\systemconstant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD138612-0B79-4AB0-8A0A-CB3AA5DDEF7B}|SACDA.Model\\SACDA.Model.csproj|c:\\c#\u57FA\u7840\\test\\\u9879\u76EE\u4E94scada\u9879\u76EE\\sacda\u55B7\u6D82\u9879\u76EE\\sacda.model\\fodyweavers.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BD138612-0B79-4AB0-8A0A-CB3AA5DDEF7B}|SACDA.Model\\SACDA.Model.csproj|solutionrelative:sacda.model\\fodyweavers.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C50C46-B140-4E7B-B3BA-CFE58BDB5B3E}|SACDA.Heaper\\SACDA.Heaper.csproj|c:\\c#\u57FA\u7840\\test\\\u9879\u76EE\u4E94scada\u9879\u76EE\\sacda\u55B7\u6D82\u9879\u76EE\\sacda.heaper\\systemenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C50C46-B140-4E7B-B3BA-CFE58BDB5B3E}|SACDA.Heaper\\SACDA.Heaper.csproj|solutionrelative:sacda.heaper\\systemenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PageSystemParameterSet.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\C#\u57FA\u7840\\Test\\\u9879\u76EE\u4E94SCADA\u9879\u76EE\\SACDA\u55B7\u6D82\u9879\u76EE\\SACDA\u55B7\u6D82\u9879\u76EE\\Page\\PageSystemParameterSet.cs",
+              "RelativeDocumentMoniker": "SACDA\u55B7\u6D82\u9879\u76EE\\Page\\PageSystemParameterSet.cs",
+              "ToolTip": "C:\\C#\u57FA\u7840\\Test\\\u9879\u76EE\u4E94SCADA\u9879\u76EE\\SACDA\u55B7\u6D82\u9879\u76EE\\SACDA\u55B7\u6D82\u9879\u76EE\\Page\\PageSystemParameterSet.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "SACDA\u55B7\u6D82\u9879\u76EE\\Page\\PageSystemParameterSet.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T03:33:10.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmMain.cs",
+              "DocumentMoniker": "C:\\C#\u57FA\u7840\\Test\\\u9879\u76EE\u4E94SCADA\u9879\u76EE\\SACDA\u55B7\u6D82\u9879\u76EE\\SACDA\u55B7\u6D82\u9879\u76EE\\FrmMain.cs",
+              "RelativeDocumentMoniker": "SACDA\u55B7\u6D82\u9879\u76EE\\FrmMain.cs",
+              "ToolTip": "C:\\C#\u57FA\u7840\\Test\\\u9879\u76EE\u4E94SCADA\u9879\u76EE\\SACDA\u55B7\u6D82\u9879\u76EE\\SACDA\u55B7\u6D82\u9879\u76EE\\FrmMain.cs",
+              "RelativeToolTip": "SACDA\u55B7\u6D82\u9879\u76EE\\FrmMain.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAgwF8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T03:10:57.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmMain.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\C#\u57FA\u7840\\Test\\\u9879\u76EE\u4E94SCADA\u9879\u76EE\\SACDA\u55B7\u6D82\u9879\u76EE\\SACDA\u55B7\u6D82\u9879\u76EE\\FrmMain.cs",
+              "RelativeDocumentMoniker": "SACDA\u55B7\u6D82\u9879\u76EE\\FrmMain.cs",
+              "ToolTip": "C:\\C#\u57FA\u7840\\Test\\\u9879\u76EE\u4E94SCADA\u9879\u76EE\\SACDA\u55B7\u6D82\u9879\u76EE\\SACDA\u55B7\u6D82\u9879\u76EE\\FrmMain.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "SACDA\u55B7\u6D82\u9879\u76EE\\FrmMain.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T03:10:29.333Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SystemConstant.cs",
+              "DocumentMoniker": "C:\\C#\u57FA\u7840\\Test\\\u9879\u76EE\u4E94SCADA\u9879\u76EE\\SACDA\u55B7\u6D82\u9879\u76EE\\SACDA\u55B7\u6D82\u9879\u76EE\\SystemConstant.cs",
+              "RelativeDocumentMoniker": "SACDA\u55B7\u6D82\u9879\u76EE\\SystemConstant.cs",
+              "ToolTip": "C:\\C#\u57FA\u7840\\Test\\\u9879\u76EE\u4E94SCADA\u9879\u76EE\\SACDA\u55B7\u6D82\u9879\u76EE\\SACDA\u55B7\u6D82\u9879\u76EE\\SystemConstant.cs",
+              "RelativeToolTip": "SACDA\u55B7\u6D82\u9879\u76EE\\SystemConstant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T03:06:30.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Global.cs",
+              "DocumentMoniker": "C:\\C#\u57FA\u7840\\Test\\\u9879\u76EE\u4E94SCADA\u9879\u76EE\\SACDA\u55B7\u6D82\u9879\u76EE\\SACDA\u55B7\u6D82\u9879\u76EE\\Global.cs",
+              "RelativeDocumentMoniker": "SACDA\u55B7\u6D82\u9879\u76EE\\Global.cs",
+              "ToolTip": "C:\\C#\u57FA\u7840\\Test\\\u9879\u76EE\u4E94SCADA\u9879\u76EE\\SACDA\u55B7\u6D82\u9879\u76EE\\SACDA\u55B7\u6D82\u9879\u76EE\\Global.cs",
+              "RelativeToolTip": "SACDA\u55B7\u6D82\u9879\u76EE\\Global.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAwFAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T03:06:29.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FodyWeavers.xml",
+              "DocumentMoniker": "C:\\C#\u57FA\u7840\\Test\\\u9879\u76EE\u4E94SCADA\u9879\u76EE\\SACDA\u55B7\u6D82\u9879\u76EE\\SACDA.Model\\FodyWeavers.xml",
+              "RelativeDocumentMoniker": "SACDA.Model\\FodyWeavers.xml",
+              "ToolTip": "C:\\C#\u57FA\u7840\\Test\\\u9879\u76EE\u4E94SCADA\u9879\u76EE\\SACDA\u55B7\u6D82\u9879\u76EE\\SACDA.Model\\FodyWeavers.xml",
+              "RelativeToolTip": "SACDA.Model\\FodyWeavers.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-11-20T02:32:42.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PLCVarConfigModel.cs",
+              "DocumentMoniker": "C:\\C#\u57FA\u7840\\Test\\\u9879\u76EE\u4E94SCADA\u9879\u76EE\\SACDA\u55B7\u6D82\u9879\u76EE\\SACDA.Model\\PLCVarConfigModel.cs",
+              "RelativeDocumentMoniker": "SACDA.Model\\PLCVarConfigModel.cs",
+              "ToolTip": "C:\\C#\u57FA\u7840\\Test\\\u9879\u76EE\u4E94SCADA\u9879\u76EE\\SACDA\u55B7\u6D82\u9879\u76EE\\SACDA.Model\\PLCVarConfigModel.cs",
+              "RelativeToolTip": "SACDA.Model\\PLCVarConfigModel.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAACEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T01:40:37.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C#\u57FA\u7840\\Test\\\u9879\u76EE\u4E94SCADA\u9879\u76EE\\SACDA\u55B7\u6D82\u9879\u76EE\\SACDA\u55B7\u6D82\u9879\u76EE\\Program.cs",
+              "RelativeDocumentMoniker": "SACDA\u55B7\u6D82\u9879\u76EE\\Program.cs",
+              "ToolTip": "C:\\C#\u57FA\u7840\\Test\\\u9879\u76EE\u4E94SCADA\u9879\u76EE\\SACDA\u55B7\u6D82\u9879\u76EE\\SACDA\u55B7\u6D82\u9879\u76EE\\Program.cs",
+              "RelativeToolTip": "SACDA\u55B7\u6D82\u9879\u76EE\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T03:36:01.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PageSystemParameterSet.cs",
+              "DocumentMoniker": "C:\\C#\u57FA\u7840\\Test\\\u9879\u76EE\u4E94SCADA\u9879\u76EE\\SACDA\u55B7\u6D82\u9879\u76EE\\SACDA\u55B7\u6D82\u9879\u76EE\\Page\\PageSystemParameterSet.cs",
+              "RelativeDocumentMoniker": "SACDA\u55B7\u6D82\u9879\u76EE\\Page\\PageSystemParameterSet.cs",
+              "ToolTip": "C:\\C#\u57FA\u7840\\Test\\\u9879\u76EE\u4E94SCADA\u9879\u76EE\\SACDA\u55B7\u6D82\u9879\u76EE\\SACDA\u55B7\u6D82\u9879\u76EE\\Page\\PageSystemParameterSet.cs",
+              "RelativeToolTip": "SACDA\u55B7\u6D82\u9879\u76EE\\Page\\PageSystemParameterSet.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwCIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T03:35:05.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SystemEnum.cs",
+              "DocumentMoniker": "C:\\C#\u57FA\u7840\\Test\\\u9879\u76EE\u4E94SCADA\u9879\u76EE\\SACDA\u55B7\u6D82\u9879\u76EE\\SACDA.Heaper\\SystemEnum.cs",
+              "RelativeDocumentMoniker": "SACDA.Heaper\\SystemEnum.cs",
+              "ToolTip": "C:\\C#\u57FA\u7840\\Test\\\u9879\u76EE\u4E94SCADA\u9879\u76EE\\SACDA\u55B7\u6D82\u9879\u76EE\\SACDA.Heaper\\SystemEnum.cs",
+              "RelativeToolTip": "SACDA.Heaper\\SystemEnum.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwBUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T01:45:13.838Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

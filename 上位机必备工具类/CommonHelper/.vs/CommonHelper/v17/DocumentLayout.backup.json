@@ -1,0 +1,323 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C#\u57FA\u7840\\Test\\\u4E0A\u4F4D\u673A\u5FC5\u5907\u5DE5\u5177\u7C7B\\CommonHelper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A4E635A-67D1-4923-8E24-E7BFCCCD25D7}|CommonHelper\\CommonHelper.csproj|c:\\c#\u57FA\u7840\\test\\\u4E0A\u4F4D\u673A\u5FC5\u5907\u5DE5\u5177\u7C7B\\commonhelper\\commonhelper\\sqllitehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A4E635A-67D1-4923-8E24-E7BFCCCD25D7}|CommonHelper\\CommonHelper.csproj|solutionrelative:commonhelper\\sqllitehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A4E635A-67D1-4923-8E24-E7BFCCCD25D7}|CommonHelper\\CommonHelper.csproj|C:\\C#\u57FA\u7840\\Test\\\u4E0A\u4F4D\u673A\u5FC5\u5907\u5DE5\u5177\u7C7B\\CommonHelper\\commonhelper\\mysqlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A4E635A-67D1-4923-8E24-E7BFCCCD25D7}|CommonHelper\\CommonHelper.csproj|solutionrelative:commonhelper\\mysqlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A4E635A-67D1-4923-8E24-E7BFCCCD25D7}|CommonHelper\\CommonHelper.csproj|C:\\C#\u57FA\u7840\\Test\\\u4E0A\u4F4D\u673A\u5FC5\u5907\u5DE5\u5177\u7C7B\\CommonHelper\\commonhelper\\sqlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A4E635A-67D1-4923-8E24-E7BFCCCD25D7}|CommonHelper\\CommonHelper.csproj|solutionrelative:commonhelper\\sqlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A4E635A-67D1-4923-8E24-E7BFCCCD25D7}|CommonHelper\\CommonHelper.csproj|C:\\C#\u57FA\u7840\\Test\\\u4E0A\u4F4D\u673A\u5FC5\u5907\u5DE5\u5177\u7C7B\\CommonHelper\\commonhelper\\datavalidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A4E635A-67D1-4923-8E24-E7BFCCCD25D7}|CommonHelper\\CommonHelper.csproj|solutionrelative:commonhelper\\datavalidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u4E0A\u4F4D\u673A\u5FC5\u5907\u5DE5\u5177\u7C7B\\CommonHelper\\CommonHelper\\SQLiteHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A4E635A-67D1-4923-8E24-E7BFCCCD25D7}|CommonHelper\\CommonHelper.csproj|C:\\C#\u57FA\u7840\\Test\\\u4E0A\u4F4D\u673A\u5FC5\u5907\u5DE5\u5177\u7C7B\\CommonHelper\\commonhelper\\excelhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A4E635A-67D1-4923-8E24-E7BFCCCD25D7}|CommonHelper\\CommonHelper.csproj|solutionrelative:commonhelper\\excelhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A4E635A-67D1-4923-8E24-E7BFCCCD25D7}|CommonHelper\\CommonHelper.csproj|C:\\C#\u57FA\u7840\\Test\\\u4E0A\u4F4D\u673A\u5FC5\u5907\u5DE5\u5177\u7C7B\\CommonHelper\\commonhelper\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A4E635A-67D1-4923-8E24-E7BFCCCD25D7}|CommonHelper\\CommonHelper.csproj|solutionrelative:commonhelper\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A4E635A-67D1-4923-8E24-E7BFCCCD25D7}|CommonHelper\\CommonHelper.csproj|C:\\C#\u57FA\u7840\\Test\\\u4E0A\u4F4D\u673A\u5FC5\u5907\u5DE5\u5177\u7C7B\\CommonHelper\\commonhelper\\xmlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A4E635A-67D1-4923-8E24-E7BFCCCD25D7}|CommonHelper\\CommonHelper.csproj|solutionrelative:commonhelper\\xmlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A4E635A-67D1-4923-8E24-E7BFCCCD25D7}|CommonHelper\\CommonHelper.csproj|C:\\C#\u57FA\u7840\\Test\\\u4E0A\u4F4D\u673A\u5FC5\u5907\u5DE5\u5177\u7C7B\\CommonHelper\\commonhelper\\bytearray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A4E635A-67D1-4923-8E24-E7BFCCCD25D7}|CommonHelper\\CommonHelper.csproj|solutionrelative:commonhelper\\bytearray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A4E635A-67D1-4923-8E24-E7BFCCCD25D7}|CommonHelper\\CommonHelper.csproj|C:\\C#\u57FA\u7840\\Test\\\u4E0A\u4F4D\u673A\u5FC5\u5907\u5DE5\u5177\u7C7B\\CommonHelper\\commonhelper\\iniconfighelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A4E635A-67D1-4923-8E24-E7BFCCCD25D7}|CommonHelper\\CommonHelper.csproj|solutionrelative:commonhelper\\iniconfighelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A4E635A-67D1-4923-8E24-E7BFCCCD25D7}|CommonHelper\\CommonHelper.csproj|C:\\C#\u57FA\u7840\\Test\\\u4E0A\u4F4D\u673A\u5FC5\u5907\u5DE5\u5177\u7C7B\\CommonHelper\\commonhelper\\jsonhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A4E635A-67D1-4923-8E24-E7BFCCCD25D7}|CommonHelper\\CommonHelper.csproj|solutionrelative:commonhelper\\jsonhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A4E635A-67D1-4923-8E24-E7BFCCCD25D7}|CommonHelper\\CommonHelper.csproj|C:\\C#\u57FA\u7840\\Test\\\u4E0A\u4F4D\u673A\u5FC5\u5907\u5DE5\u5177\u7C7B\\CommonHelper\\commonhelper\\cpuinfohelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A4E635A-67D1-4923-8E24-E7BFCCCD25D7}|CommonHelper\\CommonHelper.csproj|solutionrelative:commonhelper\\cpuinfohelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A4E635A-67D1-4923-8E24-E7BFCCCD25D7}|CommonHelper\\CommonHelper.csproj|C:\\C#\u57FA\u7840\\Test\\\u4E0A\u4F4D\u673A\u5FC5\u5907\u5DE5\u5177\u7C7B\\CommonHelper\\commonhelper\\stringsecurityhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A4E635A-67D1-4923-8E24-E7BFCCCD25D7}|CommonHelper\\CommonHelper.csproj|solutionrelative:commonhelper\\stringsecurityhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A4E635A-67D1-4923-8E24-E7BFCCCD25D7}|CommonHelper\\CommonHelper.csproj|C:\\C#\u57FA\u7840\\Test\\\u4E0A\u4F4D\u673A\u5FC5\u5907\u5DE5\u5177\u7C7B\\CommonHelper\\commonhelper\\modbustcp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A4E635A-67D1-4923-8E24-E7BFCCCD25D7}|CommonHelper\\CommonHelper.csproj|solutionrelative:commonhelper\\modbustcp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A4E635A-67D1-4923-8E24-E7BFCCCD25D7}|CommonHelper\\CommonHelper.csproj|C:\\C#\u57FA\u7840\\Test\\\u4E0A\u4F4D\u673A\u5FC5\u5907\u5DE5\u5177\u7C7B\\CommonHelper\\commonhelper\\modbusrtu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A4E635A-67D1-4923-8E24-E7BFCCCD25D7}|CommonHelper\\CommonHelper.csproj|solutionrelative:commonhelper\\modbusrtu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A4E635A-67D1-4923-8E24-E7BFCCCD25D7}|CommonHelper\\CommonHelper.csproj|C:\\C#\u57FA\u7840\\Test\\\u4E0A\u4F4D\u673A\u5FC5\u5907\u5DE5\u5177\u7C7B\\CommonHelper\\commonhelper\\datagridviewstyle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A4E635A-67D1-4923-8E24-E7BFCCCD25D7}|CommonHelper\\CommonHelper.csproj|solutionrelative:commonhelper\\datagridviewstyle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A4E635A-67D1-4923-8E24-E7BFCCCD25D7}|CommonHelper\\CommonHelper.csproj|C:\\C#\u57FA\u7840\\Test\\\u4E0A\u4F4D\u673A\u5FC5\u5907\u5DE5\u5177\u7C7B\\CommonHelper\\commonhelper\\csvhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A4E635A-67D1-4923-8E24-E7BFCCCD25D7}|CommonHelper\\CommonHelper.csproj|solutionrelative:commonhelper\\csvhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A4E635A-67D1-4923-8E24-E7BFCCCD25D7}|CommonHelper\\CommonHelper.csproj|C:\\C#\u57FA\u7840\\Test\\\u4E0A\u4F4D\u673A\u5FC5\u5907\u5DE5\u5177\u7C7B\\CommonHelper\\commonhelper\\datatypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A4E635A-67D1-4923-8E24-E7BFCCCD25D7}|CommonHelper\\CommonHelper.csproj|solutionrelative:commonhelper\\datatypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SQLLiteHelper.cs",
+              "DocumentMoniker": "C:\\C#\u57FA\u7840\\Test\\\u4E0A\u4F4D\u673A\u5FC5\u5907\u5DE5\u5177\u7C7B\\CommonHelper\\CommonHelper\\SQLLiteHelper.cs",
+              "RelativeDocumentMoniker": "CommonHelper\\SQLLiteHelper.cs",
+              "ToolTip": "C:\\C#\u57FA\u7840\\Test\\\u4E0A\u4F4D\u673A\u5FC5\u5907\u5DE5\u5177\u7C7B\\CommonHelper\\CommonHelper\\SQLLiteHelper.cs",
+              "RelativeToolTip": "CommonHelper\\SQLLiteHelper.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T13:44:45.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SQLiteHelper.cs",
+              "DocumentMoniker": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u4E0A\u4F4D\u673A\u5FC5\u5907\u5DE5\u5177\u7C7B\\CommonHelper\\CommonHelper\\SQLiteHelper.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u4E0A\u4F4D\u673A\u5FC5\u5907\u5DE5\u5177\u7C7B\\CommonHelper\\CommonHelper\\SQLiteHelper.cs",
+              "ToolTip": "C:\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u4E0A\u4F4D\u673A\u5FC5\u5907\u5DE5\u5177\u7C7B\\CommonHelper\\CommonHelper\\SQLiteHelper.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\\u5B66\u4E60\u6587\u4EF6\\C#\u9879\u76EE\\\u4E0A\u4F4D\u673A\u5FC5\u5907\u5DE5\u5177\u7C7B\\CommonHelper\\CommonHelper\\SQLiteHelper.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T13:39:20.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CPUInfoHelper.cs",
+              "DocumentMoniker": "C:\\C#\u57FA\u7840\\Test\\\u4E0A\u4F4D\u673A\u5FC5\u5907\u5DE5\u5177\u7C7B\\CommonHelper\\CommonHelper\\CPUInfoHelper.cs",
+              "RelativeDocumentMoniker": "CommonHelper\\CPUInfoHelper.cs",
+              "ToolTip": "C:\\C#\u57FA\u7840\\Test\\\u4E0A\u4F4D\u673A\u5FC5\u5907\u5DE5\u5177\u7C7B\\CommonHelper\\CommonHelper\\CPUInfoHelper.cs",
+              "RelativeToolTip": "CommonHelper\\CPUInfoHelper.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAgwDIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T13:39:20.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FileHelper.cs",
+              "DocumentMoniker": "C:\\C#\u57FA\u7840\\Test\\\u4E0A\u4F4D\u673A\u5FC5\u5907\u5DE5\u5177\u7C7B\\CommonHelper\\CommonHelper\\FileHelper.cs",
+              "RelativeDocumentMoniker": "CommonHelper\\FileHelper.cs",
+              "ToolTip": "C:\\C#\u57FA\u7840\\Test\\\u4E0A\u4F4D\u673A\u5FC5\u5907\u5DE5\u5177\u7C7B\\CommonHelper\\CommonHelper\\FileHelper.cs",
+              "RelativeToolTip": "CommonHelper\\FileHelper.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAHUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T13:39:20.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IniConfigHelper.cs",
+              "DocumentMoniker": "C:\\C#\u57FA\u7840\\Test\\\u4E0A\u4F4D\u673A\u5FC5\u5907\u5DE5\u5177\u7C7B\\CommonHelper\\CommonHelper\\IniConfigHelper.cs",
+              "RelativeDocumentMoniker": "CommonHelper\\IniConfigHelper.cs",
+              "ToolTip": "C:\\C#\u57FA\u7840\\Test\\\u4E0A\u4F4D\u673A\u5FC5\u5907\u5DE5\u5177\u7C7B\\CommonHelper\\CommonHelper\\IniConfigHelper.cs",
+              "RelativeToolTip": "CommonHelper\\IniConfigHelper.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAFUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T13:39:20.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataValidate.cs",
+              "DocumentMoniker": "C:\\C#\u57FA\u7840\\Test\\\u4E0A\u4F4D\u673A\u5FC5\u5907\u5DE5\u5177\u7C7B\\CommonHelper\\CommonHelper\\DataValidate.cs",
+              "RelativeDocumentMoniker": "CommonHelper\\DataValidate.cs",
+              "ToolTip": "C:\\C#\u57FA\u7840\\Test\\\u4E0A\u4F4D\u673A\u5FC5\u5907\u5DE5\u5177\u7C7B\\CommonHelper\\CommonHelper\\DataValidate.cs",
+              "RelativeToolTip": "CommonHelper\\DataValidate.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T13:39:20.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ByteArray.cs",
+              "DocumentMoniker": "C:\\C#\u57FA\u7840\\Test\\\u4E0A\u4F4D\u673A\u5FC5\u5907\u5DE5\u5177\u7C7B\\CommonHelper\\CommonHelper\\ByteArray.cs",
+              "RelativeDocumentMoniker": "CommonHelper\\ByteArray.cs",
+              "ToolTip": "C:\\C#\u57FA\u7840\\Test\\\u4E0A\u4F4D\u673A\u5FC5\u5907\u5DE5\u5177\u7C7B\\CommonHelper\\CommonHelper\\ByteArray.cs",
+              "RelativeToolTip": "CommonHelper\\ByteArray.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T13:39:20.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExcelHelper.cs",
+              "DocumentMoniker": "C:\\C#\u57FA\u7840\\Test\\\u4E0A\u4F4D\u673A\u5FC5\u5907\u5DE5\u5177\u7C7B\\CommonHelper\\CommonHelper\\ExcelHelper.cs",
+              "RelativeDocumentMoniker": "CommonHelper\\ExcelHelper.cs",
+              "ToolTip": "C:\\C#\u57FA\u7840\\Test\\\u4E0A\u4F4D\u673A\u5FC5\u5907\u5DE5\u5177\u7C7B\\CommonHelper\\CommonHelper\\ExcelHelper.cs",
+              "RelativeToolTip": "CommonHelper\\ExcelHelper.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAGQDAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T13:39:20.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MySQLHelper.cs",
+              "DocumentMoniker": "C:\\C#\u57FA\u7840\\Test\\\u4E0A\u4F4D\u673A\u5FC5\u5907\u5DE5\u5177\u7C7B\\CommonHelper\\CommonHelper\\MySQLHelper.cs",
+              "RelativeDocumentMoniker": "CommonHelper\\MySQLHelper.cs",
+              "ToolTip": "C:\\C#\u57FA\u7840\\Test\\\u4E0A\u4F4D\u673A\u5FC5\u5907\u5DE5\u5177\u7C7B\\CommonHelper\\CommonHelper\\MySQLHelper.cs",
+              "RelativeToolTip": "CommonHelper\\MySQLHelper.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAYwE0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T13:39:20.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SQLHelper.cs",
+              "DocumentMoniker": "C:\\C#\u57FA\u7840\\Test\\\u4E0A\u4F4D\u673A\u5FC5\u5907\u5DE5\u5177\u7C7B\\CommonHelper\\CommonHelper\\SQLHelper.cs",
+              "RelativeDocumentMoniker": "CommonHelper\\SQLHelper.cs",
+              "ToolTip": "C:\\C#\u57FA\u7840\\Test\\\u4E0A\u4F4D\u673A\u5FC5\u5907\u5DE5\u5177\u7C7B\\CommonHelper\\CommonHelper\\SQLHelper.cs",
+              "RelativeToolTip": "CommonHelper\\SQLHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T13:39:20.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "XmlHelper.cs",
+              "DocumentMoniker": "C:\\C#\u57FA\u7840\\Test\\\u4E0A\u4F4D\u673A\u5FC5\u5907\u5DE5\u5177\u7C7B\\CommonHelper\\CommonHelper\\XmlHelper.cs",
+              "RelativeDocumentMoniker": "CommonHelper\\XmlHelper.cs",
+              "ToolTip": "C:\\C#\u57FA\u7840\\Test\\\u4E0A\u4F4D\u673A\u5FC5\u5907\u5DE5\u5177\u7C7B\\CommonHelper\\CommonHelper\\XmlHelper.cs",
+              "RelativeToolTip": "CommonHelper\\XmlHelper.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAwBQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T13:39:20.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StringSecurityHelper.cs",
+              "DocumentMoniker": "C:\\C#\u57FA\u7840\\Test\\\u4E0A\u4F4D\u673A\u5FC5\u5907\u5DE5\u5177\u7C7B\\CommonHelper\\CommonHelper\\StringSecurityHelper.cs",
+              "RelativeDocumentMoniker": "CommonHelper\\StringSecurityHelper.cs",
+              "ToolTip": "C:\\C#\u57FA\u7840\\Test\\\u4E0A\u4F4D\u673A\u5FC5\u5907\u5DE5\u5177\u7C7B\\CommonHelper\\CommonHelper\\StringSecurityHelper.cs",
+              "RelativeToolTip": "CommonHelper\\StringSecurityHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T13:39:20.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "JsonHelper.cs",
+              "DocumentMoniker": "C:\\C#\u57FA\u7840\\Test\\\u4E0A\u4F4D\u673A\u5FC5\u5907\u5DE5\u5177\u7C7B\\CommonHelper\\CommonHelper\\JsonHelper.cs",
+              "RelativeDocumentMoniker": "CommonHelper\\JsonHelper.cs",
+              "ToolTip": "C:\\C#\u57FA\u7840\\Test\\\u4E0A\u4F4D\u673A\u5FC5\u5907\u5DE5\u5177\u7C7B\\CommonHelper\\CommonHelper\\JsonHelper.cs",
+              "RelativeToolTip": "CommonHelper\\JsonHelper.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAgwDkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T13:39:20.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ModbusTCP.cs",
+              "DocumentMoniker": "C:\\C#\u57FA\u7840\\Test\\\u4E0A\u4F4D\u673A\u5FC5\u5907\u5DE5\u5177\u7C7B\\CommonHelper\\CommonHelper\\ModbusTCP.cs",
+              "RelativeDocumentMoniker": "CommonHelper\\ModbusTCP.cs",
+              "ToolTip": "C:\\C#\u57FA\u7840\\Test\\\u4E0A\u4F4D\u673A\u5FC5\u5907\u5DE5\u5177\u7C7B\\CommonHelper\\CommonHelper\\ModbusTCP.cs",
+              "RelativeToolTip": "CommonHelper\\ModbusTCP.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAANYBAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T13:39:20.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ModbusRTU.cs",
+              "DocumentMoniker": "C:\\C#\u57FA\u7840\\Test\\\u4E0A\u4F4D\u673A\u5FC5\u5907\u5DE5\u5177\u7C7B\\CommonHelper\\CommonHelper\\ModbusRTU.cs",
+              "RelativeDocumentMoniker": "CommonHelper\\ModbusRTU.cs",
+              "ToolTip": "C:\\C#\u57FA\u7840\\Test\\\u4E0A\u4F4D\u673A\u5FC5\u5907\u5DE5\u5177\u7C7B\\CommonHelper\\CommonHelper\\ModbusRTU.cs",
+              "RelativeToolTip": "CommonHelper\\ModbusRTU.cs",
+              "ViewState": "AQIAAH0CAAAAAAAAAAAIwBsDAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T13:39:20.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DataGridViewStyle.cs",
+              "DocumentMoniker": "C:\\C#\u57FA\u7840\\Test\\\u4E0A\u4F4D\u673A\u5FC5\u5907\u5DE5\u5177\u7C7B\\CommonHelper\\CommonHelper\\DataGridViewStyle.cs",
+              "RelativeDocumentMoniker": "CommonHelper\\DataGridViewStyle.cs",
+              "ToolTip": "C:\\C#\u57FA\u7840\\Test\\\u4E0A\u4F4D\u673A\u5FC5\u5907\u5DE5\u5177\u7C7B\\CommonHelper\\CommonHelper\\DataGridViewStyle.cs",
+              "RelativeToolTip": "CommonHelper\\DataGridViewStyle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T13:39:20.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CsvHelper.cs",
+              "DocumentMoniker": "C:\\C#\u57FA\u7840\\Test\\\u4E0A\u4F4D\u673A\u5FC5\u5907\u5DE5\u5177\u7C7B\\CommonHelper\\CommonHelper\\CsvHelper.cs",
+              "RelativeDocumentMoniker": "CommonHelper\\CsvHelper.cs",
+              "ToolTip": "C:\\C#\u57FA\u7840\\Test\\\u4E0A\u4F4D\u673A\u5FC5\u5907\u5DE5\u5177\u7C7B\\CommonHelper\\CommonHelper\\CsvHelper.cs",
+              "RelativeToolTip": "CommonHelper\\CsvHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T13:39:20.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DataTypeEnum.cs",
+              "DocumentMoniker": "C:\\C#\u57FA\u7840\\Test\\\u4E0A\u4F4D\u673A\u5FC5\u5907\u5DE5\u5177\u7C7B\\CommonHelper\\CommonHelper\\DataTypeEnum.cs",
+              "RelativeDocumentMoniker": "CommonHelper\\DataTypeEnum.cs",
+              "ToolTip": "C:\\C#\u57FA\u7840\\Test\\\u4E0A\u4F4D\u673A\u5FC5\u5907\u5DE5\u5177\u7C7B\\CommonHelper\\CommonHelper\\DataTypeEnum.cs",
+              "RelativeToolTip": "CommonHelper\\DataTypeEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T13:39:20.029Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

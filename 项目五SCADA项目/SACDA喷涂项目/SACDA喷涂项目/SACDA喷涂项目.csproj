@@ -1,0 +1,60 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="IoTClient" Version="1.0.42" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="8.0.1" />
+    <PackageReference Include="MiniExcel" Version="1.41.4" />
+    <PackageReference Include="SunnyUI" Version="3.7.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SACDA.DAL\SACDA.DAL.csproj" />
+    <ProjectReference Include="..\SACDA.Heaper\SACDA.Heaper.csproj" />
+    <ProjectReference Include="..\SACDA.Model\SACDA.Model.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Resources\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Global.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Page\PageEquipmentMonitr2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Page\PageEquipmentMonitr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Update="UserControl\UserVarCurrentValue.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControl\UserSetValue.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>
